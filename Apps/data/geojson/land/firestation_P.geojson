@@ -1,0 +1,1703 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "577452668", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 98.672018, 3.589172 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "702191760", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Fighter (Pemadam Kebakaran Sagulung)", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.930500, 1.052860 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "702355108", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Fighter Pel.Sekupang", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.928000, 1.125760 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "702684977", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pemadam Kebakaran Sei.Panas", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 104.027830, 1.135950 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "702710893", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Fighter Duriangkang", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 104.033000, 1.088810 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "805092881", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Airport Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 106.877319, -6.282971 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1036844887", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pemadam Kebakaran Bogor", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 106.815838, -6.620395 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1248466744", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Kuala Kencana Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 136.856793, -4.406055 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1264701846", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pemadam Kebakaran", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 95.297953, 5.525782 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1359275998", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 106.932927, -6.222152 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1441079285", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Yayasan Pemadam Kebakaran", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 112.924329, 0.863383 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1588591607", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pemadam Kebakaran", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 117.138660, -0.510732 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1675453095", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pos Pemadam Kebakaran Jati Baru", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 106.811454, -6.181752 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1682900987", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pemadam Kebakaran Kebon Pala", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 106.880961, -6.262797 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1691636695", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pos Pemadam Kebakaran Krendang", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 106.804207, -6.148175 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1694360389", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Jembatan", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.942858, -10.155910 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1766466382", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 112.164542, -8.099948 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1783244198", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 107.049661, -6.439905 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1845025815", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "PEMADAM KEBAKARAN KOTA MATARAM", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 116.117762, -8.588039 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1892851699", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pemadam Kebakaran", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 114.366628, -3.000661 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1928497721", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 119.439323, -5.141968 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1934657810", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Posko DAMKAR Kab. Tanah Datar", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 100.594530, -0.455871 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1959945697", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Kantor Badan Penangulangan Bencana", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 116.988707, -0.409062 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1999489213", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.357792, -2.530084 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2027716350", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "PMK Sawangan", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 106.745930, -6.405297 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2029490556", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "PMK Lumajang", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 113.226551, -8.133964 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2049410245", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Purwokerto Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 109.236583, -7.408364 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2111634861", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.440687, 0.580313 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1603441595", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 100.551200, 5.365865 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "847937095", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 102.543699, 2.270549 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1792945448", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bandar Seri Begawan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 114.937153, 4.893842 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1804838184", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba dan Penyelamat Sandakan", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 118.092361, 5.864499 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "280429458", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Station Subang Jaya", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.584756, 3.073751 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "679650258", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Clementi Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.761689, 1.321705 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1576881231", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba dan Penyelamat KLIA", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.678538, 2.792457 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1119545029", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba Taman Desa", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.676702, 3.097561 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "598841937", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba Sungai Petani", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 100.485366, 5.639961 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1547515546", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tuas Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.661443, 1.319795 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "310463890", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.744236, 3.090030 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "966690141", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Boon Lay Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.710976, 1.341814 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1719131925", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.404058, 1.484755 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1883550657", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba Langkawi", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 99.851307, 6.328528 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1717393805", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.626332, 1.538156 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "671202380", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Alexandra Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.802939, 1.288592 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1544451703", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.640236, 3.093158 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1818158658", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.385280, 3.543903 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "310464156", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.704843, 3.137880 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1559451534", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba dan Penyelamat Taman Tun Dr Ismail", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.627705, 3.139750 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1681212499", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "FIRE STATION BUKIT UBI", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.321060, 3.812260 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "580082333", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba Putrajaya", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.673749, 2.932457 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1681212500", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "FIRE STATION INDERA MAHKOTA", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.285610, 3.821610 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1841560474", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 114.335394, 4.614067 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1669789856", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba & Penyelamat Damansara", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.623530, 3.125829 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1804658556", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba & Penyelamat Langkawi", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 99.848923, 6.321197 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1748129370", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba Slim River", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 101.403978, 3.830805 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "272992586", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 102.813712, 2.509449 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2155586786", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba Kemaman", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.419029, 4.219403 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "951243862", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.671423, 1.640890 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1713894140", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba Pontian", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 103.387020, 1.491952 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "333695231", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balai Bomba Muar", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 102.572233, 2.052960 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1826548886", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bomba Yan", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 100.383846, 5.836565 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2147483647", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Koh Pich Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 104.942834, 11.550463 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2147483647", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Airport Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 104.838055, 11.545447 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1376405960", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "PROVINCIAL GOVERNOR'S OFFICE", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 104.783310, 10.990597 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1792774862", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Phnom Penh Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 104.918508, 11.547825 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "24797683", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.995639, 14.548540 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "25583879", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pasay Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.004251, 14.549307 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "25677825", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Donsol Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.596812, 12.906491 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "38445534", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.110439, 14.651123 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255049912", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "La Loma Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.994650, 14.631833 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255050411", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Boat 2", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.085479, 14.588860 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255051921", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "San Lazaro Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.982388, 14.612961 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255053791", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Paco Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.988258, 14.580601 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255054166", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Algeciras Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.992248, 14.617009 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255055042", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sampaloc Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.994970, 14.607750 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255057444", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Parang Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.108360, 14.657581 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255058032", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 8", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.033342, 14.566938 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255058345", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balintawak Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.000979, 14.656363 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255058364", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bacood Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.019981, 14.591111 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255058570", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Baclaran Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.997001, 14.531420 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255058733", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Kapitolyo Substation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.059631, 14.571431 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255058734", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 9", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.060253, 14.562875 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255058946", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Hulong Duhat Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.942230, 14.678410 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255060299", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Makati Fire Station 10", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.063504, 14.549065 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255060411", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Philacor Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.039451, 14.455691 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255060861", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire District 4", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.063524, 14.579310 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255061210", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sta. Ana Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.007327, 14.580267 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255061236", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Maypajo Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.973678, 14.637741 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255061405", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "IBP Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.095951, 14.690626 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255061613", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Arroceros Fire Sub Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.981885, 14.593193 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255061751", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Gagalangin Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.973282, 14.625343 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255062128", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Kalentong Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.024642, 14.590170 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255063060", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Agham Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.038465, 14.651234 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255063322", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bf Homes Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.019531, 14.732621 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255063358", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Intramuros Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.972317, 14.592289 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255063537", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Galas Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.009174, 14.611973 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255063557", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bahay Toro Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.021179, 14.664940 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255063814", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Edsa Central Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.053604, 14.577876 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255064124", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 7", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.013418, 14.574135 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255064163", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Santolan Substation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.085956, 14.617650 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255064208", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 4", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.005819, 14.560312 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255064632", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 5", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.007390, 14.568283 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255064996", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Caloocan City Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.974670, 14.657911 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255065305", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Municipal Fire Substation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.070449, 14.528821 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255065828", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Dagat-dagatan Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.954931, 14.646687 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255065891", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "La Suerte Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.035458, 14.504856 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255065908", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pillar Village Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.008270, 14.416911 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255065954", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Malacañang Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.992657, 14.593034 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255066037", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tanduay Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.989621, 14.598349 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255066041", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Mandaluyong City Central  Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.033201, 14.577289 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255066673", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 3", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.007181, 14.550602 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255067241", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Malibay  Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.009666, 14.533651 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255067513", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bayan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.951153, 14.658079 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255067576", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 2", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.012004, 14.541317 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255067815", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "La Huerta  Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.991343, 14.500258 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255068100", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Manuela  Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.975005, 14.454477 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255068441", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 6", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.024040, 14.571890 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255069080", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Quezon City Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.052116, 14.646760 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255069134", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Frisco Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.018836, 14.654712 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255069690", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "San Nicolas Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.970310, 14.596755 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255070718", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bilibid National Prison Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.029394, 14.381661 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255071051", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "San Juan City Fire Station 6", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.040347, 14.608541 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255071481", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Daang-hari Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.941162, 14.668570 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255071556", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bf Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.076820, 14.689710 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255071824", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Station 1", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.045700, 14.561901 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255072237", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Chiefs & Fire Fighters Group", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.021621, 14.642291 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "255072461", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fairview Fire Sub-station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.073005, 14.707358 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "308729089", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Lanang Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.644065, 7.103685 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "318007402", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Filipino Chinese Fire Fighter Foundation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.614970, 7.076803 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "339294427", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "FCYMAA Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.412342, 14.285235 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "355114245", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Lapu Lapu City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.949023, 10.310410 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "355114259", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Mandaue Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.942322, 10.324342 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "360204449", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pacita Fire Substation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.062703, 14.345015 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "378655876", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Santa Rosa City Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.110505, 14.315783 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "410401120", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "FIRE STATION", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.415695, 10.479385 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "413986555", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Mabolo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.915776, 10.312382 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "413986566", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Phina Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.891902, 10.297898 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "417246869", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Hermosa Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.476123, 14.839615 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "417322068", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "B. F. Home Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.027090, 14.445517 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "421782032", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Meycauayan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.957799, 14.736410 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "427881305", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Talomo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.573747, 7.059901 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "429492562", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Batong Malake Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.241882, 14.171584 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "429674163", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.992530, 15.791376 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "457312962", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.170552, 6.114597 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "457862550", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sariaya Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.528100, 13.964380 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "465242230", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Liliw Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.433701, 14.133753 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "469105046", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 118.736478, 9.738929 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "534044945", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Marilao Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.953734, 14.754898 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "555874054", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.889192, 14.435702 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "558909237", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balagtas Fire Dept", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.908069, 14.816935 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "582060391", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tanauan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.018454, 11.110585 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "582962677", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Obando Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.935317, 14.711687 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "582975922", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Polo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.945874, 14.707875 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "602898030", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.777427, 13.237304 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "610747000", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.357053, 11.678979 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "622397752", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Quezon City Fire Station 3", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.076680, 14.610075 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "625537828", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.572799, 10.694143 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "631223697", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.913777, 13.884041 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "649044263", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Kalibo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.366838, 11.708967 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "650001643", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Gen. Trias Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.880280, 14.386832 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "650005383", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.991458, 14.486533 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "654133087", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire and Rescue Center", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.025341, 14.509372 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "662714402", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Gen. Trias Fire Sub-Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.902789, 14.305037 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "669354964", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Dau FireStation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.586119, 15.181712 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "675541404", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Chamber Volunteer Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.948058, 10.661666 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "676637614", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Amity Volunteer Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.956699, 10.672169 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "678983470", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Ubujan Fire SubStation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.860027, 9.686185 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "683553343", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.956310, 10.655464 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "685055319", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Paete Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.478944, 14.363967 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "746686401", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Substation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.611215, 11.003956 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "763926600", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Guagua Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.621262, 14.983750 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "794586283", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.605660, 11.012203 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "796661856", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Siniloan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.445910, 14.421438 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "806747467", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.527550, 15.180470 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "814491324", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Angeles Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.586934, 15.137316 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "814618137", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Telabastagan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.601418, 15.120102 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "831112475", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Molo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.544368, 10.695884 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "832211824", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Jaro Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.557478, 10.725340 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "875797594", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sta. Maria Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.961789, 14.819359 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "890411485", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Malolos City Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.811269, 14.843640 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "898465437", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Argao Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.600359, 9.882030 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "909921966", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Silang Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.970395, 14.223263 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "915274598", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Mendez Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.904601, 14.131084 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "923902437", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Maragondon Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.735606, 14.275713 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "924010276", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tiaong Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.323332, 13.958784 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "924127344", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Amadeo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.922967, 14.167674 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "925986471", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "San Isidro Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.108944, 14.635796 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "926915724", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.700393, 15.024650 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "926961629", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "San Fernando Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.694119, 15.027776 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "931621467", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Alfonso Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.855525, 14.136196 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "934864708", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Chief Boy Valentine", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.631655, 14.075644 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "937408365", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Naic Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.771672, 14.322618 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "959119536", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Silay Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.975157, 10.801220 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "992113657", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Minosa Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.520110, 15.182587 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "995654773", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Rodriguez Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.136448, 14.730528 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "997989583", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.493739, 9.792042 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1002447779", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Lipa City FireStation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.156812, 13.941699 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1017279667", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cainta Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.114964, 14.579479 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1024142998", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.040702, 14.379866 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1044463919", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.907781, 14.297153 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1099095312", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Lucena City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.613114, 13.927204 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1126016853", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "BFP", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.641519, 11.104586 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1126446134", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Arayat Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.771488, 15.154004 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1137264545", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Dept", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.637487, 12.499548 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1160408217", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.843172, 10.526479 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1170096428", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.069379, 11.280571 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1215068273", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 118.747937, 9.762846 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1231890249", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Mintal Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.501466, 7.090390 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1232369741", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Toril Volunteer Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.495901, 7.012659 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1233277535", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Calinan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.452105, 7.190199 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1238161438", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Igacos Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.709644, 7.072546 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1240464258", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Vigan City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.386749, 17.574775 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1240959444", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bucana SIR Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.603309, 7.060274 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1243084160", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Quezon City Fil-Chi Volunteer Fire Brigade Ass'n", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.017719, 14.615719 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1244450474", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Victoria Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.328531, 14.227836 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1247887048", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bunawan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.642559, 7.235548 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1249921467", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Davao Volunteer Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.624155, 7.075792 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1252307778", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Toril Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.499151, 7.019138 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1255480843", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.461263, 14.866674 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1261587253", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tagum Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.814743, 7.443558 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1270332391", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Greenhills Fire Sub Station 4", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.050400, 14.603095 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1283643641", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pagsanjan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.455856, 14.272319 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1294372849", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "LISP 2 Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.146796, 14.192844 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1296939295", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Olongapo City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.287188, 14.842832 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1303339103", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.615679, 7.109002 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1305136488", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.708311, 7.584930 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1305977588", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.593685, 7.063557 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1315670262", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Majayjay Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.470545, 14.146908 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1319484276", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Hagonoy Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.734074, 14.835802 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1319873960", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pateros Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.073529, 14.551636 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1321508168", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Buru-On Fire Sub Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.168758, 8.187361 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1327031056", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Dapitan City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.422038, 8.659483 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1327069152", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cabadbaran City Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.534683, 9.120574 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1329672584", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.909368, 15.336668 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1330534426", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bfp - Plaridel", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.723844, 8.608101 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1338195294", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cabanatuan City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.965549, 15.488064 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1339450529", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "murcia fire department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.040646, 10.605895 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1341215525", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.956427, 14.686076 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1346507587", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cabanatuan City Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.942797, 15.444663 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1353285365", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Malaybalay City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.127627, 8.153704 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1382370911", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sorsogon Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.002768, 12.968928 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1393209636", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Angat Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.028451, 14.919379 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1399423424", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "GMA Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.007037, 14.295929 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1416167227", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Makilala Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.088431, 6.959275 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1416399295", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pikit Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.677358, 7.057465 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1416860100", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Midsayap Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.532383, 7.189142 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1417064416", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cotabato Filipino - Chinese Volunteer Fire Briga", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.250841, 7.223449 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1417984977", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bfp - Armm", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.241348, 7.200174 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1423835470", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Central Quiapo Filipino - Chinese Volunteer Fire", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.982273, 14.597616 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1449245381", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.068338, 12.353044 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1499807442", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "PHILPHOS Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.433921, 10.899450 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1507551436", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Floridablanca Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.528326, 14.974941 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1565290324", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.236513, 8.228618 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1569429111", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection - Kaputian", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.725315, 6.965663 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1612641959", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.855150, 9.639166 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1653324987", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Paranaque Filipino-Chinese Fire Volunteer Statio", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.999539, 14.476483 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1654223277", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.721629, 17.622685 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1674606637", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.889307, 10.310560 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1674606651", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cebu Fil-Chinese Volunteers Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.889329, 10.310655 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1676836891", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.570462, 15.290095 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1708017371", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Munoz Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.903493, 15.713641 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1722586400", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sta. Mesa Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.008521, 14.601711 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1738711366", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.457770, 6.833136 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1740467898", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Legaspi Volunteer Fire Brigade Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.750123, 13.142001 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1758067592", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tubigon Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.960815, 9.944108 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1761870576", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.267527, 12.575562 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1763096887", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Dagupan City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.342112, 16.041275 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1770348170", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Morong Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.236894, 14.506576 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1773355530", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Gandara Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.810044, 12.012360 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1775759591", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Kidapawan City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.091904, 7.008235 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1804862440", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Po5totan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.637760, 10.942656 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1815473491", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tupi Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.950361, 6.332698 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1815475323", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.844194, 6.501765 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1817700539", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Granada Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.034339, 10.666214 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1833398990", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "fire station(bullard)", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.776143, 6.424249 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1866786591", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Manaoag Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.486690, 16.043700 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1886870427", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.651801, 8.483597 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1887849723", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cogon Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.651213, 8.479146 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1910635169", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sanchez Mira Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.234345, 18.560596 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1910810689", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.755201, 11.584947 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1910810699", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.755201, 11.584905 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "1920968874", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.032305, 14.681898 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2006371953", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "BFP-ILOILO", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.572746, 10.694029 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2006371987", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Federation Volunteer", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.564936, 10.696391 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2006372591", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Jamindan Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.509317, 11.409634 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2081855744", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.824158, 10.727945 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2083943834", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "initao fire station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.303482, 8.496947 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2083943837", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "manticao fire station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.288338, 8.404360 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2099051144", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Naawan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.290003, 8.433858 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2102765746", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.165989, 7.575989 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2110545812", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.744942, 16.026790 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2110740233", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.124561, 14.271402 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2111378749", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Lugait Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.259306, 8.342616 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2117326444", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.063448, 6.220942 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2118843280", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.298179, 6.688179 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2126334903", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Tetuan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.090879, 6.917540 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2133836289", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Guiwan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.091993, 6.928768 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2151235926", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Malolos Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.820687, 14.864387 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2152750832", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Padada Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.342395, 6.639263 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2172999333", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pastrana Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.886704, 11.136636 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2177941135", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bangar Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.423065, 16.894032 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2179277741", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Palo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.990189, 11.160432 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2179404041", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Municipal Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.843457, 11.421262 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2189917370", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Digos City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.356393, 6.744834 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2192227946", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.591287, 16.412325 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2192676928", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 126.137067, 7.550777 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2198219695", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Nagcarlan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.415114, 14.132921 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2199778314", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 119.931755, 15.626615 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2203952221", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.979867, 9.334011 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2208106121", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Techno Park", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.057513, 14.261412 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2243360565", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Firestation Subic", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.234196, 14.876980 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2265779716", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.538518, 13.963623 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2270362459", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.342568, 13.994485 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2295398460", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Aluba Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.646352, 8.455873 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2308363001", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.008189, 14.580191 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2309796084", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Teresa Fire Station (Bureau of Fire Protection)", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.208215, 14.558813 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2321437913", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Brgy. Mactan Fire Sub-Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.011047, 10.308878 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2321605392", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Brgy. 300 Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.977925, 14.602565 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2356824206", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bancasi Butuan Airport Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.480537, 8.948780 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2364029082", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Butuan City Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.544360, 8.949358 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2371638691", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.718760, 15.064988 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2376753196", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.342251, 8.589996 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2411911064", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Antipolo City Fire Department", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.175982, 14.583862 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2419959914", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Cauayan Airport Fire & Rescue", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.753605, 16.927511 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2427811346", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.719666, 11.166230 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2433216608", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Brgy. 299 Firestation", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.977860, 14.603629 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2438839683", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "New Millenium Fire & Rescue Volunteers Assoc., I", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.003316, 14.635589 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2450360730", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "New Millenium Fire & Rescue Volunteers Assoc., I", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.024987, 14.650635 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2471703204", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Virac Airport Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.211772, 13.579024 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2478725667", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Old Paranaque Fire Volunteer", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.995796, 14.513225 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2486244367", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Balingasag Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.775544, 8.743686 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2514079733", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.218552, 16.651024 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2514746200", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.429193, 14.200322 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2518107786", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bato Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.297265, 13.609417 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2518552226", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "San Andres Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.097910, 13.598840 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2518552236", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Virac Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.236496, 13.584756 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2536185571", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 122.477592, 10.691587 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2542147936", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bureau of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.038323, 11.063423 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2552257216", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "BFP Regional Office 2", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.723951, 17.622764 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2615862379", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Sta. Margarita Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.659048, 12.037763 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2615864327", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Calbayog Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.597027, 12.072988 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2617594256", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "SF Direct", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.098807, 14.640100 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2643005171", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Borongan City Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.432386, 11.608387 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2644986922", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Guinobatan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.599136, 13.191562 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2669865853", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.074380, 14.641538 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2670213094", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pigcawayan Bureau Of Fire Protection", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.424623, 7.277572 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2675046095", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.072318, 14.581789 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2681820641", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Pagsanghan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.720168, 11.967024 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2697153186", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.533651, 14.673175 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2700712074", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.594514, 14.562401 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2720361082", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Calauan Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.314806, 14.146610 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2770190022", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bauang Municipal Fire Dept.", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.330031, 16.521083 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2782542627", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 125.051165, 10.297989 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2798723396", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Bontoc Central Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.978099, 17.087869 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2814569438", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "BARUGO BUREAU OF FIRE PROTECTION (BFP) STATION", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 124.737228, 11.325723 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2838870131", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "sta.cruz volunteer fire brigade Inc.", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.980446, 14.601605 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2869799407", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "LISP Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.101099, 14.238629 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2872808107", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Rodriguez Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 121.136026, 14.731059 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2880817429", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Dagupan Panda Fire Volunteer", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 120.350000, 16.046222 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2894677463", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Toledo Fire Station", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.634279, 10.375355 ] } }
+,
+{ "type": "Feature", "properties": { "osm_id": "2900161607", "lastchange": "", "code": "2002", "fclass": "fire_station", "name": "Filipino-Chinese Fire Brigade", "name_en": "", "source": "" }, "geometry": { "type": "Point", "coordinates": [ 123.294971, 9.317606 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3", "osm_id": "549672039", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.515643, 33.769097 ] } }
+,
+{ "type": "Feature", "properties": { "code": "28", "osm_id": "765589842", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.470796, 33.525942 ] } }
+,
+{ "type": "Feature", "properties": { "code": "45", "osm_id": "777408812", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.370006, 33.308040 ] } }
+,
+{ "type": "Feature", "properties": { "code": "78", "osm_id": "1239551237", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.425970, 33.565205 ] } }
+,
+{ "type": "Feature", "properties": { "code": "151", "osm_id": "1423755961", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.708383, 33.814947 ] } }
+,
+{ "type": "Feature", "properties": { "code": "156", "osm_id": "1423755962", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.708383, 33.814947 ] } }
+,
+{ "type": "Feature", "properties": { "code": "162", "osm_id": "1423756045", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.517972, 33.323736 ] } }
+,
+{ "type": "Feature", "properties": { "code": "164", "osm_id": "1423756046", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.525990, 33.288470 ] } }
+,
+{ "type": "Feature", "properties": { "code": "166", "osm_id": "1423756049", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.491391, 33.284100 ] } }
+,
+{ "type": "Feature", "properties": { "code": "167", "osm_id": "1423756047", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.608937, 33.326431 ] } }
+,
+{ "type": "Feature", "properties": { "code": "210", "osm_id": "1423756312", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.034828, 33.661873 ] } }
+,
+{ "type": "Feature", "properties": { "code": "217", "osm_id": "1423756309", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.973539, 33.672626 ] } }
+,
+{ "type": "Feature", "properties": { "code": "220", "osm_id": "1423756310", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.910405, 33.690762 ] } }
+,
+{ "type": "Feature", "properties": { "code": "223", "osm_id": "1423756307", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.123443, 33.616635 ] } }
+,
+{ "type": "Feature", "properties": { "code": "228", "osm_id": "1423756311", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.164453, 33.578869 ] } }
+,
+{ "type": "Feature", "properties": { "code": "237", "osm_id": "1423756650", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.645853, 33.239052 ] } }
+,
+{ "type": "Feature", "properties": { "code": "239", "osm_id": "1423756645", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.656714, 33.209888 ] } }
+,
+{ "type": "Feature", "properties": { "code": "240", "osm_id": "1423756654", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.763067, 33.250442 ] } }
+,
+{ "type": "Feature", "properties": { "code": "241", "osm_id": "1423756658", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.820453, 33.151063 ] } }
+,
+{ "type": "Feature", "properties": { "code": "242", "osm_id": "1423756308", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.119554, 33.605747 ] } }
+,
+{ "type": "Feature", "properties": { "code": "243", "osm_id": "1423756665", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.564832, 33.215636 ] } }
+,
+{ "type": "Feature", "properties": { "code": "244", "osm_id": "1423756667", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.564888, 33.215553 ] } }
+,
+{ "type": "Feature", "properties": { "code": "245", "osm_id": "1423756677", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.552082, 33.241356 ] } }
+,
+{ "type": "Feature", "properties": { "code": "246", "osm_id": "1423756678", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.619025, 33.145172 ] } }
+,
+{ "type": "Feature", "properties": { "code": "298", "osm_id": "1423757359", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.874236, 33.879613 ] } }
+,
+{ "type": "Feature", "properties": { "code": "299", "osm_id": "1423757360", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.804936, 33.864046 ] } }
+,
+{ "type": "Feature", "properties": { "code": "300", "osm_id": "1423757361", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.815770, 33.874216 ] } }
+,
+{ "type": "Feature", "properties": { "code": "302", "osm_id": "1423757362", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.834850, 33.866518 ] } }
+,
+{ "type": "Feature", "properties": { "code": "303", "osm_id": "1423757363", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.748025, 33.850824 ] } }
+,
+{ "type": "Feature", "properties": { "code": "304", "osm_id": "1423757364", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.741827, 33.828922 ] } }
+,
+{ "type": "Feature", "properties": { "code": "305", "osm_id": "1423757365", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.721191, 33.866742 ] } }
+,
+{ "type": "Feature", "properties": { "code": "306", "osm_id": "1423757366", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.732639, 33.787970 ] } }
+,
+{ "type": "Feature", "properties": { "code": "307", "osm_id": "1423757375", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.939787, 33.830191 ] } }
+,
+{ "type": "Feature", "properties": { "code": "308", "osm_id": "1423757379", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.807157, 33.907319 ] } }
+,
+{ "type": "Feature", "properties": { "code": "310", "osm_id": "1423757385", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.931091, 33.889157 ] } }
+,
+{ "type": "Feature", "properties": { "code": "311", "osm_id": "1423757380", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.736913, 33.894458 ] } }
+,
+{ "type": "Feature", "properties": { "code": "313", "osm_id": "1423757376", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.915510, 33.844689 ] } }
+,
+{ "type": "Feature", "properties": { "code": "314", "osm_id": "1423757367", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.772994, 33.862157 ] } }
+,
+{ "type": "Feature", "properties": { "code": "315", "osm_id": "1423757383", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.978030, 33.869788 ] } }
+,
+{ "type": "Feature", "properties": { "code": "316", "osm_id": "1423757381", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.778132, 33.894764 ] } }
+,
+{ "type": "Feature", "properties": { "code": "319", "osm_id": "1423757371", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.886250, 33.892287 ] } }
+,
+{ "type": "Feature", "properties": { "code": "320", "osm_id": "1423757369", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.850806, 33.887326 ] } }
+,
+{ "type": "Feature", "properties": { "code": "321", "osm_id": "1423757368", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.883096, 33.874629 ] } }
+,
+{ "type": "Feature", "properties": { "code": "324", "osm_id": "1423757377", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.829794, 33.894237 ] } }
+,
+{ "type": "Feature", "properties": { "code": "326", "osm_id": "1423757373", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.885124, 33.846355 ] } }
+,
+{ "type": "Feature", "properties": { "code": "328", "osm_id": "1423757378", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.829100, 33.878295 ] } }
+,
+{ "type": "Feature", "properties": { "code": "329", "osm_id": "1423757370", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.902202, 33.881510 ] } }
+,
+{ "type": "Feature", "properties": { "code": "330", "osm_id": "1423757372", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.864765, 33.858714 ] } }
+,
+{ "type": "Feature", "properties": { "code": "331", "osm_id": "1423757374", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.852739, 33.807609 ] } }
+,
+{ "type": "Feature", "properties": { "code": "439", "osm_id": "1423758108", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.384874, 33.205605 ] } }
+,
+{ "type": "Feature", "properties": { "code": "442", "osm_id": "1423758109", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.384874, 33.205605 ] } }
+,
+{ "type": "Feature", "properties": { "code": "454", "osm_id": "1423758209", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.441374, 33.021404 ] } }
+,
+{ "type": "Feature", "properties": { "code": "456", "osm_id": "1423758211", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.431653, 33.009322 ] } }
+,
+{ "type": "Feature", "properties": { "code": "457", "osm_id": "1423758210", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.441374, 33.021404 ] } }
+,
+{ "type": "Feature", "properties": { "code": "459", "osm_id": "1423758213", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.480842, 33.065011 ] } }
+,
+{ "type": "Feature", "properties": { "code": "460", "osm_id": "1423758212", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.469956, 33.014600 ] } }
+,
+{ "type": "Feature", "properties": { "code": "464", "osm_id": "1423758214", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.440909, 33.043634 ] } }
+,
+{ "type": "Feature", "properties": { "code": "485", "osm_id": "1423758396", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.529100, 33.798974 ] } }
+,
+{ "type": "Feature", "properties": { "code": "487", "osm_id": "1423758397", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.434410, 33.898702 ] } }
+,
+{ "type": "Feature", "properties": { "code": "488", "osm_id": "1423758399", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.479385, 33.767093 ] } }
+,
+{ "type": "Feature", "properties": { "code": "489", "osm_id": "1423758398", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.499879, 33.845209 ] } }
+,
+{ "type": "Feature", "properties": { "code": "490", "osm_id": "1423758401", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.529100, 33.798974 ] } }
+,
+{ "type": "Feature", "properties": { "code": "491", "osm_id": "1423758400", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.590557, 33.800606 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1494", "osm_id": "1423761216", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.443274, 33.524956 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1495", "osm_id": "1423761218", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.479929, 33.546435 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1496", "osm_id": "1423761217", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.475856, 33.505271 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1497", "osm_id": "1423761219", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.416477, 33.489131 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1503", "osm_id": "1423761215", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.470801, 33.525864 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1584", "osm_id": "1423776650", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.434675, 33.163112 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1585", "osm_id": "1423776651", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.429482, 33.126504 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1645", "osm_id": "1423777050", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.517504, 33.123034 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1646", "osm_id": "1423777049", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.478617, 33.151947 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1649", "osm_id": "1423777052", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.478617, 33.151947 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1655", "osm_id": "1423777051", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.459369, 33.107257 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1667", "osm_id": "1423777236", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.660154, 33.416090 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1668", "osm_id": "1423777234", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.664626, 33.406619 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1669", "osm_id": "1423777241", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.723676, 33.383567 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1670", "osm_id": "1423777253", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.809477, 33.362544 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1671", "osm_id": "1423777247", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.850527, 33.418317 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1672", "osm_id": "1423777684", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.829079, 33.602853 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1676", "osm_id": "1423777686", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.860190, 33.566024 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1677", "osm_id": "1423777694", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.774165, 33.685067 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1680", "osm_id": "1423777696", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.853410, 33.674068 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1681", "osm_id": "1423777675", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.800109, 33.638432 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1682", "osm_id": "1423777259", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.600741, 33.451419 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1689", "osm_id": "1423777676", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.800109, 33.638432 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1931", "osm_id": "1423778639", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.668480, 33.722865 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1934", "osm_id": "1423778655", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.671838, 33.791496 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1935", "osm_id": "1423778649", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.626898, 33.731224 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1936", "osm_id": "1423778643", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.712921, 33.692813 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1938", "osm_id": "1423778659", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.668480, 33.722865 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1940", "osm_id": "1423778679", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.727308, 33.738670 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1941", "osm_id": "1423778688", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.727308, 33.738670 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2093", "osm_id": "1423780681", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.389227, 33.590846 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2095", "osm_id": "1423780696", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.377951, 33.567709 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2096", "osm_id": "1423780689", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.394449, 33.575181 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2097", "osm_id": "1423780733", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.436918, 33.583625 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2098", "osm_id": "1423780753", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.375285, 33.552489 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2099", "osm_id": "1423780751", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.451445, 33.591263 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2100", "osm_id": "1423780754", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.354981, 33.565154 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2101", "osm_id": "1423780755", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.355508, 33.589401 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2102", "osm_id": "1423780714", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.433420, 33.542601 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2103", "osm_id": "1423780752", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.465278, 33.541464 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2104", "osm_id": "1423780739", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.408809, 33.593763 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2105", "osm_id": "1423780723", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.410365, 33.546684 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2106", "osm_id": "1423780702", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.377700, 33.592457 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2107", "osm_id": "1423780727", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.419063, 33.584899 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2108", "osm_id": "1423780750", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.453001, 33.567710 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2109", "osm_id": "1423780756", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.338898, 33.573208 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2110", "osm_id": "1423780757", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.335261, 33.514958 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2111", "osm_id": "1423780705", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.426002, 33.565154 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2112", "osm_id": "1423780715", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.392399, 33.542315 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2113", "osm_id": "1423780759", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.414058, 33.614399 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2114", "osm_id": "1423780758", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.342955, 33.540406 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2115", "osm_id": "1423780760", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.429387, 33.690391 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2116", "osm_id": "1423780761", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.447666, 33.630092 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2117", "osm_id": "1423780764", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.408183, 33.610971 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2118", "osm_id": "1423780769", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.349895, 33.652006 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2119", "osm_id": "1423780768", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.421558, 33.616705 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2120", "osm_id": "1423780791", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.311539, 33.557182 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2121", "osm_id": "1423780779", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.436277, 33.657867 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2124", "osm_id": "1423780800", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.326760, 33.587263 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2127", "osm_id": "1423780780", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.277013, 33.572957 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2134", "osm_id": "1423781420", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.560662, 33.397701 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2135", "osm_id": "1423781431", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.556967, 33.428893 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2136", "osm_id": "1423781428", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.588382, 33.373150 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2137", "osm_id": "1423781442", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.721678, 33.346293 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2138", "osm_id": "1423781436", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.438563, 33.239631 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2140", "osm_id": "1423781446", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.803922, 33.333852 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2142", "osm_id": "1423781452", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.563913, 33.318181 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2281", "osm_id": "1423782077", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.501671, 33.212580 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2282", "osm_id": "1423782078", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.501671, 33.212580 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2292", "osm_id": "1423782117", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.508524, 33.513107 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2296", "osm_id": "1423782119", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.529254, 33.483946 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2299", "osm_id": "1423782118", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.528867, 33.514149 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2306", "osm_id": "1423782120", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.529254, 33.483946 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2310", "osm_id": "1423782121", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.543909, 33.450249 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2316", "osm_id": "1423782210", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.475772, 33.722029 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2321", "osm_id": "1423782214", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.496886, 33.576460 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2323", "osm_id": "1423782213", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.496886, 33.576460 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2327", "osm_id": "1423782211", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.445496, 33.713473 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2331", "osm_id": "1423782209", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.475772, 33.722029 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2335", "osm_id": "1423782212", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.496967, 33.625066 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2346", "osm_id": "1423782310", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.190534, 33.560294 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2348", "osm_id": "1423782312", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.103538, 33.509393 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2349", "osm_id": "1423782314", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.182327, 33.583535 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2351", "osm_id": "1423782311", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.190534, 33.560294 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2385", "osm_id": "1423782513", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.982312, 33.777226 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2386", "osm_id": "1423782512", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.982312, 33.777226 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2402", "osm_id": "1423782696", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.981981, 33.727870 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2405", "osm_id": "1423782697", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.981981, 33.727870 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2475", "osm_id": "1423783990", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.679642, 33.849850 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2480", "osm_id": "1423784000", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.612883, 33.848796 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2486", "osm_id": "1423784007", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.648914, 33.871536 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2506", "osm_id": "1423783996", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.679642, 33.849850 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2507", "osm_id": "1423784562", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.761198, 33.565772 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2509", "osm_id": "1423784563", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.736255, 33.549940 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2510", "osm_id": "1423784564", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.702451, 33.572575 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2511", "osm_id": "1423784565", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.733031, 33.603545 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2512", "osm_id": "1423784566", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.671815, 33.588851 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2513", "osm_id": "1423784573", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.720170, 33.682314 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2515", "osm_id": "1423784569", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.678950, 33.646403 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2517", "osm_id": "1423784567", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.683563, 33.621182 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2518", "osm_id": "1423784570", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.678950, 33.646403 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2521", "osm_id": "1423784572", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.723698, 33.642541 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2524", "osm_id": "1423784568", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.632624, 33.575352 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2527", "osm_id": "1423784571", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.653314, 33.651233 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2595", "osm_id": "1423797761", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.164546, 32.724637 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2596", "osm_id": "1423797760", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.006922, 32.686750 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2599", "osm_id": "1423798617", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.825214, 33.364761 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2601", "osm_id": "1423798602", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.879861, 33.265924 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2602", "osm_id": "1423798606", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.852446, 33.331139 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2606", "osm_id": "1423797762", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.802217, 32.708966 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2610", "osm_id": "1423797759", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.802217, 32.708966 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2614", "osm_id": "1423798607", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.968602, 33.304117 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2616", "osm_id": "1423798619", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.812255, 33.309695 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2619", "osm_id": "1423798598", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.879944, 33.266091 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2651", "osm_id": "1423799045", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.714516, 33.173235 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2653", "osm_id": "1423799046", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.714516, 33.173235 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2654", "osm_id": "1423799055", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.733292, 33.156654 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2655", "osm_id": "1423799057", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.758330, 33.157878 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2656", "osm_id": "1423799067", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.798704, 33.127408 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2657", "osm_id": "1423799062", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.720546, 33.201444 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2658", "osm_id": "1423799096", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.745296, 33.044737 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2659", "osm_id": "1423799074", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.593524, 33.027738 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2660", "osm_id": "1423799099", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.667409, 33.182650 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2663", "osm_id": "1423799085", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.892599, 33.057413 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2665", "osm_id": "1423799091", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.892757, 33.135507 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2666", "osm_id": "1423799105", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.722068, 33.269198 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2682", "osm_id": "1423799102", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.638243, 33.225590 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2687", "osm_id": "1423799774", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.191677, 33.292824 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2688", "osm_id": "1423799770", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.310883, 33.197688 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2689", "osm_id": "1423799765", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.297688, 33.251325 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2694", "osm_id": "1423799763", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.303076, 33.268792 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2695", "osm_id": "1423799764", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.297688, 33.251071 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2697", "osm_id": "1423799766", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.335538, 33.239675 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2698", "osm_id": "1423799772", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.109079, 33.289904 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2699", "osm_id": "1423799768", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.266439, 33.318593 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2700", "osm_id": "1423799773", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.202891, 33.258624 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2702", "osm_id": "1423799771", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.246444, 33.219795 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2708", "osm_id": "1423799767", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.272940, 33.256431 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2813", "osm_id": "1423800960", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.960629, 33.459767 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2814", "osm_id": "1423800970", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.950657, 33.382497 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2815", "osm_id": "1423800962", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.960629, 33.459767 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2816", "osm_id": "1423800971", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.893131, 33.527119 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2817", "osm_id": "1423800982", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.056337, 33.444856 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2818", "osm_id": "1423800981", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.038070, 33.333145 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2822", "osm_id": "1423800992", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.861163, 33.446266 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2892", "osm_id": "1423801586", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.720376, 33.793055 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2894", "osm_id": "1423801591", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.720376, 33.793055 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2895", "osm_id": "1423801592", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.701496, 33.841109 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2896", "osm_id": "1423801593", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.783828, 33.749427 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2897", "osm_id": "1423801594", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.715333, 33.751092 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2963", "osm_id": "1423802192", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.553039, 32.681936 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2965", "osm_id": "1423802194", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.748095, 32.642878 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2968", "osm_id": "1423802195", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.669837, 32.687493 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2969", "osm_id": "1423802193", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.505131, 32.615802 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2970", "osm_id": "1423802187", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.669837, 32.687493 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2974", "osm_id": "1423802188", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.699948, 32.635526 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2981", "osm_id": "1423802189", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.739637, 32.697243 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3045", "osm_id": "1423802655", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.693992, 33.108789 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3046", "osm_id": "1423802654", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.764405, 33.019215 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3047", "osm_id": "1423802656", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.690681, 32.916383 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3058", "osm_id": "1423802653", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.680621, 33.020019 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3065", "osm_id": "1423802657", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.680884, 33.020102 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3075", "osm_id": "1423802705", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.372777, 32.785089 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3076", "osm_id": "1423802707", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.309260, 32.662599 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3078", "osm_id": "1423802706", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.278044, 32.875232 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3079", "osm_id": "1423802708", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.186743, 32.612184 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3081", "osm_id": "1423802704", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.372777, 32.785089 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3082", "osm_id": "1423802709", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.344199, 32.707263 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3083", "osm_id": "1423802710", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.253459, 32.649655 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4015", "osm_id": "1423804390", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.422313, 33.376707 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4016", "osm_id": "1423804389", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.446759, 33.243779 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4019", "osm_id": "1423804387", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.548663, 33.362379 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4025", "osm_id": "1423804388", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.548663, 33.362379 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4099", "osm_id": "1423805663", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.859310, 33.191914 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4101", "osm_id": "1423805617", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.432097, 32.991073 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4103", "osm_id": "1423805618", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.546753, 33.064539 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4104", "osm_id": "1423805616", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.628223, 32.913389 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4106", "osm_id": "1423805612", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.523648, 32.931914 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4111", "osm_id": "1423805621", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.461957, 32.919638 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4113", "osm_id": "1423805620", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.479649, 32.988824 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4114", "osm_id": "1423805619", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.621998, 33.065597 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4124", "osm_id": "1423805613", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.561951, 32.938636 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4128", "osm_id": "1423805614", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.609334, 32.987160 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4129", "osm_id": "1423805615", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.570284, 32.882364 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4153", "osm_id": "1423806372", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.006823, 33.189407 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4154", "osm_id": "1423806369", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.987512, 33.101509 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4159", "osm_id": "1423806382", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.943662, 33.198627 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4162", "osm_id": "1423806404", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.179797, 33.017601 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4163", "osm_id": "1423806375", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.107759, 33.212739 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4165", "osm_id": "1423806396", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.140535, 33.194436 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4167", "osm_id": "1423806391", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.006823, 33.189407 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4171", "osm_id": "1423806403", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.084206, 33.121360 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4173", "osm_id": "1423806609", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.590827, 33.358240 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4176", "osm_id": "1423806390", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.031599, 33.195379 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4177", "osm_id": "1423806613", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.755979, 33.432070 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4178", "osm_id": "1423806596", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.591237, 33.273475 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4180", "osm_id": "1423806592", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.625103, 33.307080 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4181", "osm_id": "1423806615", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.709400, 33.342523 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4182", "osm_id": "1423806588", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.709400, 33.342523 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4326", "osm_id": "1423808431", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.705275, 32.796123 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4327", "osm_id": "1423808437", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.764771, 32.785764 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4328", "osm_id": "1423808432", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.704663, 32.866922 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4329", "osm_id": "1423808434", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.757216, 32.849257 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4330", "osm_id": "1423808430", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.705275, 32.796123 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4331", "osm_id": "1423808435", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.710107, 32.828231 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4333", "osm_id": "1423808433", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.690720, 32.808233 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4334", "osm_id": "1423808439", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.711775, 32.787540 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4335", "osm_id": "1423808436", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.721079, 32.840897 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4336", "osm_id": "1423808438", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.735884, 32.787874 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4337", "osm_id": "1423808440", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.793995, 32.825897 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4338", "osm_id": "1423808441", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.751938, 32.820121 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4339", "osm_id": "1423808442", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.721385, 32.803955 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4340", "osm_id": "1423808443", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.634809, 32.780985 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4341", "osm_id": "1423808445", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.623365, 32.824925 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4342", "osm_id": "1423808444", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.683205, 32.748428 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4343", "osm_id": "1423808447", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.641948, 32.749654 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4344", "osm_id": "1423808446", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.680999, 32.784290 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4636", "osm_id": "1423811634", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.943891, 32.956234 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4637", "osm_id": "1423811643", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.161000, 32.822239 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4638", "osm_id": "1423811638", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.207403, 32.732231 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4639", "osm_id": "1423811628", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.944012, 32.923991 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4640", "osm_id": "1423811647", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.262260, 32.738257 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4641", "osm_id": "1423811657", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.053886, 32.844375 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4642", "osm_id": "1423811666", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.084890, 32.796922 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4643", "osm_id": "1423811651", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.049887, 32.847912 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4644", "osm_id": "1423811658", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.049887, 32.847829 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4645", "osm_id": "1423811667", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.024666, 32.846245 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4646", "osm_id": "1423811676", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.015965, 32.776233 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4647", "osm_id": "1423811677", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.148652, 32.907936 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4648", "osm_id": "1423811685", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.983531, 32.832301 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4782", "osm_id": "1423814288", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.370013, 33.308013 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4784", "osm_id": "1423814295", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.370013, 33.308013 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4785", "osm_id": "1423814298", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.292350, 33.407141 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4934", "osm_id": "1423817594", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.851069, 32.875006 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4936", "osm_id": "1423817603", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.851069, 32.875006 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4937", "osm_id": "1423817610", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.765630, 32.908113 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4938", "osm_id": "1423817601", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.767936, 32.869061 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4941", "osm_id": "1423817591", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.817236, 32.961414 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5046", "osm_id": "1423821414", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.912402, 32.707840 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5047", "osm_id": "1423821401", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.835767, 32.725309 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5048", "osm_id": "1423821384", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.875652, 32.748311 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5051", "osm_id": "1423821427", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.783574, 32.827829 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5052", "osm_id": "1423821444", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.791991, 32.786969 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5054", "osm_id": "1423821465", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.865373, 32.831577 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5055", "osm_id": "1423821470", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.864598, 32.770250 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5056", "osm_id": "1423821389", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.863071, 32.747946 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5057", "osm_id": "1423821405", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.869570, 32.736586 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5058", "osm_id": "1423821484", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.838126, 32.807328 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5059", "osm_id": "1423821396", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.890314, 32.727454 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5061", "osm_id": "1423821488", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.681386, 32.880264 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5063", "osm_id": "1423821440", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.841228, 32.779842 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5064", "osm_id": "1423821418", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.894568, 32.750113 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5066", "osm_id": "1423821410", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.951286, 32.776140 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5069", "osm_id": "1423821506", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.846573, 32.702922 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5070", "osm_id": "1423821426", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.862873, 32.783047 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5071", "osm_id": "1423821502", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.785295, 32.859906 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5072", "osm_id": "1423821517", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.777920, 32.701282 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5073", "osm_id": "1423821383", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.876042, 32.748926 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5076", "osm_id": "1423821526", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.843046, 32.685368 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5086", "osm_id": "1423821456", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.598033, 32.884095 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5104", "osm_id": "1423822685", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.198762, 32.959421 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5107", "osm_id": "1423822680", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.071245, 32.828765 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5109", "osm_id": "1423822668", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.080102, 32.939199 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5110", "osm_id": "1423822689", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.217511, 32.821489 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5112", "osm_id": "1423822703", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.080102, 32.939199 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5116", "osm_id": "1423822675", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.062852, 33.124406 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5140", "osm_id": "1423823646", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.823730, 32.798165 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5155", "osm_id": "1423823647", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.823730, 32.798165 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5165", "osm_id": "1423823779", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.508252, 33.379649 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5168", "osm_id": "1423823777", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.447772, 33.325670 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5169", "osm_id": "1423823785", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.519542, 33.421541 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5171", "osm_id": "1423823767", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.508252, 33.379649 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5236", "osm_id": "1423861565", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.186300, 33.586402 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5238", "osm_id": "1423861575", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.115947, 33.445820 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5254", "osm_id": "1423862186", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.923860, 33.045517 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5255", "osm_id": "1423862177", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.903865, 32.968080 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5257", "osm_id": "1423862159", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.903865, 32.968080 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5266", "osm_id": "1423862191", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.682334, 32.857902 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5267", "osm_id": "1423862202", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.962860, 32.942501 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5268", "osm_id": "1423862208", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.926703, 32.796321 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5270", "osm_id": "1423862213", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.844977, 32.957942 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5292", "osm_id": "1423862830", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.488922, 33.288146 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5293", "osm_id": "1423862832", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.466812, 33.311617 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5294", "osm_id": "1423862831", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.494727, 33.327699 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5295", "osm_id": "1423862833", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.507171, 33.273509 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5322", "osm_id": "1423864739", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.732534, 33.570210 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5326", "osm_id": "1423864759", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.591736, 33.676530 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5327", "osm_id": "1423864752", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.732534, 33.570210 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5328", "osm_id": "1423864763", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.645120, 33.724498 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5329", "osm_id": "1423864767", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.719900, 33.456302 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5330", "osm_id": "1423864782", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.720038, 33.501548 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5382", "osm_id": "1423865847", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.589524, 33.208407 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5383", "osm_id": "1423865842", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.615950, 33.239584 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5384", "osm_id": "1423865853", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.868833, 33.248772 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5385", "osm_id": "1423865848", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.655953, 33.152463 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5386", "osm_id": "1423865843", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.616026, 33.239575 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5387", "osm_id": "1423865844", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.651574, 33.223963 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5388", "osm_id": "1423865845", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.647407, 33.249766 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5389", "osm_id": "1423865846", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.588218, 33.242404 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5390", "osm_id": "1423865851", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.523646, 33.159162 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5392", "osm_id": "1423865849", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.612300, 33.192743 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5395", "osm_id": "1423865850", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.559721, 33.185158 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5399", "osm_id": "1423865864", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.727450, 33.243283 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5400", "osm_id": "1423865852", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.694542, 33.241102 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5402", "osm_id": "1423865854", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.751594, 33.230831 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5423", "osm_id": "1423866308", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.331113, 33.421790 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5424", "osm_id": "1423866306", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.334954, 33.531954 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5427", "osm_id": "1423866309", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.376523, 33.569209 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5434", "osm_id": "1423866307", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.334954, 33.531954 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5957", "osm_id": "1423870343", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.036098, 33.256421 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5958", "osm_id": "1423870346", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.164755, 33.268922 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5959", "osm_id": "1423870341", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.924162, 33.322885 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5961", "osm_id": "1423870342", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.991632, 33.185845 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5963", "osm_id": "1423870348", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.195949, 33.226955 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5964", "osm_id": "1423870345", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.924162, 33.322885 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5973", "osm_id": "1423870732", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.540221, 33.381916 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5974", "osm_id": "1423870733", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.613492, 33.416498 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5975", "osm_id": "1423870735", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.613492, 33.416498 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5976", "osm_id": "1423870734", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.507946, 33.448466 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5983", "osm_id": "1423870955", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.862476, 33.075430 ] } }
+,
+{ "type": "Feature", "properties": { "code": "5984", "osm_id": "1423870956", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.862476, 33.075430 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6011", "osm_id": "1423882171", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.498948, 33.196654 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6017", "osm_id": "1423882172", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.427344, 33.181682 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6020", "osm_id": "1423882170", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.498948, 33.196654 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6021", "osm_id": "1423882173", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.357682, 33.265953 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6178", "osm_id": "1423883390", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.326549, 33.056193 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6187", "osm_id": "1423883385", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.387353, 32.973647 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6189", "osm_id": "1423883391", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.461679, 32.969621 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6190", "osm_id": "1423883389", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.387353, 32.973647 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6191", "osm_id": "1423883392", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.298111, 32.924261 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6215", "osm_id": "1423884139", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.689603, 33.035844 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6216", "osm_id": "1423884137", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.635518, 33.068037 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6221", "osm_id": "1423883601", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.806174, 33.123312 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6231", "osm_id": "1423884129", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.501508, 33.038172 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6235", "osm_id": "1423883602", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.806176, 33.123359 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6244", "osm_id": "1423884209", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.446529, 33.556649 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6245", "osm_id": "1423884210", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.446529, 33.556649 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6246", "osm_id": "1423884211", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.527853, 33.663739 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6311", "osm_id": "1784672977", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.797503, 33.137301 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6312", "osm_id": "1788520160", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.698178, 32.796003 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6314", "osm_id": "1802710005", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.833307, 33.133911 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6318", "osm_id": "1825085241", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.594509, 33.411635 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6348", "osm_id": "2018353263", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 131.693512, 33.115175 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6402", "osm_id": "2084019593", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 129.700148, 33.125312 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6430", "osm_id": "2321460832", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.226636, 33.595760 ] } }
+,
+{ "type": "Feature", "properties": { "code": "6565", "osm_id": "3502983431", "name": " ", "fclass": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ 130.697810, 32.771856 ] } }
+,
+
+{ "type": "Feature", "properties": { "code": "4", "fclass": "fire_station", "name": "", "osm_id": "18" }, "geometry": { "type": "Point", "coordinates": [ 102.829450, 16.430682 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "19" }, "geometry": { "type": "Point", "coordinates": [ 102.863494, 16.436191 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3", "fclass": "fire_station", "name": "", "osm_id": "20" }, "geometry": { "type": "Point", "coordinates": [ 102.829717, 16.457902 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "21" }, "geometry": { "type": "Point", "coordinates": [ 100.545184, 13.713216 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "22" }, "geometry": { "type": "Point", "coordinates": [ 98.304045, 7.898065 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "23" }, "geometry": { "type": "Point", "coordinates": [ 102.835136, 16.414790 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "24" }, "geometry": { "type": "Point", "coordinates": [ 102.838715, 16.419004 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "25" }, "geometry": { "type": "Point", "coordinates": [ 102.758565, 16.434165 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "26" }, "geometry": { "type": "Point", "coordinates": [ 102.783635, 17.411839 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "27" }, "geometry": { "type": "Point", "coordinates": [ 99.003234, 18.903100 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "28" }, "geometry": { "type": "Point", "coordinates": [ 100.506186, 13.754658 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "29" }, "geometry": { "type": "Point", "coordinates": [ 100.513555, 13.714737 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "30" }, "geometry": { "type": "Point", "coordinates": [ 100.064893, 13.819771 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "31" }, "geometry": { "type": "Point", "coordinates": [ 103.150662, 17.364989 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "32" }, "geometry": { "type": "Point", "coordinates": [ 99.049918, 18.900429 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "33" }, "geometry": { "type": "Point", "coordinates": [ 99.036904, 18.770021 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "34" }, "geometry": { "type": "Point", "coordinates": [ 100.087347, 17.286291 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "35" }, "geometry": { "type": "Point", "coordinates": [ 98.889327, 18.750476 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "36" }, "geometry": { "type": "Point", "coordinates": [ 100.001731, 13.409294 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "37" }, "geometry": { "type": "Point", "coordinates": [ 98.998299, 18.794882 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "38" }, "geometry": { "type": "Point", "coordinates": [ 101.731231, 17.485444 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "39" }, "geometry": { "type": "Point", "coordinates": [ 101.004111, 15.786490 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "40" }, "geometry": { "type": "Point", "coordinates": [ 100.479574, 7.013395 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "41" }, "geometry": { "type": "Point", "coordinates": [ 99.027006, 18.845254 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "42" }, "geometry": { "type": "Point", "coordinates": [ 100.594645, 13.871471 ] } }
+,
+{ "type": "Feature", "properties": { "code": "4", "fclass": "fire_station", "name": "", "osm_id": "43" }, "geometry": { "type": "Point", "coordinates": [ 102.104403, 12.607984 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "44" }, "geometry": { "type": "Point", "coordinates": [ 100.579306, 13.803154 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "45" }, "geometry": { "type": "Point", "coordinates": [ 99.574441, 17.005784 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "46" }, "geometry": { "type": "Point", "coordinates": [ 99.213896, 19.919533 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "47" }, "geometry": { "type": "Point", "coordinates": [ 100.612966, 14.802650 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "48" }, "geometry": { "type": "Point", "coordinates": [ 100.576529, 14.360009 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "49" }, "geometry": { "type": "Point", "coordinates": [ 99.517652, 19.206537 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "50" }, "geometry": { "type": "Point", "coordinates": [ 99.509712, 19.338757 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3", "fclass": "fire_station", "name": "", "osm_id": "51" }, "geometry": { "type": "Point", "coordinates": [ 99.852627, 20.147703 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "52" }, "geometry": { "type": "Point", "coordinates": [ 100.130945, 15.712458 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3", "fclass": "fire_station", "name": "", "osm_id": "53" }, "geometry": { "type": "Point", "coordinates": [ 99.955512, 12.567933 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "54" }, "geometry": { "type": "Point", "coordinates": [ 99.043359, 18.840747 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "55" }, "geometry": { "type": "Point", "coordinates": [ 100.533241, 13.705235 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "56" }, "geometry": { "type": "Point", "coordinates": [ 102.085844, 14.973141 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "57" }, "geometry": { "type": "Point", "coordinates": [ 100.319528, 13.817801 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "58" }, "geometry": { "type": "Point", "coordinates": [ 99.823415, 13.531237 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "59" }, "geometry": { "type": "Point", "coordinates": [ 100.239469, 19.809480 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "60" }, "geometry": { "type": "Point", "coordinates": [ 100.998698, 12.681652 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "61" }, "geometry": { "type": "Point", "coordinates": [ 100.752431, 13.674454 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "62" }, "geometry": { "type": "Point", "coordinates": [ 100.513779, 13.724914 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "63" }, "geometry": { "type": "Point", "coordinates": [ 99.516792, 11.401132 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "64" }, "geometry": { "type": "Point", "coordinates": [ 99.821647, 17.014718 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "65" }, "geometry": { "type": "Point", "coordinates": [ 100.912638, 12.976647 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "66" }, "geometry": { "type": "Point", "coordinates": [ 99.685312, 17.023728 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "67" }, "geometry": { "type": "Point", "coordinates": [ 98.984820, 18.781721 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "68" }, "geometry": { "type": "Point", "coordinates": [ 99.007557, 18.785198 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "69" }, "geometry": { "type": "Point", "coordinates": [ 99.000507, 19.105249 ] } }
+,
+{ "type": "Feature", "properties": { "code": "3", "fclass": "fire_station", "name": "", "osm_id": "70" }, "geometry": { "type": "Point", "coordinates": [ 98.362824, 17.803493 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "71" }, "geometry": { "type": "Point", "coordinates": [ 99.508925, 11.206920 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "72" }, "geometry": { "type": "Point", "coordinates": [ 98.925117, 18.724660 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "73" }, "geometry": { "type": "Point", "coordinates": [ 100.524544, 13.736182 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "74" }, "geometry": { "type": "Point", "coordinates": [ 101.518898, 6.394635 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "75" }, "geometry": { "type": "Point", "coordinates": [ 99.530363, 14.020851 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "76" }, "geometry": { "type": "Point", "coordinates": [ 100.579735, 14.362343 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "77" }, "geometry": { "type": "Point", "coordinates": [ 99.006786, 18.815241 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "78" }, "geometry": { "type": "Point", "coordinates": [ 100.777364, 18.789098 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "79" }, "geometry": { "type": "Point", "coordinates": [ 99.038329, 18.653783 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "80" }, "geometry": { "type": "Point", "coordinates": [ 99.891269, 19.176637 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "81" }, "geometry": { "type": "Point", "coordinates": [ 104.862393, 15.201679 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "82" }, "geometry": { "type": "Point", "coordinates": [ 103.081469, 14.609210 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "83" }, "geometry": { "type": "Point", "coordinates": [ 98.986640, 17.239426 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "84" }, "geometry": { "type": "Point", "coordinates": [ 98.999079, 18.827289 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "85" }, "geometry": { "type": "Point", "coordinates": [ 99.019058, 18.578783 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "86" }, "geometry": { "type": "Point", "coordinates": [ 99.001900, 18.753243 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "87" }, "geometry": { "type": "Point", "coordinates": [ 100.094721, 17.617853 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "88" }, "geometry": { "type": "Point", "coordinates": [ 100.220398, 16.000264 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "89" }, "geometry": { "type": "Point", "coordinates": [ 100.510853, 13.748048 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "90" }, "geometry": { "type": "Point", "coordinates": [ 98.681649, 18.656588 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "91" }, "geometry": { "type": "Point", "coordinates": [ 99.843311, 15.388547 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "92" }, "geometry": { "type": "Point", "coordinates": [ 100.057068, 9.522987 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "93" }, "geometry": { "type": "Point", "coordinates": [ 99.940641, 9.521742 ] } }
+,
+{ "type": "Feature", "properties": { "code": "1", "fclass": "fire_station", "name": "", "osm_id": "94" }, "geometry": { "type": "Point", "coordinates": [ 100.974052, 12.830963 ] } }
+,
+{ "type": "Feature", "properties": { "code": "2", "fclass": "fire_station", "name": "", "osm_id": "95" }, "geometry": { "type": "Point", "coordinates": [ 103.642929, 16.054126 ] } }
+
+
+]
+}

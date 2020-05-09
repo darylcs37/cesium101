@@ -1,0 +1,1397 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7683397,
+                    1.445554109
+                ],
+                "type": "Point"
+            },
+            "id": 1,
+            "type": "Feature",
+            "properties": {
+                "images": ["2702.jpg"],
+                "name": "View from Woodlands Checkpoint (Towards BKE)",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.6350413,
+                    1.348697862
+                ],
+                "type": "Point"
+            },
+            "id": 2,
+            "type": "Feature",
+            "properties": {
+                "images": ["4703.jpg"],
+                "name": "View from Second Link at Tuas",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.90515712,
+                    1.39559294
+                ],
+                "type": "Point"
+            },
+            "id": 3,
+            "type": "Feature",
+            "properties": {
+                "images": ["7796.jpg"],
+                "name": "View from Exit to Punggol Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.963782,
+                    1.354245
+                ],
+                "type": "Point"
+            },
+            "id": 4,
+            "type": "Feature",
+            "properties": {
+                "images": ["7791.jpg"],
+                "name": "View from Upp Changi Flyover Towards PIE",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.69016,
+                    1.345996
+                ],
+                "type": "Point"
+            },
+            "id": 5,
+            "type": "Feature",
+            "properties": {
+                "images": ["6708.jpg"],
+                "name": "View from Nanyang Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.74143,
+                    1.38647
+                ],
+                "type": "Point"
+            },
+            "id": 6,
+            "type": "Feature",
+            "properties": {
+                "images": ["8701.jpg"],
+                "name": "View from Choa Chu Kang West Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7716543,
+                    1.447023728
+                ],
+                "type": "Point"
+            },
+            "id": 7,
+            "type": "Feature",
+            "properties": {
+                "images": ["2701.jpg"],
+                "name": "View from Woodlands Causeway (Towards Johor)",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.75273,
+                    1.32153
+                ],
+                "type": "Point"
+            },
+            "id": 8,
+            "type": "Feature",
+            "properties": {
+                "images": ["4710.jpg"],
+                "name": "View from Towards Pandan Gardens",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8983019,
+                    1.297512569
+                ],
+                "type": "Point"
+            },
+            "id": 9,
+            "type": "Feature",
+            "properties": {
+                "images": ["3796.jpg"],
+                "name": "View from Tanjong Katong Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8587802,
+                    1.323604823
+                ],
+                "type": "Point"
+            },
+            "id": 10,
+            "type": "Feature",
+            "properties": {
+                "images": ["1701.jpg"],
+                "name": "View from Moulmein Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.862203282048,
+                    1.32814722194857
+                ],
+                "type": "Point"
+            },
+            "id": 11,
+            "type": "Feature",
+            "properties": {
+                "images": ["1703.jpg"],
+                "name": "View from St George Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8601984,
+                    1.34355015
+                ],
+                "type": "Point"
+            },
+            "id": 12,
+            "type": "Feature",
+            "properties": {
+                "images": ["1702.jpg"],
+                "name": "View from Braddell Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8587986,
+                    1.375925022
+                ],
+                "type": "Point"
+            },
+            "id": 13,
+            "type": "Feature",
+            "properties": {
+                "images": ["1705.jpg"],
+                "name": "View from Ang Mo Kio Ave 5 Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.6366955,
+                    1.347645829
+                ],
+                "type": "Point"
+            },
+            "id": 14,
+            "type": "Feature",
+            "properties": {
+                "images": ["4713.jpg"],
+                "name": "View from Tuas Checkpoint",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.6439134,
+                    1.341244001
+                ],
+                "type": "Point"
+            },
+            "id": 15,
+            "type": "Feature",
+            "properties": {
+                "images": ["4712.jpg"],
+                "name": "View from After Tuas West Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.773005,
+                    1.422857
+                ],
+                "type": "Point"
+            },
+            "id": 16,
+            "type": "Feature",
+            "properties": {
+                "images": ["9703.jpg"],
+                "name": "View from SLE(BKE) Exit",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83474601,
+                    1.39466333
+                ],
+                "type": "Point"
+            },
+            "id": 17,
+            "type": "Feature",
+            "properties": {
+                "images": ["9701.jpg"],
+                "name": "View from Lentor Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85400467,
+                    1.39748842
+                ],
+                "type": "Point"
+            },
+            "id": 18,
+            "type": "Feature",
+            "properties": {
+                "images": ["7798.jpg"],
+                "name": "View from Seletar Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7794698,
+                    1.36728572
+                ],
+                "type": "Point"
+            },
+            "id": 19,
+            "type": "Feature",
+            "properties": {
+                "images": ["2705.jpg"],
+                "name": "View from Diary Farm Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.910596320237,
+                    1.30145145166066
+                ],
+                "type": "Point"
+            },
+            "id": 20,
+            "type": "Feature",
+            "properties": {
+                "images": ["3795.jpg"],
+                "name": "View from Marine Parade Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.885283049309,
+                    1.29565733262976
+                ],
+                "type": "Point"
+            },
+            "id": 21,
+            "type": "Feature",
+            "properties": {
+                "images": ["3797.jpg"],
+                "name": "View from Tanjong Rhu",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.79633,
+                    1.2871
+                ],
+                "type": "Point"
+            },
+            "id": 22,
+            "type": "Feature",
+            "properties": {
+                "images": ["4701.jpg"],
+                "name": "View from Towards Alexandra Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8324,
+                    1.27237
+                ],
+                "type": "Point"
+            },
+            "id": 23,
+            "type": "Feature",
+            "properties": {
+                "images": ["4702.jpg"],
+                "name": "View from Keppel Viaduct",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.82375,
+                    1.27877
+                ],
+                "type": "Point"
+            },
+            "id": 24,
+            "type": "Feature",
+            "properties": {
+                "images": ["4704.jpg"],
+                "name": "View from Lower Delta Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.78205,
+                    1.29792
+                ],
+                "type": "Point"
+            },
+            "id": 25,
+            "type": "Feature",
+            "properties": {
+                "images": ["4706.jpg"],
+                "name": "View from Near NUS",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7799,
+                    1.29939
+                ],
+                "type": "Point"
+            },
+            "id": 26,
+            "type": "Feature",
+            "properties": {
+                "images": ["4708.jpg"],
+                "name": "View from Near Dover Drive",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9168616,
+                    1.3309693
+                ],
+                "type": "Point"
+            },
+            "id": 27,
+            "type": "Feature",
+            "properties": {
+                "images": ["5794.jpg"],
+                "name": "View from Bedok North",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.905625,
+                    1.326024822
+                ],
+                "type": "Point"
+            },
+            "id": 28,
+            "type": "Feature",
+            "properties": {
+                "images": ["5795.jpg"],
+                "name": "View from Eunos Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.769311,
+                    1.429588536
+                ],
+                "type": "Point"
+            },
+            "id": 29,
+            "type": "Feature",
+            "properties": {
+                "images": ["2704.jpg"],
+                "name": "View from Woodlands Flyover (Towards Checkpoint)",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8910793,
+                    1.322875288
+                ],
+                "type": "Point"
+            },
+            "id": 30,
+            "type": "Feature",
+            "properties": {
+                "images": ["5797.jpg"],
+                "name": "View from Paya Lebar Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.877174116489,
+                    1.32036078126842
+                ],
+                "type": "Point"
+            },
+            "id": 31,
+            "type": "Feature",
+            "properties": {
+                "images": ["5798.jpg"],
+                "name": "View from Kallang Way",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8685191,
+                    1.328171608
+                ],
+                "type": "Point"
+            },
+            "id": 32,
+            "type": "Feature",
+            "properties": {
+                "images": ["5799.jpg"],
+                "name": "View from Woodsville Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.858222,
+                    1.329334
+                ],
+                "type": "Point"
+            },
+            "id": 33,
+            "type": "Feature",
+            "properties": {
+                "images": ["6701.jpg"],
+                "name": "View from Kim Keat Link",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9350504,
+                    1.309330837
+                ],
+                "type": "Point"
+            },
+            "id": 34,
+            "type": "Feature",
+            "properties": {
+                "images": ["3793.jpg"],
+                "name": "View from Laguna Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84121,
+                    1.328899
+                ],
+                "type": "Point"
+            },
+            "id": 35,
+            "type": "Feature",
+            "properties": {
+                "images": ["6703.jpg"],
+                "name": "View from Thomson Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.826857295633,
+                    1.32657403632366
+                ],
+                "type": "Point"
+            },
+            "id": 36,
+            "type": "Feature",
+            "properties": {
+                "images": ["6704.jpg"],
+                "name": "View from Mount Pleasant",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.81768,
+                    1.332124
+                ],
+                "type": "Point"
+            },
+            "id": 37,
+            "type": "Feature",
+            "properties": {
+                "images": ["6705.jpg"],
+                "name": "View from Adam Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7952799,
+                    1.349428893
+                ],
+                "type": "Point"
+            },
+            "id": 38,
+            "type": "Feature",
+            "properties": {
+                "images": ["6706.jpg"],
+                "name": "View from Bukit Timah Expressway",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.871146,
+                    1.29531332
+                ],
+                "type": "Point"
+            },
+            "id": 39,
+            "type": "Feature",
+            "properties": {
+                "images": ["1001.jpg"],
+                "name": "View from KPE/ECP",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8785627,
+                    1.319541067
+                ],
+                "type": "Point"
+            },
+            "id": 40,
+            "type": "Feature",
+            "properties": {
+                "images": ["1002.jpg"],
+                "name": "View from Kallang Bahru",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8750668,
+                    1.319535712
+                ],
+                "type": "Point"
+            },
+            "id": 41,
+            "type": "Feature",
+            "properties": {
+                "images": ["1004.jpg"],
+                "name": "View from Kallang Way Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8728576,
+                    1.323957439
+                ],
+                "type": "Point"
+            },
+            "id": 42,
+            "type": "Feature",
+            "properties": {
+                "images": ["1003.jpg"],
+                "name": "View from KPE/PIE",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.905394,
+                    1.363519886
+                ],
+                "type": "Point"
+            },
+            "id": 43,
+            "type": "Feature",
+            "properties": {
+                "images": ["1005.jpg"],
+                "name": "View from Defu Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.902042,
+                    1.357098686
+                ],
+                "type": "Point"
+            },
+            "id": 44,
+            "type": "Feature",
+            "properties": {
+                "images": ["1006.jpg"],
+                "name": "View from Tampines Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.791033581325,
+                    1.35047790791386
+                ],
+                "type": "Point"
+            },
+            "id": 45,
+            "type": "Feature",
+            "properties": {
+                "images": ["2703.jpg"],
+                "name": "View from Chantek Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.823611110166,
+                    1.25999999687243
+                ],
+                "type": "Point"
+            },
+            "id": 46,
+            "type": "Feature",
+            "properties": {
+                "images": ["4798.jpg"],
+                "name": "View from Sentosa Gateway (Towards Telok Blangah)",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.823888890049,
+                    1.26027777363278
+                ],
+                "type": "Point"
+            },
+            "id": 47,
+            "type": "Feature",
+            "properties": {
+                "images": ["4799.jpg"],
+                "name": "View from Sentosa Gateway (Towards Sentosa)",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.861828440597,
+                    1.27135090682664
+                ],
+                "type": "Point"
+            },
+            "id": 48,
+            "type": "Feature",
+            "properties": {
+                "images": ["1502.jpg"],
+                "name": "View from Marina Boulevard/Marina Coastal Drive",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.856977943394,
+                    1.27066408655104
+                ],
+                "type": "Point"
+            },
+            "id": 49,
+            "type": "Feature",
+            "properties": {
+                "images": ["1503.jpg"],
+                "name": "View from MCE 1.02km",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.876056196568,
+                    1.29409891409364
+                ],
+                "type": "Point"
+            },
+            "id": 50,
+            "type": "Feature",
+            "properties": {
+                "images": ["1504.jpg"],
+                "name": "View from MCE/ECP",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.866390381759,
+                    1.2752977149006
+                ],
+                "type": "Point"
+            },
+            "id": 51,
+            "type": "Feature",
+            "properties": {
+                "images": ["1505.jpg"],
+                "name": "View from Marina Boulevard",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8615987,
+                    1.29158484
+                ],
+                "type": "Point"
+            },
+            "id": 52,
+            "type": "Feature",
+            "properties": {
+                "images": ["3798.jpg"],
+                "name": "View from Benjamin Sheares Bridge",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.851316802547,
+                    1.27414394350065
+                ],
+                "type": "Point"
+            },
+            "id": 53,
+            "type": "Feature",
+            "properties": {
+                "images": ["1501.jpg"],
+                "name": "View from Maxwell Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.830451146503,
+                    1.28036584335876
+                ],
+                "type": "Point"
+            },
+            "id": 54,
+            "type": "Feature",
+            "properties": {
+                "images": ["1707.jpg"],
+                "name": "View from Bukit Merah Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.845603032574,
+                    1.31384231654635
+                ],
+                "type": "Point"
+            },
+            "id": 55,
+            "type": "Feature",
+            "properties": {
+                "images": ["1709.jpg"],
+                "name": "View from Exit 6 to Bukit Timah Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85719,
+                    1.35296
+                ],
+                "type": "Point"
+            },
+            "id": 56,
+            "type": "Feature",
+            "properties": {
+                "images": ["1711.jpg"],
+                "name": "View from Ang Mo Kio Ave 1 Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.837524510188,
+                    1.28569398886979
+                ],
+                "type": "Point"
+            },
+            "id": 57,
+            "type": "Feature",
+            "properties": {
+                "images": ["1704.jpg"],
+                "name": "View from Entrance from Chin Swee Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85806,
+                    1.38861
+                ],
+                "type": "Point"
+            },
+            "id": 58,
+            "type": "Feature",
+            "properties": {
+                "images": ["1706.jpg"],
+                "name": "View from Yio Chu Kang Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.98032,
+                    1.33831
+                ],
+                "type": "Point"
+            },
+            "id": 59,
+            "type": "Feature",
+            "properties": {
+                "images": ["3702.jpg"],
+                "name": "View from Entrance from PIE",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.880314665981,
+                    1.2958550156561
+                ],
+                "type": "Point"
+            },
+            "id": 60,
+            "type": "Feature",
+            "properties": {
+                "images": ["3704.jpg"],
+                "name": "View from Entrance from MCE",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.97383,
+                    1.32743
+                ],
+                "type": "Point"
+            },
+            "id": 61,
+            "type": "Feature",
+            "properties": {
+                "images": ["3705.jpg"],
+                "name": "View from Exit 2A to Changi Coast Road",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.73028,
+                    1.32618
+                ],
+                "type": "Point"
+            },
+            "id": 62,
+            "type": "Feature",
+            "properties": {
+                "images": ["4705.jpg"],
+                "name": "View from Entrance from Yuan Ching Rd",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.652700847056,
+                    1.33344648135658
+                ],
+                "type": "Point"
+            },
+            "id": 63,
+            "type": "Feature",
+            "properties": {
+                "images": ["4707.jpg"],
+                "name": "View from Entrance from Jln Ahmad Ibrahim",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.76438,
+                    1.31023
+                ],
+                "type": "Point"
+            },
+            "id": 64,
+            "type": "Feature",
+            "properties": {
+                "images": ["4714.jpg"],
+                "name": "View from Near West Coast Walk",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.67453,
+                    1.32227
+                ],
+                "type": "Point"
+            },
+            "id": 65,
+            "type": "Feature",
+            "properties": {
+                "images": ["4716.jpg"],
+                "name": "View from Entrance from Benoi Rd",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7717,
+                    1.39059
+                ],
+                "type": "Point"
+            },
+            "id": 66,
+            "type": "Feature",
+            "properties": {
+                "images": ["8702.jpg"],
+                "name": "View from Exit To BKE",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.74843,
+                    1.3899
+                ],
+                "type": "Point"
+            },
+            "id": 67,
+            "type": "Feature",
+            "properties": {
+                "images": ["8704.jpg"],
+                "name": "View from Entrance From Choa Chu Kang Dr",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.70899,
+                    1.3664
+                ],
+                "type": "Point"
+            },
+            "id": 68,
+            "type": "Feature",
+            "properties": {
+                "images": ["8706.jpg"],
+                "name": "View from Tengah Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.774247,
+                    1.3983
+                ],
+                "type": "Point"
+            },
+            "id": 69,
+            "type": "Feature",
+            "properties": {
+                "images": ["2707.jpg"],
+                "name": "View from Mandai Rd Entrance",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.771168,
+                    1.414142
+                ],
+                "type": "Point"
+            },
+            "id": 70,
+            "type": "Feature",
+            "properties": {
+                "images": ["2706.jpg"],
+                "name": "View from after KJE Exit",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7747,
+                    1.3865
+                ],
+                "type": "Point"
+            },
+            "id": 71,
+            "type": "Feature",
+            "properties": {
+                "images": ["2708.jpg"],
+                "name": "View from Exit 5 to KJE (Towards Checkpoint)",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.78577,
+                    1.344205
+                ],
+                "type": "Point"
+            },
+            "id": 72,
+            "type": "Feature",
+            "properties": {
+                "images": ["6710.jpg"],
+                "name": "View from Entrance from Jalan Anak Bukit",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.770278,
+                    1.332691
+                ],
+                "type": "Point"
+            },
+            "id": 73,
+            "type": "Feature",
+            "properties": {
+                "images": ["6712.jpg"],
+                "name": "View from Exit 27 to Clementi Ave 6",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.703341,
+                    1.361742
+                ],
+                "type": "Point"
+            },
+            "id": 74,
+            "type": "Feature",
+            "properties": {
+                "images": ["6714.jpg"],
+                "name": "View from Exit 35 to KJE",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.663505,
+                    1.322893
+                ],
+                "type": "Point"
+            },
+            "id": 75,
+            "type": "Feature",
+            "properties": {
+                "images": ["6716.jpg"],
+                "name": "View from Tuas Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.977827,
+                    1.33771
+                ],
+                "type": "Point"
+            },
+            "id": 76,
+            "type": "Feature",
+            "properties": {
+                "images": ["6711.jpg"],
+                "name": "View from Entrance to PIE from ECP Changi",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.945652,
+                    1.340298
+                ],
+                "type": "Point"
+            },
+            "id": 77,
+            "type": "Feature",
+            "properties": {
+                "images": ["6713.jpg"],
+                "name": "View from Entrance from Simei Ave",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.716071,
+                    1.356299
+                ],
+                "type": "Point"
+            },
+            "id": 78,
+            "type": "Feature",
+            "properties": {
+                "images": ["6715.jpg"],
+                "name": "View from Hong Kah Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.81797086,
+                    1.39474081
+                ],
+                "type": "Point"
+            },
+            "id": 79,
+            "type": "Feature",
+            "properties": {
+                "images": ["9702.jpg"],
+                "name": "View from Upp Thomson Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.79542062,
+                    1.42214311
+                ],
+                "type": "Point"
+            },
+            "id": 80,
+            "type": "Feature",
+            "properties": {
+                "images": ["9704.jpg"],
+                "name": "View from Ulu Sembawang Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.78716637,
+                    1.42627712
+                ],
+                "type": "Point"
+            },
+            "id": 81,
+            "type": "Feature",
+            "properties": {
+                "images": ["9705.jpg"],
+                "name": "View from Marsiling Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.80642712,
+                    1.41270056
+                ],
+                "type": "Point"
+            },
+            "id": 82,
+            "type": "Feature",
+            "properties": {
+                "images": ["9706.jpg"],
+                "name": "View from Mandai Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.92946983,
+                    1.37704704
+                ],
+                "type": "Point"
+            },
+            "id": 83,
+            "type": "Feature",
+            "properties": {
+                "images": ["7793.jpg"],
+                "name": "View from Tampines Ave 10 Entrance",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.91585701,
+                    1.38432741
+                ],
+                "type": "Point"
+            },
+            "id": 84,
+            "type": "Feature",
+            "properties": {
+                "images": ["7795.jpg"],
+                "name": "View from Entrance To Tampines Flyover",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85702534,
+                    1.40002575
+                ],
+                "type": "Point"
+            },
+            "id": 85,
+            "type": "Feature",
+            "properties": {
+                "images": ["7797.jpg"],
+                "name": "View from Seletar West Link",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.92009174,
+                    1.37988658
+                ],
+                "type": "Point"
+            },
+            "id": 86,
+            "type": "Feature",
+            "properties": {
+                "images": ["7794.jpg"],
+                "name": "View from TPE(KPE) Exit",
+                "type": "#traffic_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.763002,
+                    1.312019
+                ],
+                "type": "Point"
+            },
+            "id": 87,
+            "type": "Feature",
+            "properties": {
+                "images": ["4709.jpg"],
+                "name": "View from Clementi Ave 6 Entrance",
+                "type": "#traffic_camera"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

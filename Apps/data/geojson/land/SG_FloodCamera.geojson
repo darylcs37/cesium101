@@ -1,0 +1,1722 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85012350647546,
+                    1.2790027739499055
+                ],
+                "type": "Point"
+            },
+            "id": 1,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv015.jpg"],
+                "cameraID": "cctv015",
+                "name": "Shenton Way",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84411338184744,
+                    1.2801641954412448
+                ],
+                "type": "Point"
+            },
+            "id": 2,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv016.jpg"],
+                "cameraID": "cctv016",
+                "name": "Maxwell Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.844785,
+                    1.2814465
+                ],
+                "type": "Point"
+            },
+            "id": 3,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv348.jpg"],
+                "cameraID": "cctv348",
+                "name": "ErSkine Road - South Bridge Road Junction",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8481241,
+                    1.2871251
+                ],
+                "type": "Point"
+            },
+            "id": 4,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv170.jpg"],
+                "cameraID": "cctv170",
+                "name": "South Bridge Road - HongKong Street",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85894,
+                    1.2881
+                ],
+                "type": "Point"
+            },
+            "id": 5,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv282.jpg"],
+                "cameraID": "cctv282",
+                "name": "Marina Bay - The Float",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85434,
+                    1.28865
+                ],
+                "type": "Point"
+            },
+            "id": 6,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv280.jpg"],
+                "cameraID": "cctv280",
+                "name": "Singapore River 4 - Esplanade Bridge",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.86377,
+                    1.28873
+                ],
+                "type": "Point"
+            },
+            "id": 7,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv283.jpg"],
+                "cameraID": "cctv283",
+                "name": "Marina Channel Singapore Flyer",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84924,
+                    1.28887
+                ],
+                "type": "Point"
+            },
+            "id": 8,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv285.jpg"],
+                "cameraID": "cctv285",
+                "name": "Singapore River 3 - Boat Quay",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84541,
+                    1.28939
+                ],
+                "type": "Point"
+            },
+            "id": 9,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv278.jpg"],
+                "cameraID": "cctv278",
+                "name": "Singapore River 2 - Clarke Quay",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83692,
+                    1.28975
+                ],
+                "type": "Point"
+            },
+            "id": 10,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv279.jpg"],
+                "cameraID": "cctv279",
+                "name": "Singapore River 1 - Robertson Quay",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8321753,
+                    1.2912066
+                ],
+                "type": "Point"
+            },
+            "id": 11,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv172.jpg"],
+                "cameraID": "cctv172",
+                "name": "Zion Road - Boy's Brigade HQ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8157786,
+                    1.2929849
+                ],
+                "type": "Point"
+            },
+            "id": 12,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv171.jpg"],
+                "cameraID": "cctv171",
+                "name": "Margaret Drive - Tanglin Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.86447,
+                    1.29424
+                ],
+                "type": "Point"
+            },
+            "id": 13,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv281.jpg"],
+                "cameraID": "cctv281",
+                "name": "Kallang Basin - Benjamin Shears Bridge",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8869999998765,
+                    1.2979858671157252
+                ],
+                "type": "Point"
+            },
+            "id": 14,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv028.jpg"],
+                "cameraID": "cctv028",
+                "name": "Meyer Road/Arthur Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8473107,
+                    1.2991984
+                ],
+                "type": "Point"
+            },
+            "id": 15,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv316.jpg"],
+                "cameraID": "cctv316",
+                "name": "Cathay Handy Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8379525,
+                    1.2995896
+                ],
+                "type": "Point"
+            },
+            "id": 16,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv017.jpg"],
+                "cameraID": "cctv017",
+                "name": "Exeter Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8405417,
+                    1.3004611
+                ],
+                "type": "Point"
+            },
+            "id": 17,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv315.jpg"],
+                "cameraID": "cctv315",
+                "name": "Killiney Post Office",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8414014,
+                    1.3012931
+                ],
+                "type": "Point"
+            },
+            "id": 18,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv212.jpg"],
+                "cameraID": "cctv212",
+                "name": "Kramat Lane",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7989790987667,
+                    1.3015798476593
+                ],
+                "type": "Point"
+            },
+            "id": 19,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv020.jpg"],
+                "cameraID": "cctv020",
+                "name": "Commonwealth Ave(New Town Pri)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.89671,
+                    1.3016561
+                ],
+                "type": "Point"
+            },
+            "id": 20,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv326.jpg"],
+                "cameraID": "cctv326",
+                "name": "Jalan SeaView - Mountbatten Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.76403,
+                    1.30183
+                ],
+                "type": "Point"
+            },
+            "id": 21,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv309.jpg"],
+                "cameraID": "cctv309",
+                "name": "SG Pandan Kechil - Linkway",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7655339,
+                    1.3022773
+                ],
+                "type": "Point"
+            },
+            "id": 22,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv308.jpg"],
+                "cameraID": "cctv308",
+                "name": "SG Pandan Kechil - Vehicular Bridge",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83435118866659,
+                    1.3037732204650991
+                ],
+                "type": "Point"
+            },
+            "id": 23,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv003.jpg"],
+                "cameraID": "cctv003",
+                "name": "Lucky Plaza",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83514208044178,
+                    1.3041433747724747
+                ],
+                "type": "Point"
+            },
+            "id": 24,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv214.jpg"],
+                "cameraID": "cctv214",
+                "name": "Mount Elizabeth",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.82337068935962,
+                    1.3043810576961077
+                ],
+                "type": "Point"
+            },
+            "id": 25,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv006.jpg"],
+                "cameraID": "cctv006",
+                "name": "Tanglin Mall ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.86881,
+                    1.30455
+                ],
+                "type": "Point"
+            },
+            "id": 26,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv284.jpg"],
+                "cameraID": "cctv284",
+                "name": "Rochor River - Merdeka Bridge",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.82555568392631,
+                    1.3047356199768279
+                ],
+                "type": "Point"
+            },
+            "id": 27,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv001.jpg"],
+                "cameraID": "cctv001",
+                "name": "Cuscaden Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83022846767739,
+                    1.3051154615549763
+                ],
+                "type": "Point"
+            },
+            "id": 28,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv005.jpg"],
+                "cameraID": "cctv005",
+                "name": "Wheelock Place",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8306368568307,
+                    1.30547066769995
+                ],
+                "type": "Point"
+            },
+            "id": 29,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv004.jpg"],
+                "cameraID": "cctv004",
+                "name": "Liat Tower",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.82778,
+                    1.30587
+                ],
+                "type": "Point"
+            },
+            "id": 30,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv002.jpg"],
+                "cameraID": "cctv002",
+                "name": "Cuscaden Road (Hard Rock Café)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8174413,
+                    1.306454
+                ],
+                "type": "Point"
+            },
+            "id": 31,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv216.jpg"],
+                "cameraID": "cctv216",
+                "name": "Holland Road - Minden Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.82867010640389,
+                    1.306489607763624
+                ],
+                "type": "Point"
+            },
+            "id": 32,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv024.jpg"],
+                "cameraID": "cctv024",
+                "name": "Forum Mall",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85575389543706,
+                    1.306617044356885
+                ],
+                "type": "Point"
+            },
+            "id": 33,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv013.jpg"],
+                "cameraID": "cctv013",
+                "name": "Veerasamy Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8267347,
+                    1.3066304
+                ],
+                "type": "Point"
+            },
+            "id": 34,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv314.jpg"],
+                "cameraID": "cctv314",
+                "name": "Tanglin Shopping Centre",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8642769,
+                    1.307124
+                ],
+                "type": "Point"
+            },
+            "id": 35,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv183.jpg"],
+                "cameraID": "cctv183",
+                "name": "Crawford Street",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83861178130492,
+                    1.3125397689731886
+                ],
+                "type": "Point"
+            },
+            "id": 36,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv182.jpg"],
+                "cameraID": "cctv182",
+                "name": "Newton Circus",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8298893,
+                    1.3128785
+                ],
+                "type": "Point"
+            },
+            "id": 37,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv184.jpg"],
+                "cameraID": "cctv184",
+                "name": "Balmoral Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8426631379155,
+                    1.3135540605896021
+                ],
+                "type": "Point"
+            },
+            "id": 38,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv009.jpg"],
+                "cameraID": "cctv009",
+                "name": "Lincoln Road / Keng Lee Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84909276060426,
+                    1.3157225938950936
+                ],
+                "type": "Point"
+            },
+            "id": 39,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv177.jpg"],
+                "cameraID": "cctv177",
+                "name": "Cambridge Road / Opp Pek Kio CC ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8447207,
+                    1.3165893
+                ],
+                "type": "Point"
+            },
+            "id": 40,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv012.jpg"],
+                "cameraID": "cctv012",
+                "name": "Thomson Road - Essex Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8447207,
+                    1.3165893
+                ],
+                "type": "Point"
+            },
+            "id": 41,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv320.jpg"],
+                "cameraID": "cctv320",
+                "name": "Thomson Road - Essex Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8447207,
+                    1.3165893
+                ],
+                "type": "Point"
+            },
+            "id": 42,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv350.jpg"],
+                "cameraID": "cctv350",
+                "name": "Thomson Road (Lion  Tower)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.862736015341,
+                    1.3169075795362375
+                ],
+                "type": "Point"
+            },
+            "id": 43,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv156.jpg"],
+                "cameraID": "cctv156",
+                "name": "Boon Keng Road / Bendemeer Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8811019,
+                    1.3173414
+                ],
+                "type": "Point"
+            },
+            "id": 44,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv322.jpg"],
+                "cameraID": "cctv322",
+                "name": "Lorong 23 Geylang",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7935327,
+                    1.3177036
+                ],
+                "type": "Point"
+            },
+            "id": 45,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv301.jpg"],
+                "cameraID": "cctv301",
+                "name": "Jalan Sampurna",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.80695357255587,
+                    1.3179285730594719
+                ],
+                "type": "Point"
+            },
+            "id": 46,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv300.jpg"],
+                "cameraID": "cctv300",
+                "name": "Queen's Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84425047346606,
+                    1.3182335494477433
+                ],
+                "type": "Point"
+            },
+            "id": 47,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv210.jpg"],
+                "cameraID": "cctv210",
+                "name": "Thomson Road / Moulmein Road (Slip Road)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85022577809625,
+                    1.3182637757690367
+                ],
+                "type": "Point"
+            },
+            "id": 48,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv181.jpg"],
+                "cameraID": "cctv181",
+                "name": "CTE (towards SLE) Exit 7A to Moulmein Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84373847145045,
+                    1.3186209253806296
+                ],
+                "type": "Point"
+            },
+            "id": 49,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv211.jpg"],
+                "cameraID": "cctv211",
+                "name": "Thomson Road / Moulmein Road (Junction)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8288654096015,
+                    1.3194544922019915
+                ],
+                "type": "Point"
+            },
+            "id": 50,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv014.jpg"],
+                "cameraID": "cctv014",
+                "name": "Robin Road (Bukit Timah Road)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.81933450515967,
+                    1.3226774522055587
+                ],
+                "type": "Point"
+            },
+            "id": 51,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv176.jpg"],
+                "cameraID": "cctv176",
+                "name": "Dunearn Rd / Kheam Hock Rd",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.92320476010372,
+                    1.3228669184075679
+                ],
+                "type": "Point"
+            },
+            "id": 52,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv296.jpg"],
+                "cameraID": "cctv296",
+                "name": "New Upper Changi Road/Chai Chee Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85244173106642,
+                    1.3228716292873408
+                ],
+                "type": "Point"
+            },
+            "id": 53,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv180.jpg"],
+                "cameraID": "cctv180",
+                "name": "Balestier Point",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85244173106642,
+                    1.3228716292873408
+                ],
+                "type": "Point"
+            },
+            "id": 54,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv371.jpg"],
+                "cameraID": "cctv371",
+                "name": "Balestier Point",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.92317471853345,
+                    1.323034017960574
+                ],
+                "type": "Point"
+            },
+            "id": 55,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv058.jpg"],
+                "cameraID": "cctv058",
+                "name": "Chai Chee Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8111948934559,
+                    1.3233499653244123
+                ],
+                "type": "Point"
+            },
+            "id": 56,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv008.jpg"],
+                "cameraID": "cctv008",
+                "name": "King's Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8418593,
+                    1.3244562
+                ],
+                "type": "Point"
+            },
+            "id": 57,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv178.jpg"],
+                "cameraID": "cctv178",
+                "name": "Thomson Road - Novena Rise",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85055,
+                    1.32473
+                ],
+                "type": "Point"
+            },
+            "id": 58,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv010.jpg"],
+                "cameraID": "cctv010",
+                "name": "Mandalay Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7665316,
+                    1.3256294
+                ],
+                "type": "Point"
+            },
+            "id": 59,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv197.jpg"],
+                "cameraID": "cctv197",
+                "name": "Sunset Drive - Sunset Square",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84986472685367,
+                    1.3257690194113037
+                ],
+                "type": "Point"
+            },
+            "id": 60,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv179.jpg"],
+                "cameraID": "cctv179",
+                "name": "Balestier Road / Prome Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7251657,
+                    1.3270659
+                ],
+                "type": "Point"
+            },
+            "id": 61,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv329.jpg"],
+                "cameraID": "cctv329",
+                "name": "Yuan Ching Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.80575210136088,
+                    1.3277200685166095
+                ],
+                "type": "Point"
+            },
+            "id": 62,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv007.jpg"],
+                "cameraID": "cctv007",
+                "name": "Hillcrest Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.6707207,
+                    1.3297423
+                ],
+                "type": "Point"
+            },
+            "id": 63,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv187.jpg"],
+                "cameraID": "cctv187",
+                "name": "PIE 41km",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7904309,
+                    1.330548
+                ],
+                "type": "Point"
+            },
+            "id": 64,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv313.jpg"],
+                "cameraID": "cctv313",
+                "name": "Garlick Avenue",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7904309,
+                    1.330548
+                ],
+                "type": "Point"
+            },
+            "id": 65,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv317.jpg"],
+                "cameraID": "cctv317",
+                "name": "Garlick Avenue",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.70830081367016,
+                    1.3308686485705654
+                ],
+                "type": "Point"
+            },
+            "id": 66,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv186.jpg"],
+                "cameraID": "cctv186",
+                "name": "Jalan Boon Lay / International Road ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8810748,
+                    1.3311136
+                ],
+                "type": "Point"
+            },
+            "id": 67,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv323.jpg"],
+                "cameraID": "cctv323",
+                "name": "Happy Avenue North",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8817869,
+                    1.3312747
+                ],
+                "type": "Point"
+            },
+            "id": 68,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv324.jpg"],
+                "cameraID": "cctv324",
+                "name": "Happy Avenue North - Outlet Drain",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7956683017527,
+                    1.3314311301179718
+                ],
+                "type": "Point"
+            },
+            "id": 69,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv011.jpg"],
+                "cameraID": "cctv011",
+                "name": "Sixth Ave (Bt Timah Canal)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.88242003343476,
+                    1.3322093014847227
+                ],
+                "type": "Point"
+            },
+            "id": 70,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv163.jpg"],
+                "cameraID": "cctv163",
+                "name": "Macpherson Road / Kg Ampat Road ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.88469616723525,
+                    1.332696551058745
+                ],
+                "type": "Point"
+            },
+            "id": 71,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv162.jpg"],
+                "cameraID": "cctv162",
+                "name": "Macpherson Road / Harvey Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.70700000038444,
+                    1.333236697784893
+                ],
+                "type": "Point"
+            },
+            "id": 72,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv037.jpg"],
+                "cameraID": "cctv037",
+                "name": "Enterprise Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.78929130106677,
+                    1.3335934661746864
+                ],
+                "type": "Point"
+            },
+            "id": 73,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv041.jpg"],
+                "cameraID": "cctv041",
+                "name": "Bt Timah Road (Wilby Road) ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.78995330686551,
+                    1.3339309128178054
+                ],
+                "type": "Point"
+            },
+            "id": 74,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv042.jpg"],
+                "cameraID": "cctv042",
+                "name": "Dunearn Road (Ascot Rise) ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7155649,
+                    1.3342722
+                ],
+                "type": "Point"
+            },
+            "id": 75,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv328.jpg"],
+                "cameraID": "cctv328",
+                "name": "Chin Bee Ave - Third Chin Bee Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.77687,
+                    1.33899
+                ],
+                "type": "Point"
+            },
+            "id": 76,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv046.jpg"],
+                "cameraID": "cctv046",
+                "name": "Pei Wah Avenue",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9226437,
+                    1.3394756
+                ],
+                "type": "Point"
+            },
+            "id": 77,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv233.jpg"],
+                "cameraID": "cctv233",
+                "name": "Bedok Reservoir - Deck 2",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9221789,
+                    1.339584
+                ],
+                "type": "Point"
+            },
+            "id": 78,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv232.jpg"],
+                "cameraID": "cctv232",
+                "name": "Bedok Reservoir - Deck 1",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8810645,
+                    1.3414909
+                ],
+                "type": "Point"
+            },
+            "id": 79,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv160.jpg"],
+                "cameraID": "cctv160",
+                "name": "Mount Vernon Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8844374,
+                    1.3423349
+                ],
+                "type": "Point"
+            },
+            "id": 80,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv325.jpg"],
+                "cameraID": "cctv325",
+                "name": "Lim Teck Boon Road - WEIR",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9196105,
+                    1.3423447
+                ],
+                "type": "Point"
+            },
+            "id": 81,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv234.jpg"],
+                "cameraID": "cctv234",
+                "name": "Bedok Reservoir - Intake",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.72034610052734,
+                    1.3446549215342234
+                ],
+                "type": "Point"
+            },
+            "id": 82,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv040.jpg"],
+                "cameraID": "cctv040",
+                "name": "Boon Lay Way",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.840687,
+                    1.3476295
+                ],
+                "type": "Point"
+            },
+            "id": 83,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv155.jpg"],
+                "cameraID": "cctv155",
+                "name": "Jalan Peminpin - Bishan Road Street 21",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8471341,
+                    1.3483182
+                ],
+                "type": "Point"
+            },
+            "id": 84,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv154.jpg"],
+                "cameraID": "cctv154",
+                "name": "Bishan Road - Bishan Street 21",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.88899954402355,
+                    1.3526414519959749
+                ],
+                "type": "Point"
+            },
+            "id": 85,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv205.jpg"],
+                "cameraID": "cctv205",
+                "name": "Lorong Ah Soo ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83496190021314,
+                    1.3533936081402371
+                ],
+                "type": "Point"
+            },
+            "id": 86,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv019.jpg"],
+                "cameraID": "cctv019",
+                "name": "Jalan Todak ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.76219660911651,
+                    1.3569760469836711
+                ],
+                "type": "Point"
+            },
+            "id": 87,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv194.jpg"],
+                "cameraID": "cctv194",
+                "name": "Jln Remaja ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.89102305583549,
+                    1.3610115786105355
+                ],
+                "type": "Point"
+            },
+            "id": 88,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv201.jpg"],
+                "cameraID": "cctv201",
+                "name": "Jln Teliti",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.70805230585717,
+                    1.3636611186389653
+                ],
+                "type": "Point"
+            },
+            "id": 89,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv153.jpg"],
+                "cameraID": "cctv153",
+                "name": "Tengah Flyover (Exit 35 towards KJE)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.94854101337853,
+                    1.3685794073536706
+                ],
+                "type": "Point"
+            },
+            "id": 90,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv203.jpg"],
+                "cameraID": "cctv203",
+                "name": "Pasir Ris St 51 ",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7645387,
+                    1.3696045
+                ],
+                "type": "Point"
+            },
+            "id": 91,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv188.jpg"],
+                "cameraID": "cctv188",
+                "name": "Cashew Road - Drain Outlet",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84076710711128,
+                    1.3698407507152057
+                ],
+                "type": "Point"
+            },
+            "id": 92,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv018.jpg"],
+                "cameraID": "cctv018",
+                "name": "Mayflower Avenue(Ang Mo Kio Ave 3)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8600229,
+                    1.3813748
+                ],
+                "type": "Point"
+            },
+            "id": 93,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv202.jpg"],
+                "cameraID": "cctv202",
+                "name": "Mimosa Walk",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.75669710450008,
+                    1.3866376655908748
+                ],
+                "type": "Point"
+            },
+            "id": 94,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv064.jpg"],
+                "cameraID": "cctv064",
+                "name": "KJE Slip Road - Woodlands Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.896206894824,
+                    1.3999841649426026
+                ],
+                "type": "Point"
+            },
+            "id": 95,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv021.jpg"],
+                "cameraID": "cctv021",
+                "name": "Punggol West Flyover (TPE towards PIE, slip road to Punggol Rd)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7557345162158,
+                    1.4130869319960675
+                ],
+                "type": "Point"
+            },
+            "id": 96,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv023.jpg"],
+                "cameraID": "cctv023",
+                "name": "Woodlands Road / Mandai Road",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.78684780202484,
+                    1.427499448523052
+                ],
+                "type": "Point"
+            },
+            "id": 97,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv056.jpg"],
+                "cameraID": "cctv056",
+                "name": "Woodlands Ave 2 (Slip road towards SLE)",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.835295,
+                    1.4308475
+                ],
+                "type": "Point"
+            },
+            "id": 98,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv298.jpg"],
+                "cameraID": "cctv298",
+                "name": "Yishun Avenue 2 - Yishun Avenue 5",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.82418638875649,
+                    1.4418014622889122
+                ],
+                "type": "Point"
+            },
+            "id": 99,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv294.jpg"],
+                "cameraID": "cctv294",
+                "name": "Sembawang Shopping Centre",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8114868,
+                    1.4442164
+                ],
+                "type": "Point"
+            },
+            "id": 100,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv299.jpg"],
+                "cameraID": "cctv299",
+                "name": "Woodlands Avenue 12 - Gambas Avenue",
+                "type": "#flood_camera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.81197,
+                    1.44448
+                ],
+                "type": "Point"
+            },
+            "id": 101,
+            "type": "Feature",
+            "properties": {
+                "images": ["cctv055.jpg"],
+                "cameraID": "cctv055",
+                "name": "Gambas Avenue - Woodlands Avenue 10",
+                "type": "#flood_camera"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

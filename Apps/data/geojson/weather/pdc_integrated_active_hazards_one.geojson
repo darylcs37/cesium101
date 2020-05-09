@@ -1,0 +1,2630 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    161.35999999997645,
+                    56.65300000016281
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542259137000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "1",
+                "master_incident_id": "130.1541829033500.1",
+                "type_id": "VOLCANO",
+                "latitude": "56.653",
+                "type": "VOLCANO",
+                "uuid": "f829f67c-e5ff-4337-992d-b54dcecc22fc",
+                "update_date": "1541829077000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541829078000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/f829f67c-e5ff-4337-992d-b54dcecc22fc/index.html",
+                "hazard_id": "4.2533E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Sheveluch, Russia",
+                "create_date": "1541413263000",
+                "objectid": "86088",
+                "start_date": "1541413080000",
+                "longitude": "161.36",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.24740000032372,
+                    8.730100000390998
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541842783000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "36",
+                "master_incident_id": "3.1541828079935.42",
+                "type_id": "EARTHQUAKE",
+                "latitude": "8.7301",
+                "type": "EARTHQUAKE",
+                "uuid": "aa7befe4-0586-4f80-adc6-fdaa940ed62d",
+                "update_date": "1541756383000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541828088000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/aa7befe4-0586-4f80-adc6-fdaa940ed62d/index.html",
+                "hazard_id": "4.2599E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Earthquake - 5.3 - 13km NW of Golfito, Costa Rica",
+                "create_date": "1541756383000",
+                "objectid": "86221",
+                "start_date": "1541755231000",
+                "longitude": "-83.2474",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    156.01399999980433,
+                    50.68599999982531
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542245824000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "2",
+                "master_incident_id": "130.1541827839167.1",
+                "type_id": "VOLCANO",
+                "latitude": "50.686",
+                "type": "VOLCANO",
+                "uuid": "71630932-84db-46aa-b40a-f3db1290e387",
+                "update_date": "1541827886000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541827887000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/71630932-84db-46aa-b40a-f3db1290e387/index.html",
+                "hazard_id": "4.25494E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Ebeko, Russia",
+                "create_date": "1541457427000",
+                "objectid": "86121",
+                "start_date": "1541457300000",
+                "longitude": "156.014",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.50000000041285,
+                    21.500000000185093
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541835000000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "78",
+                "master_incident_id": "18.1541827394553.1",
+                "type_id": "FLOOD",
+                "latitude": "21.5",
+                "type": "FLOOD",
+                "uuid": "24e7a003-2119-4697-ac2b-866077f316f5",
+                "update_date": "1541827414000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541827426000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/24e7a003-2119-4697-ac2b-866077f316f5/index.html",
+                "hazard_id": "4.261E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Flood - Advisory (Hawaiian Islands)",
+                "create_date": "1541824402000",
+                "objectid": "86244",
+                "start_date": "1541824260000",
+                "longitude": "-155.5",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.76700000017834,
+                    10.02500000002968
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542258691000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "33",
+                "master_incident_id": "130.1541826643143.1",
+                "type_id": "VOLCANO",
+                "latitude": "10.025",
+                "type": "VOLCANO",
+                "uuid": "2a9e240d-e86e-41e5-bfd8-930c2f8a0e4d",
+                "update_date": "1541826691000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541826691000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/2a9e240d-e86e-41e5-bfd8-930c2f8a0e4d/index.html",
+                "hazard_id": "4.25336E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Volcano - Turrialba, Costa Rica",
+                "create_date": "1541422616000",
+                "objectid": "86089",
+                "start_date": "1541422320000",
+                "longitude": "-83.767",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.65599999961866,
+                    -0.07700000025830205
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542215824000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "35",
+                "master_incident_id": "130.1541824844069.1",
+                "type_id": "VOLCANO",
+                "latitude": "-0.077",
+                "type": "VOLCANO",
+                "uuid": "03cc7727-bd57-4706-84ab-7b8161af9046",
+                "update_date": "1541824888000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541824888000",
+                "snc_url": "http://volcano.si.edu/volcano.cfm?vn=352010",
+                "hazard_id": "4.6857E-320",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Reventador, Ecuador",
+                "create_date": "1254190790000",
+                "objectid": "9484",
+                "start_date": "1254190790000",
+                "longitude": "-77.656",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.50000000041285,
+                    21.500000000185093
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541834100000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "77",
+                "master_incident_id": "20.1541824000858.1",
+                "type_id": "FLOOD",
+                "latitude": "21.5",
+                "type": "FLOOD",
+                "uuid": "caafb745-6919-4d63-968a-4a2f186b8ca8",
+                "update_date": "1541824018000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541824068000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/caafb745-6919-4d63-968a-4a2f186b8ca8/index.html",
+                "hazard_id": "4.26097E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Flood - Warning (Hawaiian Islands)",
+                "create_date": "1541824018000",
+                "objectid": "86243",
+                "start_date": "1541823720000",
+                "longitude": "-155.5",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    105.42300000000648,
+                    -6.101999999575889
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542255074000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "61",
+                "master_incident_id": "130.1541823033028.1",
+                "type_id": "VOLCANO",
+                "latitude": "-6.102",
+                "type": "VOLCANO",
+                "uuid": "d924ef9f-8b95-43dd-b4d0-861b2d7f2ca7",
+                "update_date": "1541823074000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541823079000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/d924ef9f-8b95-43dd-b4d0-861b2d7f2ca7/index.html",
+                "hazard_id": "4.2555E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Volcano - Krakatau, Indonesia",
+                "create_date": "1541473982000",
+                "objectid": "86132",
+                "start_date": "1541473800000",
+                "longitude": "105.423",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.56042501114217,
+                    9.238299158946035
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541912400000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "76",
+                "master_incident_id": "",
+                "type_id": "WILDFIRE",
+                "latitude": "9.238299159",
+                "type": "WILDFIRE",
+                "uuid": "0657822b-0b27-47cf-bd12-c0434625f80d",
+                "update_date": "1541822571000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541822613000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/0657822b-0b27-47cf-bd12-c0434625f80d/index.html",
+                "hazard_id": "4.25865E-319",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Wildfire - NW of Aweil, North Bahr-al-Ghazal - South Sudan",
+                "create_date": "1541647633000",
+                "objectid": "86196",
+                "start_date": "1541635200000",
+                "longitude": "25.560425011",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.85000000002958,
+                    -15.779999999986844
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542254218000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "53",
+                "master_incident_id": "130.1541822179821.1",
+                "type_id": "VOLCANO",
+                "latitude": "-15.78",
+                "type": "VOLCANO",
+                "uuid": "428984f9-94ce-4c70-a1b0-d0d28e923e96",
+                "update_date": "1541822218000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541822385000",
+                "snc_url": "http://volcano.si.edu/volcano.cfm?vn=354006",
+                "hazard_id": "1.546E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Volcano - Sabancaya, Peru",
+                "create_date": "1362014928000",
+                "objectid": "31291",
+                "start_date": "1361988000000",
+                "longitude": "-71.85",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.55000061514471,
+                    39.77604098806714
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542397488000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "4",
+                "master_incident_id": "",
+                "type_id": "WILDFIRE",
+                "latitude": "39.776040988",
+                "type": "WILDFIRE",
+                "uuid": "cf1ef40a-d6fc-4c66-942b-b77e31931320",
+                "update_date": "1541822362000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541822447000",
+                "snc_url": "http://www.fire.ca.gov/current_incidents/incidentdetails/Index/2277",
+                "hazard_id": "4.25914E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Wildfire - Butte County (Camp Fire), California, United States",
+                "create_date": "1541706316000",
+                "objectid": "86206",
+                "start_date": "1541706288000",
+                "longitude": "-121.550000615",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.79398936308341,
+                    34.12897996310575
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542396185000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "3",
+                "master_incident_id": "",
+                "type_id": "WILDFIRE",
+                "latitude": "34.128979963",
+                "type": "WILDFIRE",
+                "uuid": "43e04edc-e16a-4ad8-91da-a436b46abcb6",
+                "update_date": "1541822361000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541822392000",
+                "snc_url": "http://www.fire.ca.gov/current_incidents",
+                "hazard_id": "4.26013E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Wildfires - Ventura County (Woolsey Fire and Hill Fire), California, United States",
+                "create_date": "1541791417000",
+                "objectid": "86226",
+                "start_date": "1541791385000",
+                "longitude": "-118.793989363",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    128.81640581369308,
+                    -15.111651189183187
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541912400000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "75",
+                "master_incident_id": "",
+                "type_id": "WILDFIRE",
+                "latitude": "-15.111651189",
+                "type": "WILDFIRE",
+                "uuid": "a8258076-de27-49f7-bfb9-401345845325",
+                "update_date": "1541822238000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541822337000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/a8258076-de27-49f7-bfb9-401345845325/index.html",
+                "hazard_id": "128.81628418213865",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Wildfire - NE of Wyndham, Western Australia - Australia",
+                "create_date": "1541822238000",
+                "objectid": "86242",
+                "start_date": "1541808000000",
+                "longitude": "128.816405814",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    127.87999999960635,
+                    1.6799999999657362
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542080817000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "37",
+                "master_incident_id": "130.1541821583216.1",
+                "type_id": "VOLCANO",
+                "latitude": "1.68",
+                "type": "VOLCANO",
+                "uuid": "16d62e8d-71e1-4e7b-b611-cb2f3ff0eb73",
+                "update_date": "1541821617000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541821809000",
+                "snc_url": "http://volcano.si.edu/volcano.cfm?vn=268010",
+                "hazard_id": "4.684E-320",
+                "severity_id": "WATCH",
+                "hazard_name": "Volcano - Dukono, Indonesia",
+                "create_date": "1254190779000",
+                "objectid": "9481",
+                "start_date": "1254190779000",
+                "longitude": "127.88",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    52.80000000013613,
+                    -13.099999999796482
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541905200000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "55",
+                "master_incident_id": "55.1541819746767.1",
+                "type_id": "CYCLONE",
+                "latitude": "-13.1",
+                "type": "CYCLONE",
+                "uuid": "1d863a0d-750d-41f9-9a43-a77ebc78817c",
+                "update_date": "1541819791000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541819792000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/1d863a0d-750d-41f9-9a43-a77ebc78817c/index.html",
+                "hazard_id": "4.25534E-319",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Tropical Cyclone - Alcide",
+                "create_date": "1541471184000",
+                "objectid": "86129",
+                "start_date": "1541473200000",
+                "longitude": "52.8",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.62199999987222,
+                    19.022999999824833
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542075087000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "20",
+                "master_incident_id": "130.1541815841992.1",
+                "type_id": "VOLCANO",
+                "latitude": "19.023",
+                "type": "VOLCANO",
+                "uuid": "dd76b4d9-d971-4b67-a643-5783698af34c",
+                "update_date": "1541815887000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541816103000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/dd76b4d9-d971-4b67-a643-5783698af34c/index.html",
+                "hazard_id": "4.2579E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Volcano - Popocatepetl, Mexico",
+                "create_date": "1541552822000",
+                "objectid": "86181",
+                "start_date": "1541552700000",
+                "longitude": "-98.622",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.49999999957498,
+                    21.500000000185093
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541995200000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "74",
+                "master_incident_id": "16.1541814635782.12",
+                "type_id": "HIGHSURF",
+                "latitude": "21.5",
+                "type": "HIGHSURF",
+                "uuid": "7bcf4acb-34ba-4ebd-b191-00411ae1e9e1",
+                "update_date": "1541814658000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541814710000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/7bcf4acb-34ba-4ebd-b191-00411ae1e9e1/index.html",
+                "hazard_id": "4.26087E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Highsurf - Advisory (Hawaiian Islands)",
+                "create_date": "1541814658000",
+                "objectid": "86241",
+                "start_date": "1541814480000",
+                "longitude": "-156.5",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.58799999983975,
+                    -3.608000000252927
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542071103000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "60",
+                "master_incident_id": "130.1541811868914.1",
+                "type_id": "VOLCANO",
+                "latitude": "-3.608",
+                "type": "VOLCANO",
+                "uuid": "f82b12cb-c01d-4bfd-aa93-6a190b65bda6",
+                "update_date": "1541811903000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541812060000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/f82b12cb-c01d-4bfd-aa93-6a190b65bda6/index.html",
+                "hazard_id": "4.2595E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Volcano - Kadovar, Papua New Guinea",
+                "create_date": "1541734498000",
+                "objectid": "86213",
+                "start_date": "1541734320000",
+                "longitude": "144.588",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.592950000201846,
+                    -0.5520300002982498
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1534194718000",
+                "charter_uri": "",
+                "glide_uri": "http://www.glidenumber.net/glide/public/search/details.jsp?glide=21139",
+                "ESRI_OID": "52",
+                "master_incident_id": "",
+                "type_id": "BIOMEDICAL",
+                "latitude": "-0.55203",
+                "type": "BIOMEDICAL",
+                "uuid": "8c44006d-8b9f-44b4-9352-886fe05bb10d",
+                "update_date": "1539816666000",
+                "autoexpire": "N",
+                "category_id": "EVENT",
+                "last_update": "1541809706000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/8c44006d-8b9f-44b4-9352-886fe05bb10d/index.html",
+                "hazard_id": "4.1014E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Ebola virus disease ‚\u20ac\u201c Democratic Republic of the Congo",
+                "create_date": "1533590139000",
+                "objectid": "83013",
+                "start_date": "1533589918000",
+                "longitude": "28.59295",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.21699999975112,
+                    30.443000000378046
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541894820000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "25",
+                "master_incident_id": "130.1541808390615.1",
+                "type_id": "VOLCANO",
+                "latitude": "30.443",
+                "type": "VOLCANO",
+                "uuid": "10e04556-350c-4a9e-89cb-6414d3097889",
+                "update_date": "1541808420000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541808422000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/10e04556-350c-4a9e-89cb-6414d3097889/index.html",
+                "hazard_id": "4.2384E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Kuchinoerabujima, Japan",
+                "create_date": "1540121479000",
+                "objectid": "85786",
+                "start_date": "1540121400000",
+                "longitude": "130.217",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.88000000006556,
+                    14.473000000363953
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542237200000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "34",
+                "master_incident_id": "130.1541805158742.1",
+                "type_id": "VOLCANO",
+                "latitude": "14.473",
+                "type": "VOLCANO",
+                "uuid": "49c2bfc2-d0d7-4e36-ad0a-22d470252891",
+                "update_date": "1541805200000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541805201000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/49c2bfc2-d0d7-4e36-ad0a-22d470252891/index.html",
+                "hazard_id": "4.229E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Volcano - Fuego, Guatemala",
+                "create_date": "1539335693000",
+                "objectid": "85596",
+                "start_date": "1539335460000",
+                "longitude": "-90.88",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.55199999994805,
+                    14.755999999821553
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542227100000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "38",
+                "master_incident_id": "130.1541795074769.1",
+                "type_id": "VOLCANO",
+                "latitude": "14.756",
+                "type": "VOLCANO",
+                "uuid": "1f645aa4-de96-49a8-8380-28cb786a3ab5",
+                "update_date": "1541795100000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541795100000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/1f645aa4-de96-49a8-8380-28cb786a3ab5/index.html",
+                "hazard_id": "4.25993E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Volcano - Santa Maria, Guatemala",
+                "create_date": "1541774486000",
+                "objectid": "86222",
+                "start_date": "1541774220000",
+                "longitude": "-91.552",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.85180020136482,
+                    51.45814884880477
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053736000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "5",
+                "master_incident_id": "",
+                "type_id": "AVALANCHE",
+                "latitude": "51.45814884899705",
+                "type": "AVALANCHE",
+                "uuid": "f90f010e-0d55-4998-ac7e-bcb2060c48ba",
+                "update_date": "1541794616000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541794778000",
+                "snc_url": "https://avalanche.pc.gc.ca/index-eng.aspx?d=TODAY",
+                "hazard_id": "4.26077E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Avalanches - Banff National Park, Canada",
+                "create_date": "1541794561000",
+                "objectid": "86239",
+                "start_date": "1541794536000",
+                "longitude": "-115.8518002013559",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.59153538172083,
+                    -0.16814151233333302
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053857000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "39",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "-0.1681415126227635",
+                "type": "FLOOD",
+                "uuid": "eaf9dfe1-6fb9-4da4-917d-a1de7a7c57f1",
+                "update_date": "1541794732000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541794805000",
+                "snc_url": "https://www.bnpb.go.id/banjir-dan-longsor-melanda-sebagian-sumatera-barat-2-tewas",
+                "hazard_id": "4.2608E-319",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Floods - North Sumatra, West Sumatra, and Lampung, Indonesia",
+                "create_date": "1541794681000",
+                "objectid": "86240",
+                "start_date": "1541794657000",
+                "longitude": "101.59153538209779",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.31574602608646,
+                    52.678864696294625
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053625000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "6",
+                "master_incident_id": "",
+                "type_id": "WINTERSTORM",
+                "latitude": "52.67886469656132",
+                "type": "WINTERSTORM",
+                "uuid": "1c175789-95c6-427b-aee7-384e2558adc0",
+                "update_date": "1541794512000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541794562000",
+                "snc_url": "https://weather.gc.ca/warnings/",
+                "hazard_id": "4.2607E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Winter Storms - Eastern Canada",
+                "create_date": "1541794453000",
+                "objectid": "86238",
+                "start_date": "1541794425000",
+                "longitude": "-66.31574602594173",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.664714953507099,
+                    41.93368293307358
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053523000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "7",
+                "master_incident_id": "",
+                "type_id": "HIGHWIND",
+                "latitude": "41.93368293288314",
+                "type": "HIGHWIND",
+                "uuid": "84859a79-d06e-403a-a161-910e7495d980",
+                "update_date": "1541794398000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541794502000",
+                "snc_url": "http://www.meteoalarm.eu/?lang=en_UK",
+                "hazard_id": "4.26067E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "High Wind - Northern Portugal and Northern Spain",
+                "create_date": "1541794351000",
+                "objectid": "86237",
+                "start_date": "1541794323000",
+                "longitude": "-7.66471495373321",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.62741650323267,
+                    43.42833742051524
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053418000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "8",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "43.428337420467656",
+                "type": "STORM",
+                "uuid": "246caf41-8614-4a93-8377-569eecfe29b3",
+                "update_date": "1541794298000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541794474000",
+                "snc_url": "http://www.jma.go.jp/en/warn/index.html",
+                "hazard_id": "4.2606E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Storms - Northern Japan",
+                "create_date": "1541794245000",
+                "objectid": "86236",
+                "start_date": "1541794218000",
+                "longitude": "142.62741650347516",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.49505976900396,
+                    40.56023641658489
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053326000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "9",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "40.56023641681743",
+                "type": "FLOOD",
+                "uuid": "c2633334-2a9a-4484-a887-b4d727bf7f1b",
+                "update_date": "1541794196000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541794306000",
+                "snc_url": "https://www.wpc.ncep.noaa.gov/nationalfloodoutlook/",
+                "hazard_id": "4.26058E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Floods - Mid Atlantic, United States",
+                "create_date": "1541794149000",
+                "objectid": "86235",
+                "start_date": "1541794126000",
+                "longitude": "-74.49505976886826",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.22260105090882,
+                    -26.832874067811765
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053197000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "56",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "-26.832874067836006",
+                "type": "FLOOD",
+                "uuid": "81a8dce0-8873-40ed-809f-bc98552712ea",
+                "update_date": "1541794083000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541794278000",
+                "snc_url": "https://www.paho.org/disasters/index.php?option=com_content&view=article&id=3828:natural-disasters-monitoring-november-8-2018&Itemid=1242&lang=en",
+                "hazard_id": "4.26053E-319",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Floods - Tucuma, Argentina",
+                "create_date": "1541794026000",
+                "objectid": "86234",
+                "start_date": "1541793997000",
+                "longitude": "-65.22260105086366",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.3247840210999,
+                    47.5242717025697
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542053080000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "10",
+                "master_incident_id": "",
+                "type_id": "WINTERSTORM",
+                "latitude": "47.524271702500094",
+                "type": "WINTERSTORM",
+                "uuid": "a91f58fb-dd02-42a8-bae0-fdcb57330dca",
+                "update_date": "1541793952000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541793984000",
+                "snc_url": "https://www.weather.gov/tfx/",
+                "hazard_id": "4.2605E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Winter Storm - Great Falls, Montana, United States",
+                "create_date": "1541793907000",
+                "objectid": "86233",
+                "start_date": "1541793880000",
+                "longitude": "-111.3247840207751",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.74471973698957,
+                    39.153150665169996
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542052975000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "11",
+                "master_incident_id": "",
+                "type_id": "WINTERSTORM",
+                "latitude": "39.15315066503205",
+                "type": "WINTERSTORM",
+                "uuid": "11d146ae-113a-4e15-8548-2ea720fd496b",
+                "update_date": "1541793857000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541793956000",
+                "snc_url": "https://www.weather.gov/",
+                "hazard_id": "4.26043E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Winter Storms - Eastern Missouri and West-Central Illinois, United States",
+                "create_date": "1541793809000",
+                "objectid": "86232",
+                "start_date": "1541793775000",
+                "longitude": "-90.74471973695643",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.72557502693296,
+                    -21.52147118226998
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542224769000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "57",
+                "master_incident_id": "",
+                "type_id": "HIGHWIND",
+                "latitude": "-21.521471182309728",
+                "type": "HIGHWIND",
+                "uuid": "0324ac4e-136f-47e8-ae0e-2250ec4c0a82",
+                "update_date": "1541792850000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541792867000",
+                "snc_url": "http://www.senamhi.gob.bo/alerta1.php?id=429",
+                "hazard_id": "4.2604E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "High Wind - Tarija, Santa Cruz, and Chuquisaca, Bolivia",
+                "create_date": "1541792801000",
+                "objectid": "86231",
+                "start_date": "1541792769000",
+                "longitude": "-64.72557502674266",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    48.43977697952089,
+                    29.947130544544315
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051845000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "12",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "29.947130544753364",
+                "type": "FLOOD",
+                "uuid": "fc168218-54b0-48be-a4a0-249b51cfaeef",
+                "update_date": "1541792719000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541792762000",
+                "snc_url": "http://floodlist.com/asia/flooding-iran-iraq-and-kuwait-november-2018",
+                "hazard_id": "4.26033E-319",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Floods - Iran, Iraq, and Kuwait",
+                "create_date": "1541792667000",
+                "objectid": "86230",
+                "start_date": "1541792645000",
+                "longitude": "48.43977697984042",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.03143945556491,
+                    44.0248054317279
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051711000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "13",
+                "master_incident_id": "",
+                "type_id": "WINTERSTORM",
+                "latitude": "44.02480543171333",
+                "type": "WINTERSTORM",
+                "uuid": "4a737be7-0478-4a18-b73a-54b2a21df1a1",
+                "update_date": "1541792618000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541792618000",
+                "snc_url": "https://www.weather.gov/",
+                "hazard_id": "4.2603E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Winter Storms - Northeastern United States",
+                "create_date": "1541792547000",
+                "objectid": "86229",
+                "start_date": "1541792511000",
+                "longitude": "-72.03143945588914",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.73859999979936,
+                    -30.650599999622717
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541877226000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "58",
+                "master_incident_id": "3.1541792478695.1",
+                "type_id": "EARTHQUAKE",
+                "latitude": "-30.6506",
+                "type": "EARTHQUAKE",
+                "uuid": "1e9ccfe3-7f67-48df-a1bc-4562395d2034",
+                "update_date": "1541790826000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541792485000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/1e9ccfe3-7f67-48df-a1bc-4562395d2034/index.html",
+                "hazard_id": "4.2601E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Earthquake - 5.2 - 51km W of Ovalle, Chile",
+                "create_date": "1541790826000",
+                "objectid": "86225",
+                "start_date": "1541789649000",
+                "longitude": "-71.7386",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.952687612846071,
+                    53.186390027006006
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051579000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "14",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "53.18639002718888",
+                "type": "STORM",
+                "uuid": "be9eefce-807e-478c-a0cd-302dddaa86ef",
+                "update_date": "1541792486000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541792486000",
+                "snc_url": "http://www.meteoalarm.eu/en_UK/0/0/IE-Ireland.html",
+                "hazard_id": "4.26023E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Storms - Ireland",
+                "create_date": "1541792415000",
+                "objectid": "86228",
+                "start_date": "1541792379000",
+                "longitude": "-7.952687612726777",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -53.349632107361856,
+                    -11.928864005635772
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051383000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "59",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "-11.928864005677298",
+                "type": "FLOOD",
+                "uuid": "1ba91327-7df3-4a1a-8401-fb8341839d25",
+                "update_date": "1541792270000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541792273000",
+                "snc_url": "http://www.inmet.gov.br/portal/",
+                "hazard_id": "4.2602E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Floods - Central Brazil",
+                "create_date": "1541792222000",
+                "objectid": "86227",
+                "start_date": "1541792183000",
+                "longitude": "-53.34963210763834",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.85224376417844,
+                    37.085982428249636
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1517516284000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "15",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "37.085982428250794",
+                "type": "DROUGHT",
+                "uuid": "6ff289a5-dcf7-4434-ab47-faef4274decb",
+                "update_date": "1539097144000",
+                "autoexpire": "N",
+                "category_id": "EVENT",
+                "last_update": "1541791903000",
+                "snc_url": "http://droughtmonitor.unl.edu/",
+                "hazard_id": "3.7917E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Drought - Western United States",
+                "create_date": "1516911548000",
+                "objectid": "76745",
+                "start_date": "1516911484000",
+                "longitude": "-113.85224376420359",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.67720067289693,
+                    42.33667904815833
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051377000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "16",
+                "master_incident_id": "",
+                "type_id": "WINTERSTORM",
+                "latitude": "42.336679047979544",
+                "type": "WINTERSTORM",
+                "uuid": "e16f2572-1225-40d7-a47f-2288f5f462e7",
+                "update_date": "1541791019000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541791019000",
+                "snc_url": "https://www.weather.gov/",
+                "hazard_id": "4.259E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Winter Storms - Southwestern Michigan, United States",
+                "create_date": "1541705804000",
+                "objectid": "86203",
+                "start_date": "1541705777000",
+                "longitude": "-85.67720067327178",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.55432488728849,
+                    51.32807112605482
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542059320000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "17",
+                "master_incident_id": "",
+                "type_id": "AVALANCHE",
+                "latitude": "51.328071126205344",
+                "type": "AVALANCHE",
+                "uuid": "e51caa8f-46aa-40c4-8e8b-9c5fc5a5bb4a",
+                "update_date": "1541789583000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541789583000",
+                "snc_url": "https://avalanche.pc.gc.ca/index-eng.aspx?d=TODAY",
+                "hazard_id": "4.2544E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Avalanches - Glacier National Park, Canada",
+                "create_date": "1541454545000",
+                "objectid": "86110",
+                "start_date": "1541454520000",
+                "longitude": "-117.55432488742707",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -11.239900000293616,
+                    71.62260000004505
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541902294000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "40",
+                "master_incident_id": "3.1541755757806.14",
+                "type_id": "EARTHQUAKE",
+                "latitude": "71.6226",
+                "type": "EARTHQUAKE",
+                "uuid": "13c41690-f776-448b-bea6-bc34fc70b847",
+                "update_date": "1541729494000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541755767000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/13c41690-f776-448b-bea6-bc34fc70b847/index.html",
+                "hazard_id": "4.2593E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Earthquake - 6.8 - 119km NW of Olonkinbyen, Svalbard and Jan Mayen",
+                "create_date": "1541728674000",
+                "objectid": "86209",
+                "start_date": "1541728180000",
+                "longitude": "-11.2399",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.005999999666397,
+                    -42.71500000029219
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541924076000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "62",
+                "master_incident_id": "3.1541751239021.1",
+                "type_id": "EARTHQUAKE",
+                "latitude": "-42.715",
+                "type": "EARTHQUAKE",
+                "uuid": "3bb16daf-2973-4a7c-9f15-75fc5855f93e",
+                "update_date": "1541751276000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541751287000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/3bb16daf-2973-4a7c-9f15-75fc5855f93e/index.html",
+                "hazard_id": "4.2598E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Earthquake - 5.8 - Southern Mid-Atlantic Ridge",
+                "create_date": "1541751173000",
+                "objectid": "86219",
+                "start_date": "1541750092000",
+                "longitude": "-16.006",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.13750000021152,
+                    -42.60059999980304
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541923290000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "63",
+                "master_incident_id": "3.1541750457170.2",
+                "type_id": "EARTHQUAKE",
+                "latitude": "-42.6006",
+                "type": "EARTHQUAKE",
+                "uuid": "6aa31a0a-0ef8-4007-849e-4f40b7fc5a6a",
+                "update_date": "1541750490000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541750502000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/6aa31a0a-0ef8-4007-849e-4f40b7fc5a6a/index.html",
+                "hazard_id": "4.2597E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Earthquake - 5.5 - Southern Mid-Atlantic Ridge",
+                "create_date": "1541750307000",
+                "objectid": "86217",
+                "start_date": "1541749156000",
+                "longitude": "-16.1375",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.383099999802322,
+                    -42.56530000017797
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541834039000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "64",
+                "master_incident_id": "3.1541747619219.1",
+                "type_id": "EARTHQUAKE",
+                "latitude": "-42.5653",
+                "type": "EARTHQUAKE",
+                "uuid": "20d3db69-bbce-48b0-ab2c-7991de235240",
+                "update_date": "1541747639000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541747686000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/20d3db69-bbce-48b0-ab2c-7991de235240/index.html",
+                "hazard_id": "4.25964E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Earthquake - 5.0 - Tristan da Cunha region",
+                "create_date": "1541747639000",
+                "objectid": "86216",
+                "start_date": "1541744242000",
+                "longitude": "-15.3831",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    108.23755366681979,
+                    -7.370881843794042
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051498000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "65",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "-7.370881844236051",
+                "type": "FLOOD",
+                "uuid": "ca871a50-75c9-4646-942c-465a5d723774",
+                "update_date": "1541706023000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541706075000",
+                "snc_url": "http://adinet.ahacentre.org/reports/view/1338",
+                "hazard_id": "4.25904E-319",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Floods - Tasikmalaya Regency, Indonesia",
+                "create_date": "1541705969000",
+                "objectid": "86204",
+                "start_date": "1541705898000",
+                "longitude": "108.23755366646219",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.9635141464198,
+                    8.821592637058725
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542050367000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "42",
+                "master_incident_id": "",
+                "type_id": "LANDSLIDE",
+                "latitude": "8.821592637137794",
+                "type": "LANDSLIDE",
+                "uuid": "08f23f07-4a02-44a8-901d-d7679c86b3df",
+                "update_date": "1541704868000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541704869000",
+                "snc_url": "https://www.paho.org/disasters/index.php?option=com_content&view=article&id=3827:natural-disasters-monitoring-november-7-2018&Itemid=1242&lang=en",
+                "hazard_id": "4.25885E-319",
+                "severity_id": "INFORMATION",
+                "hazard_name": "Landslides - Santa Clara Vieja, Costa Rica",
+                "create_date": "1541704801000",
+                "objectid": "86200",
+                "start_date": "1541704767000",
+                "longitude": "-82.9635141466623",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.37700000043579,
+                    -36.86300000020376
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542046285000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "66",
+                "master_incident_id": "130.1541675660028.1",
+                "type_id": "VOLCANO",
+                "latitude": "-36.863",
+                "type": "VOLCANO",
+                "uuid": "67af8c4f-1a38-4d14-93c6-8a00918837c5",
+                "update_date": "1541675698000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541675698000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/67af8c4f-1a38-4d14-93c6-8a00918837c5/index.html",
+                "hazard_id": "4.25825E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Nevados de Chill√°n, Chile",
+                "create_date": "1541602880000",
+                "objectid": "86188",
+                "start_date": "1541602560000",
+                "longitude": "-71.377",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.56800000000243,
+                    -35.22299999994262
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542033686000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "67",
+                "master_incident_id": "130.1541623098581.1",
+                "type_id": "VOLCANO",
+                "latitude": "-35.223",
+                "type": "VOLCANO",
+                "uuid": "ab591886-e4e8-4fe7-b6d9-187db75b80a2",
+                "update_date": "1541623136000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541623137000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/ab591886-e4e8-4fe7-b6d9-187db75b80a2/index.html",
+                "hazard_id": "4.2582E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Planchon-Peteroa, Chile",
+                "create_date": "1541599881000",
+                "objectid": "86187",
+                "start_date": "1541599500000",
+                "longitude": "-70.568",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.48615333508772,
+                    -20.262594663198016
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542220194000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "68",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "-20.262594663580295",
+                "type": "DROUGHT",
+                "uuid": "bdb59e72-0c4c-422d-aa0b-85cdc01a41b5",
+                "update_date": "1541615502000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541615502000",
+                "snc_url": "http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf",
+                "hazard_id": "4.25845E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Drought - Central and Western Madagascar",
+                "create_date": "1541615424000",
+                "objectid": "86192",
+                "start_date": "1541615394000",
+                "longitude": "46.48615333485418",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    75.11292698353988,
+                    41.66805899372851
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542219968000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "19",
+                "master_incident_id": "",
+                "type_id": "EXTREMETEMPERATURE",
+                "latitude": "41.66805899347303",
+                "type": "EXTREMETEMPERATURE",
+                "uuid": "c4015515-4823-46e9-bb38-a3d8f470d3f3",
+                "update_date": "1541615321000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541615399000",
+                "snc_url": "http://www.cpc.ncep.noaa.gov/products/fews/AFGHANISTAN/casia_hazard.pdf",
+                "hazard_id": "4.2584E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Extreme Cold - Eastern Kazakhstan, Tajikistan, and Kyrgyzstan",
+                "create_date": "1541615219000",
+                "objectid": "86191",
+                "start_date": "1541615168000",
+                "longitude": "75.11292698338093",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.39305810862662,
+                    -11.080649875439235
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542046651000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "69",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "-11.080649875291135",
+                "type": "STORM",
+                "uuid": "2a857fc7-04aa-4bdc-b970-7839adf4432f",
+                "update_date": "1541614741000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541614898000",
+                "snc_url": "https://www.senamhi.gob.pe/?p=aviso-meteorologico-vigente&&a=2018&b=124&c=022&d=SENA#tabs-1232018",
+                "hazard_id": "4.25835E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Storms - Peru",
+                "create_date": "1541614696000",
+                "objectid": "86190",
+                "start_date": "1541614651000",
+                "longitude": "-75.39305810832894",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.444690878678333,
+                    -27.083919744490903
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542227426000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "70",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "-27.083919744394546",
+                "type": "DROUGHT",
+                "uuid": "775a611b-5126-4884-b6fb-16ab168720be",
+                "update_date": "1541613753000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541613753000",
+                "snc_url": "http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf",
+                "hazard_id": "4.24808E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Drought - Southern Botswana, South Africa, and Lesotho ",
+                "create_date": "1541014253000",
+                "objectid": "85982",
+                "start_date": "1541014226000",
+                "longitude": "26.444690878297365",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.21315694801525,
+                    15.628021582885925
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542228057000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "43",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "15.628021582688616",
+                "type": "DROUGHT",
+                "uuid": "8c3778e5-456f-491d-9932-0116ae6b6a6e",
+                "update_date": "1541612841000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541612841000",
+                "snc_url": "http://www.cpc.ncep.noaa.gov/products/fews/central_america/central_america_hazard.pdf",
+                "hazard_id": "4.21586E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Drought - Northwestern Guatemala ",
+                "create_date": "1538595709000",
+                "objectid": "85330",
+                "start_date": "1538595657000",
+                "longitude": "-91.21315694778389",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.34099999967799,
+                    -2.005000000182859
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542015081000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "71",
+                "master_incident_id": "130.1541604514523.1",
+                "type_id": "VOLCANO",
+                "latitude": "-2.005",
+                "type": "VOLCANO",
+                "uuid": "6a1ce4a3-3959-454d-9bc9-6b19d1325268",
+                "update_date": "1541604538000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541604539000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/6a1ce4a3-3959-454d-9bc9-6b19d1325268/index.html",
+                "hazard_id": "4.8275E-320",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Sangay, Ecuador",
+                "create_date": "1254960332000",
+                "objectid": "9771",
+                "start_date": "1254960332000",
+                "longitude": "-78.341",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.32399999988736,
+                    4.891999999872723
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1541995018000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "44",
+                "master_incident_id": "130.1541562993020.1",
+                "type_id": "VOLCANO",
+                "latitude": "4.892",
+                "type": "VOLCANO",
+                "uuid": "1f0f4180-4f84-4bd0-9941-cfb4679f1eba",
+                "update_date": "1541563018000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541563019000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/1f0f4180-4f84-4bd0-9941-cfb4679f1eba/index.html",
+                "hazard_id": "4.25786E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Volcano - Nevado del Ruiz, Colombia",
+                "create_date": "1541542736000",
+                "objectid": "86180",
+                "start_date": "1541542560000",
+                "longitude": "-75.324",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.58100164106698,
+                    44.34962175438035
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542056489000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "21",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "44.34962175409338",
+                "type": "FLOOD",
+                "uuid": "c246efce-7949-4e99-9e38-13975f7be011",
+                "update_date": "1541789178000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541789178000",
+                "snc_url": "http://www.meteoalarm.eu/en_UK/0/0/FR-France.html",
+                "hazard_id": "4.25356E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Floods - Southeastern France",
+                "create_date": "1541451747000",
+                "objectid": "86093",
+                "start_date": "1541451689000",
+                "longitude": "5.581001641118746",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.9310983537704156,
+                    56.722847970356725
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542046410000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "22",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "56.72284797020808",
+                "type": "FLOOD",
+                "uuid": "18064114-097a-4def-a06d-ea745ba80572",
+                "update_date": "1541788413000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541788413000",
+                "snc_url": "https://floodline.sepa.org.uk/floodupdates/",
+                "hazard_id": "4.25736E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Floods - Scotland",
+                "create_date": "1541528035000",
+                "objectid": "86170",
+                "start_date": "1541528010000",
+                "longitude": "-3.9310983541857922",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.68909258937991,
+                    30.80097679535538
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051124000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "23",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "30.80097679541806",
+                "type": "FLOOD",
+                "uuid": "98b064b2-35e4-4722-8306-931634a6a8b2",
+                "update_date": "1541788206000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541788206000",
+                "snc_url": "https://www.wpc.ncep.noaa.gov/nationalfloodoutlook/",
+                "hazard_id": "4.2329E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Floods - Southern and Central Texas, United States",
+                "create_date": "1539628348000",
+                "objectid": "85675",
+                "start_date": "1539628324000",
+                "longitude": "-98.68909258927408",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.2219218311534,
+                    43.947377299594606
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542058900000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "24",
+                "master_incident_id": "",
+                "type_id": "AVALANCHE",
+                "latitude": "43.94737729934823",
+                "type": "AVALANCHE",
+                "uuid": "3c52acd6-6422-4505-ac25-97ddd8b47ac7",
+                "update_date": "1541788171000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541788171000",
+                "snc_url": "https://avalanche.org/",
+                "hazard_id": "4.2543E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Avalanches - Bridger-Teton National Forest, Wyoming, United States",
+                "create_date": "1541454124000",
+                "objectid": "86108",
+                "start_date": "1541454100000",
+                "longitude": "-110.221921831126",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.85522301082175,
+                    4.327330841550419
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542049812000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "45",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "4.327330841907213",
+                "type": "STORM",
+                "uuid": "4613c10f-53ef-4292-bf7d-763c8a71d801",
+                "update_date": "1541786440000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541786440000",
+                "snc_url": "http://www.met.gov.my/data/IWR30002.html",
+                "hazard_id": "4.251E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Storms - Malaysia",
+                "create_date": "1541095842000",
+                "objectid": "86041",
+                "start_date": "1541095812000",
+                "longitude": "101.85522301059086",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.35741279933222,
+                    10.733272386361511
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542050636000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "46",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "10.733272386217026",
+                "type": "STORM",
+                "uuid": "3258219f-ed9f-4c96-a7fe-60a8510cb22b",
+                "update_date": "1541786382000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541786382000",
+                "snc_url": "https://ndma.gov.in/en/alerts/2069-01-nov-2018-at-2000-hrs.html",
+                "hazard_id": "4.2513E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Storms - Tamilnadu, Puducherry, and Kerala, India",
+                "create_date": "1541096702000",
+                "objectid": "86047",
+                "start_date": "1541096636000",
+                "longitude": "78.3574127990471",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.8107473522409236,
+                    51.03077310750033
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542046679000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "26",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "51.03077310777814",
+                "type": "FLOOD",
+                "uuid": "05fe1542-c668-47da-8faa-ad3cf83845e1",
+                "update_date": "1541786240000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541786240000",
+                "snc_url": "https://flood-warning-information.service.gov.uk/warnings",
+                "hazard_id": "4.25746E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Floods - Southwestern England",
+                "create_date": "1541528304000",
+                "objectid": "86172",
+                "start_date": "1541528279000",
+                "longitude": "-2.8107473522253485",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.06041523755846,
+                    45.97044209752409
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051762000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "27",
+                "master_incident_id": "",
+                "type_id": "WINTERSTORM",
+                "latitude": "45.97044209733384",
+                "type": "WINTERSTORM",
+                "uuid": "10e04cf4-33dc-4dae-a8b9-52d9952daaf3",
+                "update_date": "1541786071000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541786071000",
+                "snc_url": "http://www.cma.gov.cn/en2014/weather/Warnings/ActiveWarnings/201811/t20181108_482920.html",
+                "hazard_id": "4.2591E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Winter Storms - Central and Eastern Heilongjiang, China",
+                "create_date": "1541706196000",
+                "objectid": "86205",
+                "start_date": "1541706162000",
+                "longitude": "131.0604152375049",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.93422371906057,
+                    1.2828894848921462
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542049441000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "47",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "1.282889484793638",
+                "type": "STORM",
+                "uuid": "2483fc10-f728-4f0c-bee2-7ec561ddfcd0",
+                "update_date": "1541785970000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541785970000",
+                "snc_url": "http://www.weather.gov.sg/home/",
+                "hazard_id": "4.2114E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Storms - Singapore",
+                "create_date": "1538417084000",
+                "objectid": "85240",
+                "start_date": "1538417041000",
+                "longitude": "103.93422371885202",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    114.75546231542673,
+                    4.507864074141796
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542056773000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "48",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "4.507864074435705",
+                "type": "STORM",
+                "uuid": "14632ea9-8fda-4986-9aef-1154597d1239",
+                "update_date": "1541785889000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541785889000",
+                "snc_url": "http://www.bruneiweather.com.bn/weather",
+                "hazard_id": "4.25366E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Storms - Brunei Darussalam",
+                "create_date": "1541452006000",
+                "objectid": "86095",
+                "start_date": "1541451973000",
+                "longitude": "114.75546231509657",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    160.64199999988276,
+                    56.056000000125586
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542196739000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "28",
+                "master_incident_id": "130.1541785832345.1",
+                "type_id": "VOLCANO",
+                "latitude": "56.056",
+                "type": "VOLCANO",
+                "uuid": "87da1db8-8732-42b5-9a86-31a514f07577",
+                "update_date": "1541785862000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541785866000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/87da1db8-8732-42b5-9a86-31a514f07577/index.html",
+                "hazard_id": "4.25326E-319",
+                "severity_id": "ADVISORY",
+                "hazard_name": "Volcano - Klyuchevskoy, Russia",
+                "create_date": "1541407616000",
+                "objectid": "86087",
+                "start_date": "1541407560000",
+                "longitude": "160.642",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.38553329362773,
+                    -17.24635875609364
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542057176000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "72",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "-17.246358755691634",
+                "type": "FLOOD",
+                "uuid": "6a8dcea1-9205-4a27-9e9d-4b628ba8ca40",
+                "update_date": "1541785745000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541785745000",
+                "snc_url": "http://www.senamhi.gob.bo/alerta1.php?id=426",
+                "hazard_id": "4.2538E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Floods - Bolivia",
+                "create_date": "1541452402000",
+                "objectid": "86098",
+                "start_date": "1541452376000",
+                "longitude": "-64.38553329355443",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.81292038266563,
+                    46.39400993595989
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542050384000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "29",
+                "master_incident_id": "",
+                "type_id": "AVALANCHE",
+                "latitude": "46.39400993597311",
+                "type": "AVALANCHE",
+                "uuid": "226df927-06cb-4c6e-bb13-c4dc89eb0a60",
+                "update_date": "1541785640000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541785640000",
+                "snc_url": "https://www.natural-hazards.ch/home/current-natural-hazards.html",
+                "hazard_id": "4.2512E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Avalanches - Southern Switzerland",
+                "create_date": "1541096413000",
+                "objectid": "86045",
+                "start_date": "1541096384000",
+                "longitude": "8.812920382722268",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    74.48407490291008,
+                    35.95327211954721
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542051156000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "30",
+                "master_incident_id": "",
+                "type_id": "STORM",
+                "latitude": "35.953272119869624",
+                "type": "STORM",
+                "uuid": "75f0bbf6-d184-4a18-83a8-c419d2a38385",
+                "update_date": "1541785582000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541785582000",
+                "snc_url": "http://nwfc.pmd.gov.pk/media/index.html",
+                "hazard_id": "4.2589E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Storms - Malakand and Gilgit-Baltistan, Pakistan",
+                "create_date": "1541705583000",
+                "objectid": "86201",
+                "start_date": "1541705556000",
+                "longitude": "74.48407490275918",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    110.1557730961248,
+                    -7.1224635056004075
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1543861368000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "73",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "-7.122463505177357",
+                "type": "DROUGHT",
+                "uuid": "4ae75b38-45bf-430c-b460-9aee565016d7",
+                "update_date": "1541528642000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541528642000",
+                "snc_url": "http://adinet.ahacentre.org/reports/view/1336",
+                "hazard_id": "4.25756E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Drought - Central Java, Indonesia",
+                "create_date": "1541528593000",
+                "objectid": "86174",
+                "start_date": "1541528568000",
+                "longitude": "110.15577309636643",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.75346098221381,
+                    14.456719623097857
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542046288000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "49",
+                "master_incident_id": "",
+                "type_id": "FLOOD",
+                "latitude": "14.456719622714358",
+                "type": "FLOOD",
+                "uuid": "cc15f5ca-7e41-426e-89b5-714d46b94041",
+                "update_date": "1541786322000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541786322000",
+                "snc_url": "http://www.tmd.go.th/en/list_warning.php",
+                "hazard_id": "4.2573E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Floods - Southern Thailand",
+                "create_date": "1541527915000",
+                "objectid": "86169",
+                "start_date": "1541527888000",
+                "longitude": "100.7534609824408",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.57451134945049,
+                    4.006037574880675
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542227156000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "50",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "4.006037574807611",
+                "type": "DROUGHT",
+                "uuid": "ce3d11cf-a5bb-4742-8883-90f41cc3bfec",
+                "update_date": "1541613693000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541613693000",
+                "snc_url": "http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf",
+                "hazard_id": "4.24803E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Drought - Southeastern Ethiopia, Southern Somalia, and Eastern Kenya",
+                "create_date": "1541014019000",
+                "objectid": "85981",
+                "start_date": "1541013956000",
+                "longitude": "41.57451134978942",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    71.54910374672025,
+                    38.865121930559056
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542224263000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "31",
+                "master_incident_id": "",
+                "type_id": "WINTERSTORM",
+                "latitude": "38.86512193028535",
+                "type": "WINTERSTORM",
+                "uuid": "799d974e-e7a4-4ee4-bf41-acaf52a86ae5",
+                "update_date": "1541612891000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541612891000",
+                "snc_url": "http://www.cpc.ncep.noaa.gov/products/fews/AFGHANISTAN/casia_hazard.pdf",
+                "hazard_id": "4.24773E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Winter Storms - Northern Afghanistan, Kyrgyzstan, and Tajikistan",
+                "create_date": "1541011097000",
+                "objectid": "85975",
+                "start_date": "1541011063000",
+                "longitude": "71.54910374669544",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.8019899996153,
+                    13.678400000271987
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542223967000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "51",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "13.6784",
+                "type": "DROUGHT",
+                "uuid": "27203e1a-7f5e-450a-a019-9f6a91162f03",
+                "update_date": "1541612829000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541612829000",
+                "snc_url": "http://www.cpc.ncep.noaa.gov/products/fews/central_america/central_america_hazard.pdf",
+                "hazard_id": "4.06883E-319",
+                "severity_id": "WATCH",
+                "hazard_name": "Drought - Honduras, Eastern El Salvador, and Western Nicaragua",
+                "create_date": "1532025216000",
+                "objectid": "82354",
+                "start_date": "1532025167000",
+                "longitude": "-86.80199",
+                "status": "A"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.6902999998471,
+                    18.910560000029943
+                ],
+                "type": "Point"
+            },
+            "id": 1234,
+            "type": "Feature",
+            "properties": {
+                "end_date": "1542248585000",
+                "charter_uri": "",
+                "glide_uri": "",
+                "ESRI_OID": "32",
+                "master_incident_id": "",
+                "type_id": "DROUGHT",
+                "latitude": "18.91056",
+                "type": "DROUGHT",
+                "uuid": "32530a2c-8f8d-4e3e-97ff-701dec093d34",
+                "update_date": "1541612781000",
+                "autoexpire": "Y",
+                "category_id": "EVENT",
+                "last_update": "1541612781000",
+                "snc_url": "http://snc.pdc.org/PRODUCTION/32530a2c-8f8d-4e3e-97ff-701dec093d34/index.html",
+                "hazard_id": "4.08177E-319",
+                "severity_id": "WARNING",
+                "hazard_name": "Drought - Haiti/Dominican Republic",
+                "create_date": "1532568224000",
+                "objectid": "82616",
+                "start_date": "1532568185000",
+                "longitude": "-71.6903",
+                "status": "A"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,4331 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8210046291,
+                    1.2920393104
+                ],
+                "type": "Point"
+            },
+            "id": 1,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS001",
+                "name": "Alex Canal Sub Drain B (Prince Philip Ave)",
+                "waterLevel": "0.32",
+                "type": "#icon",
+                "desc": "Water Level=0.32 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8124215603,
+                    1.2939968244
+                ],
+                "type": "Point"
+            },
+            "id": 2,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS002",
+                "name": "Alex Canal Sub Drain A (Strathmore Ave)",
+                "waterLevel": "0.36",
+                "type": "#icon",
+                "desc": "Water Level=0.36 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8227400184,
+                    1.2889743231
+                ],
+                "type": "Point"
+            },
+            "id": 3,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS003",
+                "name": "Henderson Rd/ Henderson Cres",
+                "waterLevel": "0.38",
+                "type": "#icon",
+                "desc": "Water Level=0.38 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.890656,
+                    1.333637
+                ],
+                "type": "Point"
+            },
+            "id": 4,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS005",
+                "name": "Pelton Canal (Airport Rd)",
+                "waterLevel": "0.30",
+                "type": "#airport",
+                "desc": "Water Level=0.30 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8308617473,
+                    1.3137381343
+                ],
+                "type": "Point"
+            },
+            "id": 5,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS007",
+                "name": "Balmoral Rd",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.881306,
+                    1.341917
+                ],
+                "type": "Point"
+            },
+            "id": 6,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS008",
+                "name": "Playfair Rd OD (Bartley Rd)",
+                "waterLevel": "0.27",
+                "type": "#icon",
+                "desc": "Water Level=0.27 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8408100605,
+                    1.3473961434
+                ],
+                "type": "Point"
+            },
+            "id": 7,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS010",
+                "name": "Bishan St 21",
+                "waterLevel": "0.37",
+                "type": "#icon",
+                "desc": "Water Level=0.37 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8602614403,
+                    1.3297842023
+                ],
+                "type": "Point"
+            },
+            "id": 8,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS011",
+                "name": "BT 2nd Diversion Canal (Jln Tenteram)",
+                "waterLevel": "1.77",
+                "type": "#icon",
+                "desc": "Water Level=1.77 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8280105591,
+                    1.3197232439
+                ],
+                "type": "Point"
+            },
+            "id": 9,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS012",
+                "name": "BT Canal (Robin Dr)",
+                "waterLevel": "0.07",
+                "type": "#icon",
+                "desc": "Water Level=0.07 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8099217415,
+                    1.3243246894
+                ],
+                "type": "Point"
+            },
+            "id": 10,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS013",
+                "name": "BT Canal (Prince of Wales Rd)",
+                "waterLevel": "0.07",
+                "type": "#icon",
+                "desc": "Water Level=0.07 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8412606716,
+                    1.3131267513
+                ],
+                "type": "Point"
+            },
+            "id": 11,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS014",
+                "name": "BT Canal (Keng Lee Road)",
+                "waterLevel": "0.27",
+                "type": "#icon",
+                "desc": "Water Level=0.27 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8620531559,
+                    1.3424622385
+                ],
+                "type": "Point"
+            },
+            "id": 12,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS015",
+                "name": "Carmichael Rd OD (CTE )",
+                "waterLevel": "0.38",
+                "type": "#icon",
+                "desc": "Water Level=0.38 (0). Recorded=Mar 15 2017 10:56AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 10:56AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.842381835,
+                    1.2831688034
+                ],
+                "type": "Point"
+            },
+            "id": 13,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS016",
+                "name": "Eu Tong Seng OD (Smith St)",
+                "waterLevel": "1.32",
+                "type": "#icon",
+                "desc": "Water Level=1.32 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8085269928,
+                    1.3253651083
+                ],
+                "type": "Point"
+            },
+            "id": 14,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS017",
+                "name": "BT Canal (Duchess Rd)",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8460457325,
+                    1.2994215437
+                ],
+                "type": "Point"
+            },
+            "id": 15,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS019",
+                "name": "Stamford Canal (Handy Rd)",
+                "waterLevel": "0.30",
+                "type": "#icon",
+                "desc": "Water Level=0.30 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8803699613,
+                    1.3338815105
+                ],
+                "type": "Point"
+            },
+            "id": 16,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS020",
+                "name": "Happy Ave OD (Jln Setia)",
+                "waterLevel": "0.40",
+                "type": "#icon",
+                "desc": "Water Level=0.40 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8382700086,
+                    1.3009124679
+                ],
+                "type": "Point"
+            },
+            "id": 17,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS021",
+                "name": "Stamford Canal (313 @ Somerset)",
+                "waterLevel": "0.10",
+                "type": "#icon",
+                "desc": "Water Level=0.10 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8702392578,
+                    1.3113355055
+                ],
+                "type": "Point"
+            },
+            "id": 18,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS022",
+                "name": "Kallang River (Sims Ave)",
+                "waterLevel": "3.32",
+                "type": "#icon",
+                "desc": "Water Level=3.32 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8356360793,
+                    1.3339807253
+                ],
+                "type": "Point"
+            },
+            "id": 19,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS023",
+                "name": "Jln Mashhor OD (Behind RDA)",
+                "waterLevel": "0.09",
+                "type": "#icon",
+                "desc": "Water Level=0.09 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8965088129,
+                    1.3017249677
+                ],
+                "type": "Point"
+            },
+            "id": 20,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS024",
+                "name": "Jln Seaview",
+                "waterLevel": "0.39",
+                "type": "#icon",
+                "desc": "Water Level=0.39 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8576865196,
+                    1.3429234518
+                ],
+                "type": "Point"
+            },
+            "id": 21,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS025",
+                "name": "Kallang River (Braddell Rd)",
+                "waterLevel": "2.28",
+                "type": "#icon",
+                "desc": "Water Level=2.28 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.878712,
+                    1.32175
+                ],
+                "type": "Point"
+            },
+            "id": 22,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS026",
+                "name": "Pelton Canal (Kallang Way)",
+                "waterLevel": "0.12",
+                "type": "#icon",
+                "desc": "Water Level=0.12 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8406598568,
+                    1.300400298
+                ],
+                "type": "Point"
+            },
+            "id": 23,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS027",
+                "name": "Stamford Canal (Killiney Rd)",
+                "waterLevel": "0.08",
+                "type": "#icon",
+                "desc": "Water Level=0.08 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.868683,
+                    1.323883
+                ],
+                "type": "Point"
+            },
+            "id": 24,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS028",
+                "name": "Macpherson OD (Geylang Bahru)",
+                "waterLevel": "0.20",
+                "type": "#icon",
+                "desc": "Water Level=0.20 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.838353157,
+                    1.3488334095
+                ],
+                "type": "Point"
+            },
+            "id": 25,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS029",
+                "name": "Sg Kallang Sub Drain (Marymount Rd)",
+                "waterLevel": "0.31",
+                "type": "#icon",
+                "desc": "Water Level=0.31 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85828197,
+                    1.3546200058
+                ],
+                "type": "Point"
+            },
+            "id": 26,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS030",
+                "name": "Mei Hwa Rd/ CTE",
+                "waterLevel": "0.10",
+                "type": "#icon",
+                "desc": "Water Level=0.10 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8847848773,
+                    1.3055622153
+                ],
+                "type": "Point"
+            },
+            "id": 27,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS031",
+                "name": "Geylang River (Dakota Cres)",
+                "waterLevel": "2.10",
+                "type": "#icon",
+                "desc": "Water Level=2.10 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8286945224,
+                    1.3066187311
+                ],
+                "type": "Point"
+            },
+            "id": 28,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS032",
+                "name": "Stamford Canal (Forum)",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8289815187,
+                    1.3066509092
+                ],
+                "type": "Point"
+            },
+            "id": 29,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS033",
+                "name": "Stamford Canal (Orchard Tower)",
+                "waterLevel": "0.34",
+                "type": "#icon",
+                "desc": "Water Level=0.34 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8095059991,
+                    1.3208441097
+                ],
+                "type": "Point"
+            },
+            "id": 30,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS034",
+                "name": "Queen Rd OD (Prince Rd)",
+                "waterLevel": "0.38",
+                "type": "#icon",
+                "desc": "Water Level=0.38 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8665673137,
+                    1.3529655448
+                ],
+                "type": "Point"
+            },
+            "id": 31,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS035",
+                "name": "Lor Chuan OD (Serangoon Ave 2)",
+                "waterLevel": "0.45",
+                "type": "#icon",
+                "desc": "Water Level=0.45 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8893312216,
+                    1.3161903684
+                ],
+                "type": "Point"
+            },
+            "id": 32,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS036",
+                "name": "Sims Ave/ Lor 35 Geylang",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.81741,
+                    1.306415
+                ],
+                "type": "Point"
+            },
+            "id": 33,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS037",
+                "name": "Stamford Canal Tributary (Napier Rd)",
+                "waterLevel": "0.00",
+                "type": "#icon",
+                "desc": "Water Level=0.00 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8040316105,
+                    1.2957934455
+                ],
+                "type": "Point"
+            },
+            "id": 34,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS038",
+                "name": "Stirling Rd OD (Mei Chin Rd)",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7981522083,
+                    1.3229893058
+                ],
+                "type": "Point"
+            },
+            "id": 35,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS039",
+                "name": "Sg Namly",
+                "waterLevel": "0.34",
+                "type": "#icon",
+                "desc": "Water Level=0.34 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8955163956,
+                    1.3375551383
+                ],
+                "type": "Point"
+            },
+            "id": 36,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS040",
+                "name": "Airport Rd OD (Tai Seng Dr)",
+                "waterLevel": "0.43",
+                "type": "#airport",
+                "desc": "Water Level=0.43 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8197627664,
+                    1.3021030615
+                ],
+                "type": "Point"
+            },
+            "id": 37,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS041",
+                "name": "Camp Rd OD (Rochalie Dr)",
+                "waterLevel": "0.43",
+                "type": "#icon",
+                "desc": "Water Level=0.43 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.84745121,
+                    1.2901622408
+                ],
+                "type": "Point"
+            },
+            "id": 38,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS043",
+                "name": "S'pore River (Coleman Bridge)",
+                "waterLevel": "1.75",
+                "type": "#icon",
+                "desc": "Water Level=1.75 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8978981972,
+                    1.3261802816
+                ],
+                "type": "Point"
+            },
+            "id": 39,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS044",
+                "name": "Ubi Ave 1 / Ubi Cres",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9045286179,
+                    1.3265449643
+                ],
+                "type": "Point"
+            },
+            "id": 40,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS045",
+                "name": "Ubi Ave 1/ PIE",
+                "waterLevel": "0.34",
+                "type": "#icon",
+                "desc": "Water Level=0.34 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8834196329,
+                    1.3428215558
+                ],
+                "type": "Point"
+            },
+            "id": 41,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS046",
+                "name": "Upper Paya Lebar Rd",
+                "waterLevel": "0.09",
+                "type": "#icon",
+                "desc": "Water Level=0.09 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.861553,
+                    1.306555
+                ],
+                "type": "Point"
+            },
+            "id": 42,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS047",
+                "name": "Rochor Canal (Victoria Street)",
+                "waterLevel": "0.95",
+                "type": "#icon",
+                "desc": "Water Level=0.95 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8334527612,
+                    1.3037950978
+                ],
+                "type": "Point"
+            },
+            "id": 43,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS048",
+                "name": "Stamford Canal (Wisma Atria)",
+                "waterLevel": "0.36",
+                "type": "#icon",
+                "desc": "Water Level=0.36 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8334,
+                    1.304256
+                ],
+                "type": "Point"
+            },
+            "id": 44,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS049",
+                "name": "Stamford Canal (Lucky Plaza)",
+                "waterLevel": "0.21",
+                "type": "#icon",
+                "desc": "Water Level=0.21 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8359606266,
+                    1.3525231037
+                ],
+                "type": "Point"
+            },
+            "id": 45,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS050",
+                "name": "Upp Thomson Rd/ Jln Keli",
+                "waterLevel": "0.40",
+                "type": "#icon",
+                "desc": "Water Level=0.40 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83072,
+                    1.292297
+                ],
+                "type": "Point"
+            },
+            "id": 46,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS051",
+                "name": "Alex Canal (Zion Rd)",
+                "waterLevel": "2.27",
+                "type": "#icon",
+                "desc": "Water Level=2.27 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8652718067,
+                    1.3263331266
+                ],
+                "type": "Point"
+            },
+            "id": 47,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS052",
+                "name": "Kallang River (Jln Taman)",
+                "waterLevel": "1.85",
+                "type": "#icon",
+                "desc": "Water Level=1.85 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8119655848,
+                    1.2909184318
+                ],
+                "type": "Point"
+            },
+            "id": 48,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS055",
+                "name": "Leng Kee Rd",
+                "waterLevel": "0.27",
+                "type": "#icon",
+                "desc": "Water Level=0.27 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8727605343,
+                    1.3323342948
+                ],
+                "type": "Point"
+            },
+            "id": 49,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS056",
+                "name": "Puay Hee Ave",
+                "waterLevel": "0.11",
+                "type": "#icon",
+                "desc": "Water Level=0.11 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8871532679,
+                    1.2968124241
+                ],
+                "type": "Point"
+            },
+            "id": 50,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS057",
+                "name": "Fort Rd/ Katong Pk",
+                "waterLevel": "0.13",
+                "type": "#icon",
+                "desc": "Water Level=0.13 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9001832176,
+                    1.3160012731
+                ],
+                "type": "Point"
+            },
+            "id": 51,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS058",
+                "name": "Langsat Rd/ Lor 101 Changi",
+                "waterLevel": "0.16",
+                "type": "#icon",
+                "desc": "Water Level=0.16 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8918846846,
+                    1.307704743
+                ],
+                "type": "Point"
+            },
+            "id": 52,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS060",
+                "name": "Poole Rd PS (Wareham Rd)",
+                "waterLevel": "0.13",
+                "type": "#icon",
+                "desc": "Water Level=0.13 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8867294788,
+                    1.3052806564
+                ],
+                "type": "Point"
+            },
+            "id": 53,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS061",
+                "name": "Wimborn Rd PS",
+                "waterLevel": "0.88",
+                "type": "#icon",
+                "desc": "Water Level=0.88 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.814532,
+                    1.329058
+                ],
+                "type": "Point"
+            },
+            "id": 54,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS063",
+                "name": "Adam Rd OD (Camden Pk)",
+                "waterLevel": "0.20",
+                "type": "#icon",
+                "desc": "Water Level=0.20 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.798249,
+                    1.331897
+                ],
+                "type": "Point"
+            },
+            "id": 55,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS065",
+                "name": "Eng Neo OD (Eng Neo Ave)",
+                "waterLevel": "0.20",
+                "type": "#icon",
+                "desc": "Water Level=0.20 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.829722,
+                    1.290642
+                ],
+                "type": "Point"
+            },
+            "id": 56,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS068",
+                "name": "Indus Rd/ Ganges Ave",
+                "waterLevel": "0.36",
+                "type": "#icon",
+                "desc": "Water Level=0.36 (0). Recorded=Mar 15 2017 11:01AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:01AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.853921,
+                    1.302701
+                ],
+                "type": "Point"
+            },
+            "id": 57,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS069",
+                "name": "Bencoolen St/ Rochor Canal Rd",
+                "waterLevel": "0.43",
+                "type": "#icon",
+                "desc": "Water Level=0.43 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.859134,
+                    1.306155
+                ],
+                "type": "Point"
+            },
+            "id": 58,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS071",
+                "name": "Jln Sultan/ Rochor Canal Rd",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.860548,
+                    1.308831
+                ],
+                "type": "Point"
+            },
+            "id": 59,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS072",
+                "name": "King George's Ave at PA HQ",
+                "waterLevel": "0.25",
+                "type": "#icon",
+                "desc": "Water Level=0.25 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.850108,
+                    1.318329
+                ],
+                "type": "Point"
+            },
+            "id": 60,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS073",
+                "name": "CTE/ Moulmein Rd",
+                "waterLevel": "0.00",
+                "type": "#icon",
+                "desc": "Water Level=0.00 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.850264,
+                    1.324389
+                ],
+                "type": "Point"
+            },
+            "id": 61,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS075",
+                "name": "Mandalay Rd/ Martaban Rd",
+                "waterLevel": "0.03",
+                "type": "#icon",
+                "desc": "Water Level=0.03 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.871226,
+                    1.327215
+                ],
+                "type": "Point"
+            },
+            "id": 62,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS077",
+                "name": "Machperson OD (Macpherson Rd)",
+                "waterLevel": "0.23",
+                "type": "#icon",
+                "desc": "Water Level=0.23 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.794177,
+                    1.332227
+                ],
+                "type": "Point"
+            },
+            "id": 63,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS078",
+                "name": "BT Canal (Anamalai Ave)",
+                "waterLevel": "0.46",
+                "type": "#icon",
+                "desc": "Water Level=0.46 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.856522,
+                    1.342087
+                ],
+                "type": "Point"
+            },
+            "id": 64,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS080",
+                "name": "Kallang Subsidary Drain (Lor 8 Toa Payoh)",
+                "waterLevel": "0.45",
+                "type": "#icon",
+                "desc": "Water Level=0.45 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.901162,
+                    1.331168
+                ],
+                "type": "Point"
+            },
+            "id": 65,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS082",
+                "name": "Ubi Ave 2/ Eunos Link",
+                "waterLevel": "0.18",
+                "type": "#icon",
+                "desc": "Water Level=0.18 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8224,
+                    1.2919
+                ],
+                "type": "Point"
+            },
+            "id": 66,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS083",
+                "name": "Alex Canal (Prince Charles Crescent)",
+                "waterLevel": "2.39",
+                "type": "#icon",
+                "desc": "Water Level=2.39 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.847178,
+                    1.314245
+                ],
+                "type": "Point"
+            },
+            "id": 67,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS084",
+                "name": "Cambridge Road OD",
+                "waterLevel": "0.11",
+                "type": "#icon",
+                "desc": "Water Level=0.11 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.884266,
+                    1.341884
+                ],
+                "type": "Point"
+            },
+            "id": 68,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS096",
+                "name": "Upper Paya Lebar Rd / Lim Teck Boo Rd",
+                "waterLevel": "0.29",
+                "type": "#icon",
+                "desc": "Water Level=0.29 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.827045,
+                    1.305462
+                ],
+                "type": "Point"
+            },
+            "id": 69,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS097",
+                "name": "Cuscaden Rd / Hard Rock Cafe",
+                "waterLevel": "0.03",
+                "type": "#icon",
+                "desc": "Water Level=0.03 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.825376,
+                    1.304644
+                ],
+                "type": "Point"
+            },
+            "id": 70,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS099",
+                "name": "Cuscaden Rd / Tomlinson",
+                "waterLevel": "0.18",
+                "type": "#icon",
+                "desc": "Water Level=0.18 (0). Recorded=Mar 15 2017 10:59AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 10:59AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.85581,
+                    1.306521
+                ],
+                "type": "Point"
+            },
+            "id": 71,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS100",
+                "name": "Veerasamy Rd",
+                "waterLevel": "0.18",
+                "type": "#icon",
+                "desc": "Water Level=0.18 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.886972,
+                    1.333248
+                ],
+                "type": "Point"
+            },
+            "id": 72,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS101",
+                "name": "Macpherson Rd/ Playfair Rd",
+                "waterLevel": "0.20",
+                "type": "#icon",
+                "desc": "Water Level=0.20 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.838314,
+                    1.30027
+                ],
+                "type": "Point"
+            },
+            "id": 73,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS102",
+                "name": "Exeter Road / Somerset Rd",
+                "waterLevel": "0.20",
+                "type": "#icon",
+                "desc": "Water Level=0.20 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.852437,
+                    1.322705
+                ],
+                "type": "Point"
+            },
+            "id": 74,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS104",
+                "name": "Balestier Point",
+                "waterLevel": "0.23",
+                "type": "#icon",
+                "desc": "Water Level=0.23 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.802719,
+                    1.343253
+                ],
+                "type": "Point"
+            },
+            "id": 75,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS105",
+                "name": "PIE 22.5km",
+                "waterLevel": "0.17",
+                "type": "#icon",
+                "desc": "Water Level=0.17 (0). Recorded=Mar 15 2017 10:41AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 10:41AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.86275,
+                    1.316863
+                ],
+                "type": "Point"
+            },
+            "id": 76,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS106",
+                "name": "Boon Keng Rd / Bendemeer Rd",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.872328,
+                    1.310396
+                ],
+                "type": "Point"
+            },
+            "id": 77,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS107",
+                "name": "Lor 1 Geylang / Geylang Rd",
+                "waterLevel": "0.13",
+                "type": "#icon",
+                "desc": "Water Level=0.13 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.881167,
+                    1.341597
+                ],
+                "type": "Point"
+            },
+            "id": 78,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS109",
+                "name": "Mount Vernon Rd",
+                "waterLevel": "0.09",
+                "type": "#icon",
+                "desc": "Water Level=0.09 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.877817,
+                    1.348244
+                ],
+                "type": "Point"
+            },
+            "id": 79,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS110",
+                "name": "Lor Ong Lye / Lor Lew Lian",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.847136,
+                    1.348085
+                ],
+                "type": "Point"
+            },
+            "id": 80,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS115",
+                "name": "Bishan Rd / Bishan St 21",
+                "waterLevel": "0.27",
+                "type": "#icon",
+                "desc": "Water Level=0.27 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.847775,
+                    1.309471
+                ],
+                "type": "Point"
+            },
+            "id": 81,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS134",
+                "name": "Rochor Canal (Kampong Java Rd)",
+                "waterLevel": "0.44",
+                "type": "#icon",
+                "desc": "Water Level=0.44 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.89171,
+                    1.32574
+                ],
+                "type": "Point"
+            },
+            "id": 82,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS135",
+                "name": "Arumugam Rd",
+                "waterLevel": "0.04",
+                "type": "#icon",
+                "desc": "Water Level=0.04 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.845806,
+                    1.350083
+                ],
+                "type": "Point"
+            },
+            "id": 83,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS136",
+                "name": "Binchang Rise/Clover Close",
+                "waterLevel": "0.00",
+                "type": "#icon",
+                "desc": "Water Level=0.00 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8448,
+                    1.316556
+                ],
+                "type": "Point"
+            },
+            "id": 84,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS137",
+                "name": "Thomson Rd / Essex Rd",
+                "waterLevel": "0.21",
+                "type": "#icon",
+                "desc": "Water Level=0.21 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.840659,
+                    1.36982
+                ],
+                "type": "Point"
+            },
+            "id": 85,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS139",
+                "name": "Ang Mo Kio Ave 3/Mayflower Ave",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.829825,
+                    1.286028
+                ],
+                "type": "Point"
+            },
+            "id": 86,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS140",
+                "name": "Tiong Bahru Rd / Boon Tiong Rd",
+                "waterLevel": "0.40",
+                "type": "#icon",
+                "desc": "Water Level=0.40 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.842102,
+                    1.324721
+                ],
+                "type": "Point"
+            },
+            "id": 87,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS142",
+                "name": "Thomson Rd/Novena Rise",
+                "waterLevel": "0.03",
+                "type": "#icon",
+                "desc": "Water Level=0.03 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.892484,
+                    1.321944
+                ],
+                "type": "Point"
+            },
+            "id": 88,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS143",
+                "name": "Geylang River (CISCO Centre)",
+                "waterLevel": "0.53",
+                "type": "#icon",
+                "desc": "Water Level=0.53 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.850102,
+                    1.357544
+                ],
+                "type": "Point"
+            },
+            "id": 89,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS144",
+                "name": "Sg Kallang(Bishan Rd)",
+                "waterLevel": "0.77",
+                "type": "#icon",
+                "desc": "Water Level=0.77 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.82461,
+                    1.30492
+                ],
+                "type": "Point"
+            },
+            "id": 90,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS146",
+                "name": "The Regent Singapore/Tanglin Mall",
+                "waterLevel": "0.07",
+                "type": "#icon",
+                "desc": "Water Level=0.07 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8467772,
+                    1.307582
+                ],
+                "type": "Point"
+            },
+            "id": 91,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS147",
+                "name": "Mackenzie Road",
+                "waterLevel": "0.13",
+                "type": "#icon",
+                "desc": "Water Level=0.13 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.903482,
+                    1.300543
+                ],
+                "type": "Point"
+            },
+            "id": 92,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS148",
+                "name": "Marine Parade / Ambervilla",
+                "waterLevel": "0.08",
+                "type": "#icon",
+                "desc": "Water Level=0.08 (0). Recorded=Mar 15 2017 10:58AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 10:58AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.856698,
+                    1.324492
+                ],
+                "type": "Point"
+            },
+            "id": 93,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "CWS150",
+                "name": "Sg Whampoa (Whampoa CC)",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8002121449,
+                    1.4573283952
+                ],
+                "type": "Point"
+            },
+            "id": 94,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS001",
+                "name": "Admiralty Rd West/ Senoko South Rd",
+                "waterLevel": "0.49",
+                "type": "#icon",
+                "desc": "Water Level=0.49 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8598322868,
+                    1.3813164677
+                ],
+                "type": "Point"
+            },
+            "id": 95,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS002",
+                "name": "Mimosa Walk/ CTE",
+                "waterLevel": "0.24",
+                "type": "#icon",
+                "desc": "Water Level=0.24 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9507645369,
+                    1.3297037577
+                ],
+                "type": "Point"
+            },
+            "id": 96,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS003",
+                "name": "Bedok Canal Sub Drain (Jln Chempaka Kuning)",
+                "waterLevel": "0.86",
+                "type": "#icon",
+                "desc": "Water Level=0.86 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9489218593,
+                    1.3340826216
+                ],
+                "type": "Point"
+            },
+            "id": 97,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS004",
+                "name": "Bedok Canal (Upper Changi Rd)",
+                "waterLevel": "0.64",
+                "type": "#icon",
+                "desc": "Water Level=0.64 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9337164164,
+                    1.3354903993
+                ],
+                "type": "Point"
+            },
+            "id": 98,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS005",
+                "name": "Bedok North Ave 3",
+                "waterLevel": "0.05",
+                "type": "#icon",
+                "desc": "Water Level=0.05 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.912191,
+                    1.323703
+                ],
+                "type": "Point"
+            },
+            "id": 99,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS006",
+                "name": "Sims Ave East",
+                "waterLevel": "0.36",
+                "type": "#icon",
+                "desc": "Water Level=0.36 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8172361255,
+                    1.4024648082
+                ],
+                "type": "Point"
+            },
+            "id": 100,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS007",
+                "name": "Meng Suan OD (Mandai Rd)",
+                "waterLevel": "0.52",
+                "type": "#icon",
+                "desc": "Water Level=0.52 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8684663177,
+                    1.3862851515
+                ],
+                "type": "Point"
+            },
+            "id": 101,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS008",
+                "name": "Seletar Rd/ Neram Rd",
+                "waterLevel": "0.36",
+                "type": "#icon",
+                "desc": "Water Level=0.36 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.83404,
+                    1.448754
+                ],
+                "type": "Point"
+            },
+            "id": 102,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS009",
+                "name": "Sg Simpang Kiri (Sembwang OD No. 2)",
+                "waterLevel": "0.84",
+                "type": "#icon",
+                "desc": "Water Level=0.84 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8119387627,
+                    1.4426614099
+                ],
+                "type": "Point"
+            },
+            "id": 103,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS010",
+                "name": "Sg Sembawang (Gambas Ave)",
+                "waterLevel": "0.07",
+                "type": "#icon",
+                "desc": "Water Level=0.07 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9142918587,
+                    1.317154368
+                ],
+                "type": "Point"
+            },
+            "id": 104,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS011",
+                "name": "Siglap Canal (Frankel Walk)",
+                "waterLevel": "0.89",
+                "type": "#icon",
+                "desc": "Water Level=0.89 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8517,
+                    1.3893
+                ],
+                "type": "Point"
+            },
+            "id": 105,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS012",
+                "name": "Sg Puak Besar (Cactus Rd)",
+                "waterLevel": "0.37",
+                "type": "#icon",
+                "desc": "Water Level=0.37 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.881885,
+                    1.391568
+                ],
+                "type": "Point"
+            },
+            "id": 106,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS013",
+                "name": "Sg Punggol (Mugliston Pk)",
+                "waterLevel": "3.11",
+                "type": "#icon",
+                "desc": "Water Level=3.11 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8227748871,
+                    1.4015719
+                ],
+                "type": "Point"
+            },
+            "id": 107,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS014",
+                "name": "Sg Seletar (Nee Soon Rd)",
+                "waterLevel": "2.40",
+                "type": "#icon",
+                "desc": "Water Level=2.40 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8950832188,
+                    1.3614858729
+                ],
+                "type": "Point"
+            },
+            "id": 108,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS015",
+                "name": "Sg Serangoon Branch (Hougang Ave 7)",
+                "waterLevel": "0.47",
+                "type": "#icon",
+                "desc": "Water Level=0.47 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8962459564,
+                    1.362970056
+                ],
+                "type": "Point"
+            },
+            "id": 109,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS016",
+                "name": "Sg Serangoon Branch (Tampines Rd)",
+                "waterLevel": "0.30",
+                "type": "#icon",
+                "desc": "Water Level=0.30 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8769930601,
+                    1.382662545
+                ],
+                "type": "Point"
+            },
+            "id": 110,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS017",
+                "name": "Sg Tongkang (Lor Buangkok)",
+                "waterLevel": "0.72",
+                "type": "#icon",
+                "desc": "Water Level=0.72 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9381527901,
+                    1.3479538886
+                ],
+                "type": "Point"
+            },
+            "id": 111,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS018",
+                "name": "Tampines Ave 4",
+                "waterLevel": "0.38",
+                "type": "#icon",
+                "desc": "Water Level=0.38 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8928556442,
+                    1.3615596128
+                ],
+                "type": "Point"
+            },
+            "id": 112,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS019",
+                "name": "Tampines Rd/ Hougang Ave 7",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9738583565,
+                    1.3607873546
+                ],
+                "type": "Point"
+            },
+            "id": 113,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS020",
+                "name": "Tanah Merah Besar Rd",
+                "waterLevel": "0.29",
+                "type": "#icon",
+                "desc": "Water Level=0.29 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9246398211,
+                    1.3203373068
+                ],
+                "type": "Point"
+            },
+            "id": 114,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS021",
+                "name": "Swan Lake Ave",
+                "waterLevel": "0.05",
+                "type": "#icon",
+                "desc": "Water Level=0.05 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8634318113,
+                    1.3782060074
+                ],
+                "type": "Point"
+            },
+            "id": 115,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS022",
+                "name": "Ang Mo Kio Ave 5",
+                "waterLevel": "0.18",
+                "type": "#icon",
+                "desc": "Water Level=0.18 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9403575231,
+                    1.3136684028
+                ],
+                "type": "Point"
+            },
+            "id": 116,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS023",
+                "name": "Lucky Heights OD (Bayshore Rd)",
+                "waterLevel": "0.31",
+                "type": "#icon",
+                "desc": "Water Level=0.31 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9433911443,
+                    1.3154516147
+                ],
+                "type": "Point"
+            },
+            "id": 117,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS024",
+                "name": "Parbury Ave OD (Upp East Coast Rd)",
+                "waterLevel": "0.30",
+                "type": "#icon",
+                "desc": "Water Level=0.30 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.76185,
+                    1.426589
+                ],
+                "type": "Point"
+            },
+            "id": 118,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS025",
+                "name": "Sg Mandai (Woodlands Rd)",
+                "waterLevel": "0.42",
+                "type": "#icon",
+                "desc": "Water Level=0.42 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.773628,
+                    1.432842
+                ],
+                "type": "Point"
+            },
+            "id": 119,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS026",
+                "name": "Sg Mandai Kechil (Woodlands Ave 3)",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.810866,
+                    1.449854
+                ],
+                "type": "Point"
+            },
+            "id": 120,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS027",
+                "name": "Sg Sembwang Kechil (Woodlands Loop)",
+                "waterLevel": "0.25",
+                "type": "#icon",
+                "desc": "Water Level=0.25 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.843076,
+                    1.389275
+                ],
+                "type": "Point"
+            },
+            "id": 121,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS029",
+                "name": "Sg Seletar Simpang Kiri (Yio Chu Kang Rd)",
+                "waterLevel": "0.27",
+                "type": "#icon",
+                "desc": "Water Level=0.27 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.834557,
+                    1.39312
+                ],
+                "type": "Point"
+            },
+            "id": 122,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS030",
+                "name": "Sg Seletar Simpang Kanan A (SLE)",
+                "waterLevel": "0.38",
+                "type": "#icon",
+                "desc": "Water Level=0.38 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.951123,
+                    1.363104
+                ],
+                "type": "Point"
+            },
+            "id": 123,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS031",
+                "name": "Sg Tampines (Tampines St 43)",
+                "waterLevel": "0.00",
+                "type": "#icon",
+                "desc": "Water Level=0.00 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.975966,
+                    1.326352
+                ],
+                "type": "Point"
+            },
+            "id": 124,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS033",
+                "name": "Changi Airport Diversion Drain (Tanah Merah CC)",
+                "waterLevel": "2.15",
+                "type": "#airport",
+                "desc": "Water Level=2.15 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.963403,
+                    1.329182
+                ],
+                "type": "Point"
+            },
+            "id": 125,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS034",
+                "name": "Sg Ketapang (Xilin Ave)",
+                "waterLevel": "0.90",
+                "type": "#icon",
+                "desc": "Water Level=0.90 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.954297,
+                    1.370017
+                ],
+                "type": "Point"
+            },
+            "id": 126,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS035",
+                "name": "Sg Tampines (Pasir Ris Dr 1)",
+                "waterLevel": "1.26",
+                "type": "#icon",
+                "desc": "Water Level=1.26 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.935585,
+                    1.339199
+                ],
+                "type": "Point"
+            },
+            "id": 127,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS036",
+                "name": "Bedok Canal (Bedok Reservoir Rd)",
+                "waterLevel": "0.16",
+                "type": "#icon",
+                "desc": "Water Level=0.16 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.926514,
+                    1.309351
+                ],
+                "type": "Point"
+            },
+            "id": 128,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS038",
+                "name": "Siglap Rd/ Marine Parade Rd",
+                "waterLevel": "0.29",
+                "type": "#icon",
+                "desc": "Water Level=0.29 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.948814,
+                    1.336084
+                ],
+                "type": "Point"
+            },
+            "id": 129,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS042",
+                "name": "Bedok North Ave 4/ SBS Depot",
+                "waterLevel": "0.00",
+                "type": "#icon",
+                "desc": "Water Level=0.00 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.932994,
+                    1.316795
+                ],
+                "type": "Point"
+            },
+            "id": 130,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS044",
+                "name": "Bedok South Rd/ Bedok South Ave 1",
+                "waterLevel": "0.02",
+                "type": "#icon",
+                "desc": "Water Level=0.02 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.833522,
+                    1.376482
+                ],
+                "type": "Point"
+            },
+            "id": 131,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS045",
+                "name": "Thomson Walk",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.883508,
+                    1.3609
+                ],
+                "type": "Point"
+            },
+            "id": 132,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS046",
+                "name": "Lowland Rd/ Kovan Rd",
+                "waterLevel": "0.42",
+                "type": "#icon",
+                "desc": "Water Level=0.42 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.906306,
+                    1.317235
+                ],
+                "type": "Point"
+            },
+            "id": 133,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS047",
+                "name": "Chin Cheng Ave/ Jamiyah Children's Home",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.925222,
+                    1.319161
+                ],
+                "type": "Point"
+            },
+            "id": 134,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS050",
+                "name": "Swan Lake Ave / Fidelio Street",
+                "waterLevel": "0.05",
+                "type": "#icon",
+                "desc": "Water Level=0.05 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.873168,
+                    1.394842
+                ],
+                "type": "Point"
+            },
+            "id": 135,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS052",
+                "name": "Jalan Kayu / Sengkang West Way",
+                "waterLevel": "0.20",
+                "type": "#icon",
+                "desc": "Water Level=0.20 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.824265,
+                    1.441876
+                ],
+                "type": "Point"
+            },
+            "id": 136,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS053",
+                "name": "Sembawang Rd / Jalan Jeruju",
+                "waterLevel": "0.21",
+                "type": "#icon",
+                "desc": "Water Level=0.21 (0). Recorded=Mar 15 2017 11:01AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:01AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.817724,
+                    1.462495
+                ],
+                "type": "Point"
+            },
+            "id": 137,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS057",
+                "name": "Admiralty Rd West / Sembawang Dr",
+                "waterLevel": "0.05",
+                "type": "#icon",
+                "desc": "Water Level=0.05 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.989459,
+                    1.387866
+                ],
+                "type": "Point"
+            },
+            "id": 138,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS058",
+                "name": "Aviation Drive",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.923965,
+                    1.322686
+                ],
+                "type": "Point"
+            },
+            "id": 139,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS059",
+                "name": "Terang Bulan Ave / New Upper Changi Rd",
+                "waterLevel": "0.01",
+                "type": "#icon",
+                "desc": "Water Level=0.01 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.952332,
+                    1.326226
+                ],
+                "type": "Point"
+            },
+            "id": 140,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS060",
+                "name": "Jln Nipah",
+                "waterLevel": "0.12",
+                "type": "#icon",
+                "desc": "Water Level=0.12 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.775336,
+                    1.442219
+                ],
+                "type": "Point"
+            },
+            "id": 141,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS061",
+                "name": "Marsiling Dr / Admiralty Rd",
+                "waterLevel": "0.30",
+                "type": "#icon",
+                "desc": "Water Level=0.30 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.787148,
+                    1.42774
+                ],
+                "type": "Point"
+            },
+            "id": 142,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS062",
+                "name": "Woodlands Ave 2 / SLE",
+                "waterLevel": "0.06",
+                "type": "#icon",
+                "desc": "Water Level=0.06 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.810574,
+                    1.443857
+                ],
+                "type": "Point"
+            },
+            "id": 143,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS063",
+                "name": "Woodlands Ave 12 / Gambas Ave",
+                "waterLevel": "0.08",
+                "type": "#icon",
+                "desc": "Water Level=0.08 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.835203,
+                    1.431044
+                ],
+                "type": "Point"
+            },
+            "id": 144,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS064",
+                "name": "Yishun Ave 2 / Yishun Ave 5",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.95416,
+                    1.319342
+                ],
+                "type": "Point"
+            },
+            "id": 145,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS066",
+                "name": "Upper East Coast Rd / Jalan Haji Salam",
+                "waterLevel": "0.13",
+                "type": "#icon",
+                "desc": "Water Level=0.13 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.890797,
+                    1.37644
+                ],
+                "type": "Point"
+            },
+            "id": 146,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS075",
+                "name": "Hougang New Town OD(Hougang Ave 8)",
+                "waterLevel": "0.44",
+                "type": "#icon",
+                "desc": "Water Level=0.44 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.95165,
+                    1.33078
+                ],
+                "type": "Point"
+            },
+            "id": 147,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS079",
+                "name": "Bedok Canal(Upper Changi Rd East)",
+                "waterLevel": "1.60",
+                "type": "#icon",
+                "desc": "Water Level=1.60 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.876242,
+                    1.37974272
+                ],
+                "type": "Point"
+            },
+            "id": 148,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS081",
+                "name": "Sg Tongkang(Yio Chu Kang Rd)",
+                "waterLevel": "0.54",
+                "type": "#icon",
+                "desc": "Water Level=0.54 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.883495,
+                    1.367731
+                ],
+                "type": "Point"
+            },
+            "id": 149,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS082",
+                "name": "Poh Huat Road OD(Jln Arif)",
+                "waterLevel": "0.31",
+                "type": "#icon",
+                "desc": "Water Level=0.31 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.923187,
+                    1.322988
+                ],
+                "type": "Point"
+            },
+            "id": 150,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS084",
+                "name": "New Upp Changi Rd / Chai Chee Rd",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.890297,
+                    1.361339
+                ],
+                "type": "Point"
+            },
+            "id": 151,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "EWS085",
+                "name": "Tampines Road OD(Tampines Rd)",
+                "waterLevel": "0.25",
+                "type": "#icon",
+                "desc": "Water Level=0.25 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.802754879,
+                    1.272871683
+                ],
+                "type": "Point"
+            },
+            "id": 152,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS001",
+                "name": "Alexandra Rd/ Telok Blangah Rd",
+                "waterLevel": "0.83",
+                "type": "#icon",
+                "desc": "Water Level=0.83 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7509775162,
+                    1.3206885829
+                ],
+                "type": "Point"
+            },
+            "id": 153,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS003",
+                "name": "Sg Pandan (AYE)",
+                "waterLevel": "4.65",
+                "type": "#icon",
+                "desc": "Water Level=4.65 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7927797437,
+                    1.3326694802
+                ],
+                "type": "Point"
+            },
+            "id": 154,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS004",
+                "name": "BT 1st Diversion Canal (Sixth Ave)",
+                "waterLevel": "0.64",
+                "type": "#icon",
+                "desc": "Water Level=0.64 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7839311361,
+                    1.3358443546
+                ],
+                "type": "Point"
+            },
+            "id": 155,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS005",
+                "name": "BT Canal (Blackmore)",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7764370441,
+                    1.3397485865
+                ],
+                "type": "Point"
+            },
+            "id": 156,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS006",
+                "name": "BT Canal (Jln Jurong Kechil)",
+                "waterLevel": "0.07",
+                "type": "#icon",
+                "desc": "Water Level=0.07 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7973314524,
+                    1.3035805766
+                ],
+                "type": "Point"
+            },
+            "id": 157,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS008",
+                "name": "Commonwealth Ave/ Tanglin Halt Rd",
+                "waterLevel": "0.29",
+                "type": "#icon",
+                "desc": "Water Level=0.29 (0). Recorded=Mar 15 2017 11:01AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:01AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7974977493,
+                    1.3027975742
+                ],
+                "type": "Point"
+            },
+            "id": 158,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS009",
+                "name": "Commonwealth Ave/ Commonwealth Dr",
+                "waterLevel": "0.36",
+                "type": "#icon",
+                "desc": "Water Level=0.36 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7844005227,
+                    1.3119763855
+                ],
+                "type": "Point"
+            },
+            "id": 159,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS011",
+                "name": "Grove Dr",
+                "waterLevel": "0.33",
+                "type": "#icon",
+                "desc": "Water Level=0.33 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.6873877048,
+                    1.3279071609
+                ],
+                "type": "Point"
+            },
+            "id": 160,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS012",
+                "name": "International Rd/ 4th Lok Yang Rd",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7966582179,
+                    1.3216378324
+                ],
+                "type": "Point"
+            },
+            "id": 161,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS013",
+                "name": "Jln Haji Alias/ Jln Siantan",
+                "waterLevel": "0.30",
+                "type": "#icon",
+                "desc": "Water Level=0.30 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7663519382,
+                    1.323327174
+                ],
+                "type": "Point"
+            },
+            "id": 162,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS016",
+                "name": "Sg Ulu Pandan (Sunset Walk)",
+                "waterLevel": "0.91",
+                "type": "#icon",
+                "desc": "Water Level=0.91 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7092638016,
+                    1.3380002637
+                ],
+                "type": "Point"
+            },
+            "id": 163,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS019",
+                "name": "Sg Lanchar (Jln Boon Lay)",
+                "waterLevel": "1.03",
+                "type": "#icon",
+                "desc": "Water Level=1.03 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7490034103,
+                    1.3369062205
+                ],
+                "type": "Point"
+            },
+            "id": 164,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS020",
+                "name": "Sg Pandan (Toh Guan Rd East)",
+                "waterLevel": "0.29",
+                "type": "#icon",
+                "desc": "Water Level=0.29 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7752461433,
+                    1.3158511585
+                ],
+                "type": "Point"
+            },
+            "id": 165,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS021",
+                "name": "Ulu Pandan Canal (Pine Grove)",
+                "waterLevel": "0.43",
+                "type": "#icon",
+                "desc": "Water Level=0.43 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7911891937,
+                    1.2769637207
+                ],
+                "type": "Point"
+            },
+            "id": 166,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS022",
+                "name": "Jln Mat Jambol",
+                "waterLevel": "0.44",
+                "type": "#icon",
+                "desc": "Water Level=0.44 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.779945,
+                    1.341197
+                ],
+                "type": "Point"
+            },
+            "id": 167,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS023",
+                "name": "Jln Bingka",
+                "waterLevel": "0.07",
+                "type": "#icon",
+                "desc": "Water Level=0.07 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.739382,
+                    1.382842
+                ],
+                "type": "Point"
+            },
+            "id": 168,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS025",
+                "name": "Sg Peng Siang (Choa Chu Kang Ave 4)",
+                "waterLevel": "0.17",
+                "type": "#icon",
+                "desc": "Water Level=0.17 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.752554,
+                    1.344463
+                ],
+                "type": "Point"
+            },
+            "id": 169,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS026",
+                "name": "Sg Pandan (Bukit Batok East Ave 6)",
+                "waterLevel": "0.18",
+                "type": "#icon",
+                "desc": "Water Level=0.18 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.744239,
+                    1.344972
+                ],
+                "type": "Point"
+            },
+            "id": 170,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS027",
+                "name": "Bt Batok West Ave 8/ PIE",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.754792,
+                    1.327243
+                ],
+                "type": "Point"
+            },
+            "id": 171,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS028",
+                "name": "Toh Tuck OD (Boon Lay Way)",
+                "waterLevel": "0.16",
+                "type": "#icon",
+                "desc": "Water Level=0.16 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.72415,
+                    1.320337
+                ],
+                "type": "Point"
+            },
+            "id": 172,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS033",
+                "name": "Sg Terusan (Jln Terusan)",
+                "waterLevel": "1.71",
+                "type": "#icon",
+                "desc": "Water Level=1.71 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.701992,
+                    1.314441
+                ],
+                "type": "Point"
+            },
+            "id": 173,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS037",
+                "name": "Jurong Industrial Estate OD (Jln Buroh)",
+                "waterLevel": "2.09",
+                "type": "#icon",
+                "desc": "Water Level=2.09 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.761314,
+                    1.381139
+                ],
+                "type": "Point"
+            },
+            "id": 174,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS038",
+                "name": "Sg Pang Sua (Bt Panjang)",
+                "waterLevel": "0.00",
+                "type": "#icon",
+                "desc": "Water Level=0.00 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.761915,
+                    1.301387
+                ],
+                "type": "Point"
+            },
+            "id": 175,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS039",
+                "name": "Sg Pandan Kechil (West Coast Highway)",
+                "waterLevel": "1.13",
+                "type": "#icon",
+                "desc": "Water Level=1.13 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.759877,
+                    1.310906
+                ],
+                "type": "Point"
+            },
+            "id": 176,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS040",
+                "name": "Sg Bankong (West Coast Rd)",
+                "waterLevel": "1.04",
+                "type": "#icon",
+                "desc": "Water Level=1.04 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.776681,
+                    1.300851
+                ],
+                "type": "Point"
+            },
+            "id": 177,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS042",
+                "name": "Sg Pandan Kechil (NUS)",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.725265,
+                    1.326679
+                ],
+                "type": "Point"
+            },
+            "id": 178,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS043",
+                "name": "Yuan Ching Rd/ Yung Ho Rd",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:05AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:05AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.731166,
+                    1.382569
+                ],
+                "type": "Point"
+            },
+            "id": 179,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS044",
+                "name": "Sg Tengah Rd/ Sg Tengah Agrotechnology Pk",
+                "waterLevel": "0.12",
+                "type": "#icon",
+                "desc": "Water Level=0.12 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.783087,
+                    1.336456
+                ],
+                "type": "Point"
+            },
+            "id": 180,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS045",
+                "name": "Sime Darby  Centre",
+                "waterLevel": "0.24",
+                "type": "#icon",
+                "desc": "Water Level=0.24 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.766003,
+                    1.367585
+                ],
+                "type": "Point"
+            },
+            "id": 181,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS046",
+                "name": "Upp Bt Timah Rd (St Joseph Church)",
+                "waterLevel": "0.04",
+                "type": "#icon",
+                "desc": "Water Level=0.04 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.788697,
+                    1.334085
+                ],
+                "type": "Point"
+            },
+            "id": 182,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS050",
+                "name": "BT Canal (Jln Kampong Chantek)",
+                "waterLevel": "0.41",
+                "type": "#icon",
+                "desc": "Water Level=0.41 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7566,
+                    1.386654
+                ],
+                "type": "Point"
+            },
+            "id": 183,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS061",
+                "name": "Woodlands Rd / KJE",
+                "waterLevel": "0.12",
+                "type": "#icon",
+                "desc": "Water Level=0.12 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.76506,
+                    1.336669
+                ],
+                "type": "Point"
+            },
+            "id": 184,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS062",
+                "name": "Lor Kismis",
+                "waterLevel": "0.53",
+                "type": "#icon",
+                "desc": "Water Level=0.53 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8258,
+                    1.270883
+                ],
+                "type": "Point"
+            },
+            "id": 185,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS063",
+                "name": "Kg Bahru Rd",
+                "waterLevel": "0.38",
+                "type": "#icon",
+                "desc": "Water Level=0.38 (0). Recorded=Mar 15 2017 11:07AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:07AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7551,
+                    1.412984
+                ],
+                "type": "Point"
+            },
+            "id": 186,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS065",
+                "name": "Woodlands Rd / Mandai Rd",
+                "waterLevel": "0.77",
+                "type": "#icon",
+                "desc": "Water Level=0.77 (0). Recorded=Mar 15 2017 11:12AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:12AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.768538,
+                    1.293357
+                ],
+                "type": "Point"
+            },
+            "id": 187,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS066",
+                "name": "Clementi Rd / West Coast Rd",
+                "waterLevel": "0.22",
+                "type": "#icon",
+                "desc": "Water Level=0.22 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.765244,
+                    1.316169
+                ],
+                "type": "Point"
+            },
+            "id": 188,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS067",
+                "name": "Clementi Ave 4 / Commonwealth Ave West",
+                "waterLevel": "0.02",
+                "type": "#icon",
+                "desc": "Water Level=0.02 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.771128,
+                    1.319543
+                ],
+                "type": "Point"
+            },
+            "id": 189,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS068",
+                "name": "Ulu Pandan Rd / Clementi Rd",
+                "waterLevel": "0.00",
+                "type": "#icon",
+                "desc": "Water Level=0.00 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.768226,
+                    1.292486
+                ],
+                "type": "Point"
+            },
+            "id": 190,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS069",
+                "name": "Clementi Rd/Pasir Panjang Rd",
+                "waterLevel": "0.12",
+                "type": "#icon",
+                "desc": "Water Level=0.12 (0). Recorded=Mar 15 2017 11:11AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:11AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.768309,
+                    1.335386
+                ],
+                "type": "Point"
+            },
+            "id": 191,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS070",
+                "name": "Eng Kong Crescent",
+                "waterLevel": "0.17",
+                "type": "#icon",
+                "desc": "Water Level=0.17 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.768646,
+                    1.292225
+                ],
+                "type": "Point"
+            },
+            "id": 192,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS071",
+                "name": "Neo Pee Teck Lane / Pasir Panjang Rd",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.742981,
+                    1.43858
+                ],
+                "type": "Point"
+            },
+            "id": 193,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS072",
+                "name": "Kranji Way",
+                "waterLevel": "0.18",
+                "type": "#icon",
+                "desc": "Water Level=0.18 (0). Recorded=Mar 15 2017 11:02AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:02AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.733662,
+                    1.306863
+                ],
+                "type": "Point"
+            },
+            "id": 194,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS073",
+                "name": "Tanjong Penjuru / Penjuru Rd",
+                "waterLevel": "0.27",
+                "type": "#icon",
+                "desc": "Water Level=0.27 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.715121,
+                    1.334283
+                ],
+                "type": "Point"
+            },
+            "id": 195,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS075",
+                "name": "Chin Bee Ave / Third Chin Bee Rd",
+                "waterLevel": "0.25",
+                "type": "#icon",
+                "desc": "Water Level=0.25 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.724807,
+                    1.331496
+                ],
+                "type": "Point"
+            },
+            "id": 196,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS076",
+                "name": "Yuan Ching Rd / Yung Kuang Rd",
+                "waterLevel": "0.19",
+                "type": "#icon",
+                "desc": "Water Level=0.19 (0). Recorded=Mar 15 2017 11:04AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:04AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.715909,
+                    1.327303
+                ],
+                "type": "Point"
+            },
+            "id": 197,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS082",
+                "name": "Chin Bee OD(Jalan Tukang)",
+                "waterLevel": "0.23",
+                "type": "#icon",
+                "desc": "Water Level=0.23 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.665838,
+                    1.325881
+                ],
+                "type": "Point"
+            },
+            "id": 198,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS083",
+                "name": "PIE/Tuas Exit",
+                "waterLevel": "0.12",
+                "type": "#icon",
+                "desc": "Water Level=0.12 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.76611,
+                    1.32582
+                ],
+                "type": "Point"
+            },
+            "id": 199,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS084",
+                "name": "Sunset Dr/Sunset way",
+                "waterLevel": "0.23",
+                "type": "#icon",
+                "desc": "Water Level=0.23 (0). Recorded=Mar 15 2017 11:06AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:06AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.76963,
+                    1.32067
+                ],
+                "type": "Point"
+            },
+            "id": 200,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS086",
+                "name": "Clementi Rd/Sunset Lane",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7213324,
+                    1.3448929
+                ],
+                "type": "Point"
+            },
+            "id": 201,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS088",
+                "name": "Boon Lay Way/Jurong West St 51",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.670692,
+                    1.311285
+                ],
+                "type": "Point"
+            },
+            "id": 202,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS089",
+                "name": "Gul Way/Pioneer Rd",
+                "waterLevel": "0.21",
+                "type": "#icon",
+                "desc": "Water Level=0.21 (0). Recorded=Mar 15 2017 11:08AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:08AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.707201,
+                    1.333747
+                ],
+                "type": "Point"
+            },
+            "id": 203,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS091",
+                "name": "Enterprise Rd",
+                "waterLevel": "0.50",
+                "type": "#icon",
+                "desc": "Water Level=0.50 (0). Recorded=Mar 15 2017 11:09AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:09AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7067,
+                    1.332869
+                ],
+                "type": "Point"
+            },
+            "id": 204,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS092",
+                "name": "Jurong Industrial Estate OD(Enterprise Rd)",
+                "waterLevel": "0.61",
+                "type": "#icon",
+                "desc": "Water Level=0.61 (0). Recorded=Mar 15 2017 11:10AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:10AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.75273,
+                    1.392433
+                ],
+                "type": "Point"
+            },
+            "id": 205,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS093",
+                "name": "Sg Pang Sua (Stagmont Ring)",
+                "waterLevel": "0.80",
+                "type": "#icon",
+                "desc": "Water Level=0.80 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.676498,
+                    1.312494
+                ],
+                "type": "Point"
+            },
+            "id": 206,
+            "type": "Feature",
+            "properties": {
+                "statusDesc": "0-75% full",
+                "code": "WWS094",
+                "name": "Gul Circle",
+                "waterLevel": "0.15",
+                "type": "#icon",
+                "desc": "Water Level=0.15 (0). Recorded=Mar 15 2017 11:03AM",
+                "statusCode": "fs_green",
+                "createDateTime": "Mar 15 2017 11:03AM"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

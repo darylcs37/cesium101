@@ -1,0 +1,345 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "properties": {
+                "desc": "Vehicle breakdown on TPE towards SLE after Tampines Ave 7 Exit.",
+                "DateTimeCreated": "201610051253",
+                "name": "vehiclebreakdown",
+                "type": "#traffic_vehiclebreakdown"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95579785486801,
+                    1.3646313602516138
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "desc": "Vehicle breakdown on PIE towards Tuas after BKE.",
+                "DateTimeCreated": "201610051251",
+                "name": "vehiclebreakdown",
+                "type": "#traffic_vehiclebreakdown"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.79073273379551,
+                    1.3489581336696777
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "desc": "Heavy Traffic on PIE towards Changi Airport at Paya Lebar Rd Exit.",
+                "DateTimeCreated": "201610051205",
+                "name": "heavytraffic",
+                "type": "#traffic_heavytraffic"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88814960737488,
+                    1.3225253572272722
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "desc": "Roadworks on TPE towards PIE after SLE Entrance.",
+                "DateTimeCreated": "201610051119",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86439047730418,
+                    1.4010233999770125
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "desc": "Roadworks on PIE towards Changi Airport before Pasir Laba. Avoid lane 3.",
+                "DateTimeCreated": "201610051049",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.66390997897193,
+                    1.3234119333515104
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "desc": "Roadworks on AYE towards MCE before Clementi Ave 2 Exit. Avoid lane 4.",
+                "DateTimeCreated": "201610051046",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76314208806826,
+                    1.3116431687624601
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "desc": "Roadworks on ECP towards City before PIE Tuas Exit. Avoid lane 1.",
+                "DateTimeCreated": "201610051039",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.98160985489099,
+                    1.3408426931838693
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "desc": "Roadworks on PIE towards Changi Airport before Jalan Bahar.",
+                "DateTimeCreated": "201610051033",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.69430659007489,
+                    1.35039586838276
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "desc": "Roadworks on PIE towards Tuas after Upper Changi Rd East.",
+                "DateTimeCreated": "201610051027",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.96157292324376,
+                    1.350493963956462
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "desc": "Roadworks on KJE towards PIE at Woodlands Rd Exit.",
+                "DateTimeCreated": "201610051014",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7610048297995,
+                    1.389681368444111
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "desc": "Roadworks on TPE towards PIE before Loyang Ave Exit. Avoid lane 1.",
+                "DateTimeCreated": "201610051013",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95917831907003,
+                    1.3624558512969103
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "desc": "Roadworks on ECP towards City after PIE Tuas Exit. Avoid lane 3.",
+                "DateTimeCreated": "201610051012",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.97483839053804,
+                    1.329154456602018
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "desc": "Roadworks on PIE towards Tuas after Jurong East Ave 2. Avoid lane 3.",
+                "DateTimeCreated": "201610051007",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7291163863606,
+                    1.353005357242212
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "desc": "Roadworks on ECP towards Changi Airport at Bedok Exit.",
+                "DateTimeCreated": "201610051004",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.93367053222283,
+                    1.309060913576832
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "desc": "Roadworks on CTE towards SLE after Braddell Rd Exit.",
+                "DateTimeCreated": "201610051000",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85775437870747,
+                    1.3507956835460535
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "desc": "Roadworks on BKE towards PIE after Mandai Rd Exit.",
+                "DateTimeCreated": "201610050959",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77391464396683,
+                    1.3989875159995504
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "desc": "Roadworks on SLE towards BKE at TPE PIE Exit.",
+                "DateTimeCreated": "201610050956",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8577852768159,
+                    1.3938102241619672
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "desc": "Roadworks on PIE towards Changi Airport at TPE Exit.",
+                "DateTimeCreated": "201610050947",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.96380069385825,
+                    1.3532716790991202
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "desc": "Roadworks on TPE towards SLE before CTE Exit.",
+                "DateTimeCreated": "201610050944",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86218273125084,
+                    1.4008609330337158
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "desc": "Roadworks on PIE towards Changi Airport before Tampines St 31. Avoid lane 3.",
+                "DateTimeCreated": "201610050937",
+                "name": "roadwork",
+                "type": "#traffic_roadwork"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95593053457581,
+                    1.3492304165044235
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
