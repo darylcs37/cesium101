@@ -4,7 +4,7 @@
 
 		var imageryViewModels = [];
 //		var imageURL = 'http://localhost:8080/cesium/Apps/sg_cesium/images/imageProvider/';
-    var imageURL = '../../Apps/cesium101/images/imageProvider/';
+                var imageURL = '../../Apps/images/imageProvider/';
 
 		var baseMap_OSM                = 0;
 		var baseMap_Bing               = 1;
