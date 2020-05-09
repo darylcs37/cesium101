@@ -27,8 +27,6 @@
 			globe : viewer.scene.globe,
 			imageryProviderViewModels        : imageryViewModels,
 			selectedImageryProviderViewModel : imageryViewModels[baseMap_default],
-//			terrainProviderViewModels        : terrainViewModels,
-//			selectedTerrainProviderViewModel : terrainViewModels[0]
 		});
 
 		//----------------------------------------------------------------------------
