@@ -1,10 +1,6 @@
-<li/>   <a href="https://darylcs37.github.io/cesium101/Apps/HelloWorld.html"> HelloWorld </a> 
+# Cesium 101
+<li/>   <a href="https://darylcs37.github.io/cesium101/Apps/HelloWorld.html"> Hello World </a> 
 <li/>   <a href="https://darylcs37.github.io/cesium101/Apps/cesium_basemap overlays.htm"> Basemap & Overlays </a>
-
-You can use the [editor on GitHub](https://github.com/darylcs37/cesium101/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
