@@ -1,4 +1,5 @@
 <li/>   <a href="https://darylcs37.github.io/cesium101/Apps/HelloWorld.html"> HelloWorld </a> 
+<li/>   <a href="https://darylcs37.github.io/cesium101/Apps/cesium_basemap overlays.htm"> Basemap & Overlays </a>
 
 You can use the [editor on GitHub](https://github.com/darylcs37/cesium101/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
