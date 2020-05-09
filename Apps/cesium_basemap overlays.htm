@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Use correct character set. -->
+  <meta charset="utf-8">
+  <!-- Tell IE to use the latest, best version. -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+
+
+  <title>	Cesium 101	</title>
+  <script src="../../Build/Cesium/Cesium.js"></script>
+
+  <!-- compass  -->
+  <!-- script src="script/viewerCesiumNavigationMixin.min.js"></script -->
+
+  <style>
+  @import url(../../Build/Cesium/Widgets/widgets.css);
+  html, body, #cesiumContainer {
+    width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden;
+  }
+
+  table.roundedCorners {
+    border: 3px solid DarkOrange;
+    border-radius: 13px;
+    border-spacing: 0;
+  }
+
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="css/BaseLayerPicker.css" />
+
+  <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+  <link rel="stylesheet" type="text/css" href="css/demo.css" />
+  <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.2.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" type="text/css" href="css/menu_cornermorph.css" />
+  <link rel="stylesheet" type="text/css" href="css/menu_height.css" />
+  <!--[if IE]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="css/cesium_style.css" />
+
+  <script>
+  function toggle_visibility(id, dsType) {
+    if (id.checked) {
+      if (!viewer.dataSources.contains(dsType))
+      viewer.dataSources.add(dsType);
+    }
+    else {
+      if (viewer.dataSources.contains(dsType))
+      viewer.dataSources.remove(dsType);
+    }
+    console.warn('Display updated successfully '+ id.checked);
+  }
+  //---------------------------------------------------------------------------
+  function toggle_sgdata(id) {
+    if (id.checked) {
+      if (!viewer.dataSources.contains(dsTrafficNews)) {
+        viewer.dataSources.add(dsTrafficNews);
+        viewer.dataSources.add(dsFloodSensor);
+      }
+    }
+    else {
+      if (viewer.dataSources.contains(dsTrafficNews)) {
+        viewer.dataSources.remove(dsTrafficNews);
+        viewer.dataSources.remove(dsFloodSensor);
+      }
+    }
+    console.warn('Display updated successfully '+ id.checked);
+  }
+  //---------------------------------------------------------------------------
+  function toggle_flightplan(id) {
+    if (id.checked) {
+      if (!viewer.dataSources.contains(dsFlightPlans)) {
+        viewer.dataSources.add(dsFlightPlans);
+      }
+    }
+    else {
+      if (viewer.dataSources.contains(dsFlightPlans)) {
+        viewer.dataSources.remove(dsFlightPlans);
+
+      }
+    }
+  }
+  //---------------------------------------------------------------------------
+  function toggle_satTelos(id) {
+    if (id.checked) {
+      if (!viewer.dataSources.contains(dsSatTelos)) {
+        viewer.dataSources.add(dsSatTelos);
+      }
+    }
+    else {
+      if (viewer.dataSources.contains(dsSatTelos)) {
+        viewer.dataSources.remove(dsSatTelos);
+
+      }
+    }
+  }
+  //---------------------------------------------------------------------------
+  // Basemap
+  function toggle_basemap(id, lyrBaseMap) {
+    if (id.checked) {
+      if (layers.contains(lyrBaseMap)) {
+        //					layers.raiseToTop(lyrBaseMap);
+        lyrBaseMap.alpha = 0.5;
+        layers.add(lyrBaseMap);
+
+        console.warn('Toggle BaseMap - TOP');
+      }
+    }
+    else {
+      if (layers.contains(lyrBaseMap)) {
+        //					layers.lowerToBottom(lyrBaseMap);
+        lyrBaseMap.alpha = 0.0;
+        layers.remove(lyrBaseMap, false);
+        console.warn('Toggle BaseMap - BOTTOM');
+      }
+    }
+    console.warn('Toggle BaseMap '+ id.checked);
+  }
+
+
+
+
+  </script>
+  <script src="script/cesium_4style.js"></script>
+
+</head>
+<body>
+  <div id="cesiumContainer"></div>
+  <div id="baseLayerPickerContainer" style="position:absolute;top:24px;right:24px;width:38px;height:38px;"></div>
+
+  <script src="script/cesium_1config.js"></script>
+  <script src="script/cesium_2baseMap.js"></script>
+  <script src="script/cesium_3main.js"></script>
+  <script src="script/cesium_4overlays.js"></script>
+
+  <!-- css/menu_height.css .show-menu .menu-wrap 500px -->
+  <div class="container">
+    <div class="menu-wrap">
+      <nav class="menu">
+        <div class="profile"><img src="images/globe.png" alt="Globe"/><span>Static</span></div>
+        <div class="link-list">
+          <a href="#"><span>Runway 		&nbsp <input type="checkbox" id="chk01" onclick="toggle_visibility(chk01, dsRunway);"/></span></a>
+          <a href="#"><span>Drone	No-Fly zone	&nbsp	<input type="checkbox" id="chk02" onclick="toggle_visibility(chk02, dsDrone);"/></span></a>
+          <a href="#"><span>Sea Ports		&nbsp <input type="checkbox" id="chk04" onclick="toggle_visibility(chk04, dsSeaPort);"/></span></a>
+          <a href="#"><span>Police			&nbsp <input type="checkbox" id="chk05" onclick="toggle_visibility(chk05, dsPolice);" /></span></a>
+          <a href="#"><span>FireStation		&nbsp <input type="checkbox" id="chk06" onclick="toggle_visibility(chk06, dsFireStation);" /></span></a>
+          <a href="#"><span>Hospital		&nbsp <input type="checkbox" id="chk07" onclick="toggle_visibility(chk07, dsHospital);" /></span></a>
+          <a href="#"><span>School			&nbsp <input type="checkbox" id="chk08" onclick="toggle_visibility(chk08, dsSchool);" /></span></a>
+          <a href="#"><span>3D Building		&nbsp <input type="checkbox" id="chk10" onclick="toggle_visibility(chk10, dsSGOutram);" /></span></a>
+
+        </div>
+        <div class="profile"><img src="images/globe.png" alt="Globe2"/><span>Dynamic</span></div>
+        <div class="link-list">
+          <a href="#"><span>Weather - PDC	&nbsp <input type="checkbox" id="chk101" onclick="toggle_visibility(chk101, dsWeatherPDC);"/></span></a>
+          <a href="#"><span>SG (Traffic / Flood)	&nbsp <input type="checkbox" id="chk102" onclick="toggle_sgdata(chk102);"/></span></a>
+          <a href="#"><span>OneService.SG	&nbsp <input type="checkbox" id="chk103" onclick="toggle_visibility(chk103, dsOneServiceSG);"/></span></a>
+
+
+          <a href="#"><span>Flight Plans		&nbsp <input type="checkbox" id="chk104" onclick="toggle_flightplan(chk104);"/></span></a>
+          <a href="#"><span>Air Tracks		&nbsp <input type="checkbox" id="chk105" onclick="toggle_visibility(chk105, dsAirTracks);" /></span></a>
+
+          <a href="#"><span>Camera Traffic		&nbsp <input type="checkbox" id="chk201" onclick="toggle_visibility(chk201, dsCamTraffic);" /></span></a>
+          <a href="#"><span>Camera Flood		&nbsp <input type="checkbox" id="chk202" onclick="toggle_visibility(chk202, dsCamFlood);" /></span></a>
+
+          <!-- Overlay maps -->
+          <a href="#"><span>Population Density	&nbsp <input type="checkbox" id="chkBM01" onclick="toggle_basemap(chkBM01, lyrPopulationDensity);"/>
+
+          </span></a>
+
+        </div>
+        <div class="icon-list">
+          <!--
+          <a href="#"><i class="fa fa-fw fa-home"></i></a>
+          <a href="#"><i class="fa fa-fw fa-question-circle"></i></a>
+          <a href="#"><i class="fa fa-fw fa-power-off"></i></a>
+        -->
+      </div>
+    </nav>
+  </div>
+  <button class="menu-button" id="open-button"><i class="fa fa-fw fa-cog"></i><span>Open Menu</span></button>
+
+</div><!-- /container -->
+
+<script src="script/data_geojson.js"></script>
+
+<!-- Camera Flood and Traffic -->
+<script src="script/data_cctv.js"></script>
+<script src="script/data_flightplan.js"></script>
+
+<script src="script/classie.js"></script>
+<script src="script/main.js"></script>
+
+<script src="script/cesium_5camera.js"></script>
+
+
+<!--SET visibility  hidden OR display -->
+<div id="bottom-left" style="vertical-align:middle;visibility:display;">
+  <table style="width:220px; height:30px;" cellpadding="0" cellspacing="0" broder="0">
+    <td style="vertical-align:middle;background-color:#00000a;"><img src="images/logo_HERE.png" height="30"/>&nbsp</td>
+    <td style="vertical-align:middle;background-color:#00000a;color:#fffffd">Logo HERE</td>
+    <td style="background-color:#00000a;"><img src="images/red_triangle.gif" width="10" height="30"/></td>
+  </table>
+</div>
+
+<!-- Hotkeys -->
+<button onclick="getCameraLookingAt();" accessKey="0" style="display: none;">	Get Camnera LookAt		</button>
+
+<button onclick="Flyover_Cameras(103.845316, 1.265049, 2272.470709, 0.12, -0.87205749982932, 0.00002759219870007712);" accessKey="1" style="display: none;">	SG CBD	</button>
+<button onclick="Flyover_Cameras(103.802550, 1.231075, 7575.247266, 0.68, -0.8993246689386765, 0.00014477741656993004);" accessKey="2" style="display: none;">	SG CBD	</button>
+<button onclick="Flyover_Cameras(103.888451, 1.259786, 5927.320743, 5.24, -0.8954584128749556, 6.282981463642372);" accessKey="3" style="display: none;">		SG CBD	</button>
+<button onclick="Flyover_Cameras(103.880712, 1.324944, 7954.066561, 3.71, -1.0295551081315781, 6.2830306871226576);" accessKey="4" style="display: none;">		SG CBD	</button>
+
+<button onclick="Flyover_Cameras(-112.384505, 33.505606, 3130.593320, 6.28, -0.8694384674701534, 6.283181064753933);" accessKey="5" style="display: none;">	US Luke AFB	</button>
+<button onclick="Flyover_Cameras(-112.727190, 32.860232, 2137.586135, 6.25, -0.7389838696138153, 6.282956234724171);" accessKey="6" style="display: none;">		US Gila Bend	</button>
+
+<button onclick="Flyover_Cameras(108.108372, 8.373671, 3241589.925570, 0.00, -1.5704560010018787, 0);" accessKey="0" style="display: none;">		SEA overview	</button>
+
+
+</body>
+</html>
