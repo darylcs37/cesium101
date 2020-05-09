@@ -1,0 +1,26 @@
+#container
+{
+	width: 300px;
+	height: 200px;
+	border: solid 1px #000;
+	position: relative;
+}
+
+#bottom-right
+{
+	right       : 0;
+	bottom      : 0;
+	font-family : Sans-serif, Monospace;
+	position    : absolute;
+}
+
+#bottom-left
+{
+	z-index     : 99999999;
+	left        : 0;
+	bottom      : 0;
+	font-family : Sans-serif, Monospace;
+	font-size: 60%;
+//	font-size:0.7em;
+	position    : absolute;
+}
